@@ -1,0 +1,2480 @@
+,County,Price,Primary category,Venue Name,Venue id
+0,Alameda,1,Ice Cream Shop,Tucker's Ice Cream,4645bd20f964a5207e461fe3
+1,Alameda,1,Burger Joint,In-N-Out Burger,5516cea6498ea63bf9695e68
+2,Alameda,1,Brewery,Faction Brewing,50c3b212498ef1fd446e75b2
+3,Alameda,1,Café,Julie's Coffee & Tea Shop,4ae61a25f964a520b9a421e3
+4,Alameda,1,Pizza Place,The Star,59f68b9286f4cc308a07fe90
+5,Alameda,1,Middle Eastern Restaurant,Troy,4b6a2e45f964a520dfcb2be3
+6,Alameda,1,Southern / Soul Food Restaurant,Neptune's,5900f57a1acf11282734b70f
+7,Alameda,1,Coffee Shop,Peet's Coffee & Tea,571cfe7e498e8f11031aa749
+8,Alameda,1,Ice Cream Shop,Cookiebar Creamery,52745d9711d2c881ccf7cff3
+9,Alameda,1,Burger Joint,Scolari's @ The Point,52741ea511d2d2573ba61000
+10,Alameda,1,Burger Joint,The Habit Burger Grill,54c98d59498e5ca9c5604e1c
+11,Alameda,1,Hot Dog Joint,Doggy-Style Hot Dogs,4e6acf1e18a83989eca2e245
+12,Alameda,1,Salad Place,Greens & Grains,501d8efbe4b0d7d701e4985a
+13,Alameda,1,Mexican Restaurant,Cholita Linda,5b80c1166e4650002cafa8d1
+14,Alameda,1,Coffee Shop,Peet's Coffee & Tea,4a8a0793f964a520b30920e3
+15,Alameda,1,Dive Bar,Lucky 13,45ec4859f964a520a2431fe3
+16,Alameda,1,Afghan Restaurant,Q's Halal Chicken,5143dcb6e4b0acadf2cbb9dc
+17,Alameda,1,Street Food Gathering,Off the Grid: Alameda,4fc1b8e2e4b04422a1439c7e
+18,Alameda,1,Mexican Restaurant,Chipotle Mexican Grill,4b381043f964a520104b25e3
+19,Alameda,1,Frozen Yogurt Shop,Yogurtland,55ff30fb498ee8426d8b9f43
+20,Alameda,1,Moroccan Restaurant,Abigail Cafe & Deli,4c8ab0351797236a6ffb6388
+21,Alameda,1,Bar,The Fireside Lounge,4df1c239ae609e69dd9261fa
+22,Alameda,1,Thai Restaurant,Thai Noodle House of Alameda,4b08c390f964a520001223e3
+23,Alameda,1,Bakery,Crispian Bakery,55b3c96d498e4c7fcec42220
+24,Alameda,1,Donut Shop,Lee's Donuts,4ba4ff7bf964a5203dce38e3
+25,Alameda,1,Italian Restaurant,La Val's Pizza,4b141c5bf964a5207b9d23e3
+26,Alameda,1,Deli / Bodega,Santoro's,4be2d4cc21d5a59343651711
+27,Alameda,1,Taco Place,Calafia Taqueria,4b1484b8f964a52027a423e3
+28,Alameda,1,Noodle House,Wild Ginger,597ce11e851de5170ce4d729
+29,Alameda,1,Deli / Bodega,Domenico's Italian Deli,4b2d55f9f964a5207dd424e3
+30,Alameda,2,Brewery,Almanac Beer Co. Barrel House & Taproom,5a7283c6e1791027d6d0aae8
+31,Alameda,2,Vietnamese Restaurant,Sidestreet Pho,5127d17de4b02a1718eab694
+32,Alameda,2,Burmese Restaurant,Burma Superstar,4b3fcf3cf964a52058af25e3
+33,Alameda,2,History Museum,"USS Hornet - Sea, Air and Space Museum",4a6cbe2df964a5207dd11fe3
+34,Alameda,2,Bakery,Feel Good Bakery,4ad2669df964a52067e120e3
+35,Alameda,2,Bar,American Oak,4f178073e4b04c15e631fec6
+36,Alameda,2,Tiki Bar,Forbidden Island,45e6b309f964a5204c431fe3
+37,Alameda,2,German Restaurant,Speisekammer,463de5c9f964a5203f461fe3
+38,Alameda,2,Brewery,Alameda Island Brewing Company,5484ccdf498e236a048e14aa
+39,Alameda,2,Sushi Restaurant,Utzutzu,5ad96b9f9be5224883d57fe7
+40,Alameda,2,American Restaurant,Scolari's Good Eats,4c51f2fe9d642d7f4e8f6bde
+41,Alameda,2,Coffee Shop,Blue Dot,4a709af4f964a520ebd71fe3
+42,Alameda,2,Diner,Ole's Waffle Shop,4a5a9e6af964a520a9ba1fe3
+43,Alameda,2,Winery,Rock Wall Wine Company,4abe54d4f964a520ca8c20e3
+44,Alameda,2,Middle Eastern Restaurant,Angela's,55ed0e49498e815d60111165
+45,Alameda,2,Mexican Restaurant,La Penca Azul,4c8c456e5e048cfa62aecbcd
+46,Alameda,2,Café,WesCafe,4b0316d3f964a520914c22e3
+47,Alameda,2,Eastern European Restaurant,Mama Papa Lithuania Restaurant & Tea House,52a4fa3d498ef887434020b4
+48,Alameda,2,Pizza Place,East End,4dbb13251e72b351ca8fec4a
+49,Alameda,2,Seafood Restaurant,East Ocean Seafood Restaurant,4adb6e82f964a520622721e3
+50,Alameda,2,Vietnamese Restaurant,Dragon Rouge,4a876762f964a5203c0420e3
+51,Alameda,2,Eastern European Restaurant,Aria supermarket,4c1aea5e8b3aa593957e965f
+52,Alameda,2,Indian Restaurant,Curry Up Now,593da6da3fcee814ad98a2cd
+53,Alameda,2,Mexican Restaurant,La Penca Azul,4b88825ef964a52021fd31e3
+54,Alameda,2,Sushi Restaurant,Yojimbo Sushi,4b230913f964a520785224e3
+55,Alameda,2,Café,Café Jolie,4f5d00d9e4b0090c0aff6dc6
+56,Alameda,2,Thai Restaurant,Monkey Thai,51f32a86498e6dc75cb2a114
+57,Alameda,2,New American Restaurant,The Hobnob,4a5bd49ef964a520d5bb1fe3
+58,Alameda,2,Juice Bar,Jamba Juice,4af5a72bf964a520ddfa21e3
+59,Alameda,2,American Restaurant,1400 Bar & Grill,4e3a0e481838961afefc0627
+60,Alameda,3,Italian Restaurant,Trabocco Kitchen and Cocktails,52a8c5e911d28b6a4122b614
+61,Amador,1,Bakery,Andrae's Bakery,4baf988bf964a520760e3ce3
+62,Amador,1,Ice Cream Shop,Munnerlyn's Ice Creamery,4c22b5d39a67a593c202dd87
+63,Amador,1,Pizza Place,Gold Dust Pizza,593b5aef340a5823a149b1bc
+64,Amador,1,Deli / Bodega,Amador Vintage Market,4c38d8c3dfb0e21e6a64afa8
+65,Amador,1,Café,Rosebud's Cafe,4f773ea6e4b0e91fa6be006d
+66,Amador,1,Mexican Restaurant,El Torero,4c0aeec9ffb8c9b66a846c61
+67,Amador,1,Diner,Marlene & Glen's Diner,4c6af0109669e21ebddba951
+68,Amador,1,Burger Joint,88 Giant Burger,4b118d7ff964a520267f23e3
+69,Amador,1,Mexican Restaurant,Colina de Oro,4c56386512f0d13a389304ad
+70,Amador,1,Sandwich Place,TOGO'S Sandwiches,55ad442e498e00ffe0738edc
+71,Amador,1,Mexican Restaurant,Las Minas,4bc66337d35d9c74fdb8e23a
+72,Amador,1,Breakfast Spot,Perko's Cafe,4b5d011df964a520894e29e3
+73,Amador,1,Juice Bar,Jamba Juice,4c41e5b5e26920a1a1265fe7
+74,Amador,1,Coffee Shop,Starbucks,52869069498e3289da6750e7
+75,Amador,1,Pizza Place,Papa Murphy's,4c3fbf43ff711b8d96760f05
+76,Amador,1,Coffee Shop,Back Road Coffee House,4c1cef7cb9f876b007ad7c46
+77,Amador,1,Sandwich Place,Subway,4c2a55da57a9c9b6bc53f467
+78,Amador,1,Ice Cream Shop,Baskin-Robbins,4b9e46a8f964a520aed636e3
+79,Amador,1,Sandwich Place,SUBWAY,4d00fac32685a35dd8b4cb90
+80,Amador,1,Pizza Place,Round Table Pizza,4c520f66250dd13a82363b7e
+81,Amador,2,Burger Joint,Mel & Fayes Diner,4b6f73a9f964a5201df12ce3
+82,Amador,2,American Restaurant,Element,53d3e8b7498e619958a4106b
+83,Amador,2,Brewery,Amador Brewing Company,5532e5a4498eb50d32af2dd2
+84,Amador,2,Wine Bar,Bella Grace,4ebddc64e5fae164639a346e
+85,Amador,2,Coffee Shop,Starbucks,4b7897aff964a52001d92ee3
+86,Amador,2,Italian Restaurant,Strings Italian Cafe,4bd25930b221c9b68c9bd7d0
+87,Amador,2,BBQ Joint,Dickey's Barbecue Pit,51214260e4b02b37b08347d0
+88,Amador,2,American Restaurant,Thomi's Cafe And Bakery,4d5880397c0b37043cdde308
+89,Amador,2,Mexican Restaurant,Jose's Mexican Restaurant,4c08408d7e3fc928b010f082
+90,Amador,3,American Restaurant,Volcano Union Inn + Pub,4b88a897f964a520330732e3
+91,Amador,4,Italian Restaurant,Teresa's Place,4c90208d590ab1f718fce47d
+92,Amador,4,American Restaurant,Stanley's Steakhouse At The National Hotel,50a4734de4b07aa4bc4ba714
+93,Amador,4,New American Restaurant,Taste Restaurant,4b5cf8edf964a520384d29e3
+94,Butte,1,Burger Joint,In-N-Out Burger,4b6fa48bf964a520dcf82ce3
+95,Butte,1,Ice Cream Shop,Shubert's Ice Cream & Candy,4b899ab0f964a5207c4532e3
+96,Butte,1,Sandwich Place,Fast Eddie's Sandwich Shop,4de1550aae60e7f3abd4bb69
+97,Butte,1,Burger Joint,Burger Hut,4bac025af964a520cadd3ae3
+98,Butte,1,Coffee Shop,Dutch Bros. Coffee,4bc12d94920eb713146b1a2c
+99,Butte,1,Pizza Place,Farm Star Pizza,4cf1b4d3cc61a35d69b6169e
+100,Butte,1,Donut Shop,Donut Nook,4b8e033ff964a520ea1533e3
+101,Butte,1,Café,Beatniks Coffee House & Breakfast Joint,4d885e27a0afdcb3e5ca96ab
+102,Butte,1,Hookah Bar,Fusion Hookah Lounge,51f60d8b498ebfa0bc1fbf60
+103,Butte,1,Pizza Place,Celestinos New York Pizza,4c153969a1010f477fb14d18
+104,Butte,1,Deli / Bodega,Spiteri's Deli,4be5bc47bcef2d7f033c04e5
+105,Butte,1,Coffee Shop,Dutch Bros. Coffee,4c87f54cbf40a1cda20809b4
+106,Butte,1,Burger Joint,Madison Bear Garden,4af52585f964a5206ef821e3
+107,Butte,1,Breakfast Spot,Morning Thunder Cafe,4b240019f964a520c45e24e3
+108,Butte,1,Ice Cream Shop,La Flor De Michoacan Paleteria y Neveria,4f8230c7e4b0092780a9b892
+109,Butte,1,Café,TBar Fusion Cafe,5335cbf8498e08875a665940
+110,Butte,1,Sandwich Place,The Pita Pit,4b636091f964a52093752ae3
+111,Butte,1,Coffee Shop,bidwell perk,5345c910498e7fd24a9d2d95
+112,Butte,1,Dive Bar,Joe's Bar,4c2667b0136d20a18b4ee561
+113,Butte,1,Coffee Shop,Starbucks,5762b81b498e24ee52facdca
+114,Butte,1,Mexican Restaurant,La Cocina Economica,5344878111d2e1a8e2f946c1
+115,Butte,1,Coffee Shop,Dutch Bros. Coffee,4ba520e8f964a52026e138e3
+116,Butte,1,Coffee Shop,Dutch Bros. Coffee,4b6efbc8f964a520b4d42ce3
+117,Butte,1,Pizza Place,Pop’s Wood-Fired Pizza,54889dd6498e797215754937
+118,Butte,1,Sandwich Place,Beach Hut Deli,4bacf706f964a520f51e3be3
+119,Butte,1,Mexican Restaurant,Chipotle Mexican Grill,51f9cd49498e73e14c509188
+120,Butte,1,Mexican Restaurant,Mike's Grande Burger,4c16ab7874fb20a191785012
+121,Butte,1,Coffee Shop,Starbucks,4b4cda74f964a520c6c126e3
+122,Butte,1,Mexican Restaurant,Sol Mexican Grill,4db32c866a23c31a02fc70f9
+123,Butte,1,Food Truck,Gordo Burrito Taco Truck,4f4812ace4b00005b8007b77
+124,Butte,2,Cocktail Bar,Argus Bar + Patio,527db659498ece933a8ef7d9
+125,Butte,2,Tea Room,T. Tea Bar & Fusion Cafe,4b390923f964a520bd5425e3
+126,Butte,2,Bakery,Upper Crust Bakery & Eatery,4b5f4c2af964a520a0b229e3
+127,Butte,2,Asian Restaurant,Rice Bowl,4b74ebb9f964a52023f82de3
+128,Butte,2,Wine Bar,Wine Time,4f9363fae4b0e90bfbdc5546
+129,Butte,2,Burger Joint,Nobby's,4b5a05c3f964a5205aa828e3
+130,Butte,2,Gastropub,The Banshee,4b47ff30f964a5200f4626e3
+131,Butte,2,Bar,B Street Public House,55565d8f498ee9e1e1b3090c
+132,Butte,2,New American Restaurant,Broadway Heights California Cuisine,4b8ae923f964a5209b8832e3
+133,Butte,2,American Restaurant,Ice Burgie,4b4cc406f964a520f8bd26e3
+134,Butte,2,Bar,The Handle Bar,50c2a09ce4b0c7bb3f64f5dd
+135,Butte,2,Coffee Shop,The Naked Lounge Tea and Coffeehouse,4b13020ff964a5208f9223e3
+136,Butte,2,Pizza Place,Celestino's New York Pizza,4b56125af964a520ebfe27e3
+137,Butte,2,Mexican Restaurant,Casa Lupe,4b1b09a3f964a520ddf623e3
+138,Butte,2,Mexican Restaurant,La Hacienda Restaurant,4bf1ece33fa220a17ce71820
+139,Butte,2,Diner,Kalico Kitchen,4c53835e1b46c9b680920dcd
+140,Butte,2,Bar,Park Ave Pub,4cb3c222ef1b3704b7be5400
+141,Butte,2,Vietnamese Restaurant,Pho C & C,4d2b71f9b818a35d63f5af8a
+142,Butte,2,Italian Restaurant,Italian Cottage,4b9fd346f964a520154237e3
+143,Butte,2,Italian Restaurant,Olive Garden,4b779489f964a5208ea22ee3
+144,Butte,2,Breakfast Spot,Mom's,4b4e2603f964a520f7e226e3
+145,Butte,2,Mexican Restaurant,Tres Hombres,4b109d87f964a520dd7323e3
+146,Butte,2,Bar,Parkside Tap House,58c0deb04f218a16d102be03
+147,Butte,2,Mexican Restaurant,Chipotle Mexican Grill,4b5a4acef964a520c8ba28e3
+148,Butte,2,Breakfast Spot,Cafe Coda,4b537730f964a5204e9e27e3
+149,Butte,2,Indian Restaurant,Priya Indian Cuisine,4bb15ccaf964a520d28e3ce3
+150,Butte,2,Sushi Restaurant,Izakaya Ichiban,4ebef006d3e3700a5b27752a
+151,Butte,2,Burger Joint,Burgers & Brew,4c56503e30d82d7f3272d762
+152,Butte,2,New American Restaurant,The Pour House,4e0fd4937d8bb178a8b6e956
+153,Butte,2,Breakfast Spot,Nash's Restaurant,4baf6d86f964a520fefe3be3
+154,Butte,3,Brewery,Sierra Nevada Brewing Co.,4aa32a33f964a5208f4320e3
+155,Butte,3,Italian Restaurant,Crush Italian Cuisine & Lounge,4b10ba90f964a520257523e3
+156,Butte,3,Seafood Restaurant,Red Lobster,4b9d75b0f964a52048ae36e3
+157,Butte,3,Tapas Restaurant,Basque Norte,4d2d56c5cd5f60fc3c9ead9c
+158,Butte,4,Steakhouse,5th Street Steakhouse,4b6e19eef964a52092aa2ce3
+159,Calaveras,1,Dive Bar,The Lube Room Saloon,55a2d231498e85b324bfe9d4
+160,Calaveras,1,Beer Garden,Murphys PourHouse,55eb65a8498e795a5c1b583f
+161,Calaveras,1,Snack Place,The Red Apple,4d169de8302da1cd1c87b693
+162,Calaveras,1,Café,Alchemy Market & Cafe,4a767d0ef964a52011e31fe3
+163,Calaveras,1,Sandwich Place,The Pickle Patch Deli And Gardens,4bc75b0815a7ef3bf63d79da
+164,Calaveras,1,Bakery,Aria Bakery,4bc09b1d2a89ef3b18bef088
+165,Calaveras,1,Ice Cream Shop,JoMa's Artisan Ice Cream,57670371498ebe1c9baac96b
+166,Calaveras,1,Coffee Shop,Starbucks,4b82be71f964a520dae130e3
+167,Calaveras,1,Burger Joint,Giant Burger,4fd252f0e4b065a35397673d
+168,Calaveras,1,Mexican Restaurant,El Jardin,4c55e02b1b46c9b694eaf5d0
+169,Calaveras,1,Coffee Shop,Gold Country Roasters,4d0a47f586b0236aa883b806
+170,Calaveras,1,Coffee Shop,Starbucks,4bb6818e1344b713e9a19d04
+171,Calaveras,1,Coffee Shop,Roasters Coffee Corner,52cb54ae498e1c1733391fbc
+172,Calaveras,1,Chinese Restaurant,Far East Chinese Restaurant,4b8b1ef7f964a520cf9332e3
+173,Calaveras,1,Pizza Place,Round Table Pizza,4e35b5667d8b0c62b2d79cb1
+174,Calaveras,1,Pizza Place,Mikes Pizza of Angels,4b709b2df964a520dc242de3
+175,Calaveras,1,Pizza Place,Pizza Plus,4bbfa10f2a89ef3bcf42ef88
+176,Calaveras,1,Sandwich Place,Subway,4bc87e0792b376b09c76513a
+177,Calaveras,1,New American Restaurant,Firewood,4b64c2f9f964a5201ece2ae3
+178,Calaveras,1,Sandwich Place,Subway,4d9cbce348b6224b90bb149f
+179,Calaveras,1,Sandwich Place,Subway,4c81a078d8086dcbf02e6f52
+180,Calaveras,1,Diner,Hillbillies Restaurant,4c321e37ed37a59304506b03
+181,Calaveras,1,Sandwich Place,Subway,50493048e0e24991c412cb9f
+182,Calaveras,1,Pizza Place,Round Table Pizza,4bd115f4462cb71345cbd907
+183,Calaveras,1,Pizza Place,Round Table Pizza,4ee95a70b8f7eaddf6b88d24
+184,Calaveras,1,Mexican Restaurant,La Hacienda,4cf5b824c28df04dbe37c715
+185,Calaveras,1,Fast Food Restaurant,Taco Bell,4d895b0f1508a14376e90c1e
+186,Calaveras,2,Brewery,Snowshoe Brewing Company,4b848d15f964a5204c3b31e3
+187,Calaveras,2,Mexican Restaurant,El Vaquero,4edc3b9193ad464d2ab9d092
+188,Calaveras,2,Restaurant,Fusion Grill,4bfae7e6d0382d7ff0f3c80a
+189,Calaveras,2,Cupcake Shop,Lila & Sage,4dc2ea83d4c07da16a03c808
+190,Calaveras,2,Café,Grounds Restaurant,4a767e5cf964a52016e31fe3
+191,Calaveras,2,Italian Restaurant,Sarafina's Italian Kitchen,4effc2faa69d45461d94149a
+192,Calaveras,2,Bar,Old Corner Saloon,4c8d8731c37a6dcbedf8007b
+193,Calaveras,3,New American Restaurant,V Bistro and Bar,4f07af82e4b0e89079d49b37
+194,Calaveras,3,Gastropub,The Lucky Penny Public House,56352e78498e155da9467db0
+195,Calaveras,3,BBQ Joint,Griff's BBQ & Grill,4e335847a809117a2289ea86
+196,Calaveras,3,American Restaurant,CAMPS Restaurant @ Greenhorn Creek,4bbe78864e7bd13a4b149b7f
+197,Colusa,1,Sandwich Place,SUBWAY,4d2a7e75849f3704f4ec8841
+198,Colusa,1,Pizza Place,Round Table Pizza,4d4786684e7a6ea8a46b6c32
+199,Colusa,1,Fast Food Restaurant,Burger King,4c52484f048b1b8d115a4e30
+200,Colusa,1,Coffee Shop,Caffeinated,5766cc15498e30d939282c2a
+201,Colusa,2,American Restaurant,Jeff's Freezettes,4b92e411f964a520c72434e3
+202,Colusa,2,Restaurant,Chef Colus,4e866816cc210aef90b6969e
+203,Contra Costa,1,Coffee Shop,Dutch Bros. Coffee,54373d91498ec64de4f20a2a
+204,Contra Costa,1,Burger Joint,Gott’s Roadside,59ab6478c824ae769253ed86
+205,Contra Costa,1,Bakery,Nothing Bundt Cakes,4f19d830e4b044fd33d8cc74
+206,Contra Costa,1,Burger Joint,In-N-Out Burger,4f6b35d57bebf48a255dee10
+207,Contra Costa,1,Coffee Shop,Coffee Shop,56d48e79498e71cd633a6d48
+208,Contra Costa,1,Coffee Shop,States Coffee & Mercantile,5539774f498e983c7e4f94d2
+209,Contra Costa,1,Café,Steeltown Coffee & Tea,4b837a82f964a520700731e3
+210,Contra Costa,1,Café,Coffee Shop,550f0915498ed060309683bd
+211,Contra Costa,1,Pizza Place,Blue Line Pizza,55837a07498e980b8cddf2c8
+212,Contra Costa,1,Mexican Restaurant,Sombrero Mexican Food,4b1ed0bef964a520f11f24e3
+213,Contra Costa,1,Sandwich Place,Mendocino Farms,5c86a79de4c459002c124eb6
+214,Contra Costa,1,Food Truck,Off the Grid: Pleasant Hill,537bc15f498e1fc22ab035f0
+215,Contra Costa,1,Sandwich Place,Cheese Steak Shop,46d71889f964a5206f4a1fe3
+216,Contra Costa,1,Vietnamese Restaurant,Phở Huỹnh Hiệp (Kevin's Noodle House),4ee3eecae4b0b2590cf44c8d
+217,Contra Costa,1,Coffee Shop,Philz Coffee,599f14ca851de52c6d8453eb
+218,Contra Costa,1,Taco Place,Rubio's,4b74b700f964a5201eee2de3
+219,Contra Costa,1,Sandwich Place,Morucci's Deli,4b5b694af964a520f3fb28e3
+220,Contra Costa,1,Burger Joint,In-N-Out Burger,47d86382f964a5202b4e1fe3
+221,Contra Costa,1,BBQ Joint,Kinder's Meats Deli BBQ,4f15cc50e4b047204914e924
+222,Contra Costa,1,Dive Bar,Warehouse Cafe,4b514c66f964a5202e4a27e3
+223,Contra Costa,1,Pizza Place,Slice House by Tony Gemignani,57532034498e603bcba488f2
+224,Contra Costa,1,Pizza Place,DeVino's Pizza & Pasta,4b6db0b9f964a520c8862ce3
+225,Contra Costa,1,Coffee Shop,Peet's Coffee & Tea,4a84386ef964a520f3fb1fe3
+226,Contra Costa,1,Burger Joint,In-N-Out Burger,4abbb36ff964a520798420e3
+227,Contra Costa,1,Ice Cream Shop,CREAM of Walnut Creek,51fbfbc68bbd8cbd70c609b4
+228,Contra Costa,1,Mexican Restaurant,La Costa,4bf6eb8eb182c9b603c3745a
+229,Contra Costa,1,Café,Sideboard Neighborhood Kitchen and Coffee Bar,574223fc498e619f1ce4aca0
+230,Contra Costa,1,German Restaurant,The Junket,4a983740f964a520092b20e3
+231,Contra Costa,1,Frozen Yogurt Shop,Ian's Yogurt,4bcb8c57fb84c9b6f61f1f3e
+232,Contra Costa,1,Mexican Restaurant,Taqueria Maria,49e2b14ef964a5204e621fe3
+233,Contra Costa,2,American Restaurant,Revel Kitchen & Bar,532e429e498e669d08a6cb19
+234,Contra Costa,2,Ice Cream Shop,Lottie's Creamery,51292296e4b051c715ad5e69
+235,Contra Costa,2,Latin American Restaurant,Taqueria La Bamba - Richmond,4b26d6fdf964a520c78124e3
+236,Contra Costa,2,Deli / Bodega,Genova Delicatessen,4b327f76f964a520390d25e3
+237,Contra Costa,2,Deli / Bodega,Domenico's Delicatessen,49f607fcf964a520f16b1fe3
+238,Contra Costa,2,Peruvian Restaurant,El Mono,557389b4498e842192f6ca40
+239,Contra Costa,2,Italian Restaurant,Locanda Ravello,55d69028498eba3407287737
+240,Contra Costa,2,Diner,Digger's Diner Concord,4b9be94af964a520cc3436e3
+241,Contra Costa,2,Mexican Restaurant,La Tapatia,4a54f3daf964a52075b31fe3
+242,Contra Costa,2,Café,Sideboard Neighborhood Kitchen and Coffee Bar,533eda57498e7bf5dc72a977
+243,Contra Costa,2,BBQ Joint,Sauced BBQ & Spirits,583266cafb549a1ff541d1fc
+244,Contra Costa,2,Burger Joint,The Counter,4a75f04ef964a520bde11fe3
+245,Contra Costa,2,Asian Restaurant,Lemongrass Bistro,4b4cd41ef964a5208ec026e3
+246,Contra Costa,2,Fast Food Restaurant,Chick-fil-A,4c24d0db905a0f47df5a6060
+247,Contra Costa,2,Pizza Place,Zachary's Chicago Pizza,5114592ce4b07f9f74a09c99
+248,Contra Costa,2,Pizza Place,Pizza Antica,4a9c5beff964a520eb3620e3
+249,Contra Costa,2,Mexican Restaurant,El Tapatio Restaurant & Cantina,4bdddf9affdec928cbc6e6a1
+250,Contra Costa,2,Italian Restaurant,Melo's Pizza & Pasta,4aeb33d3f964a5208ebf21e3
+251,Contra Costa,2,Vegetarian / Vegan Restaurant,Veggie Grill,54b47f64498e4338b6694b60
+252,Contra Costa,2,Thai Restaurant,Lotus Thai Restaurant,551f61f8498ea443adf4775d
+253,Contra Costa,2,Pizza Place,Zachary's Chicago Pizza,4afc8320f964a520752322e3
+254,Contra Costa,2,Coffee Shop,Starbucks,4b4625d4f964a5201b1826e3
+255,Contra Costa,2,Burger Joint,Pete's Brass Rail & Car Wash,49e7a16cf964a520ed641fe3
+256,Contra Costa,2,Vietnamese Restaurant,Da Nang Tourane Vietnamese Restaurant,4e1f9be888774a43b7574eb4
+257,Contra Costa,2,Beer Store,ØL Beer Cafe & Bottle Shop,4e7155bf45dd2c5c1a2b76d2
+258,Contra Costa,2,Fried Chicken Joint,PolloPollo,5209371b11d205f642dd0b7f
+259,Contra Costa,2,Diner,Black Bear Diner,5490afee498ebedb2c5a0447
+260,Contra Costa,2,Salad Place,Lettuce,4b086143f964a520870a23e3
+261,Contra Costa,2,Bar,Mountain House Bar,4c952d516b35a1437abb22dc
+262,Contra Costa,2,Gastropub,Eureka!,55eddde7498e6fb41b8a6605
+263,Contra Costa,3,American Restaurant,Bull Valley Roadhouse,4b382a92f964a520684c25e3
+264,Contra Costa,3,American Restaurant,The Peasant & The Pear,4a9197fff964a520d51a20e3
+265,Contra Costa,3,Seafood Restaurant,The Dead Fish,4b04f3a7f964a520f35622e3
+266,Contra Costa,3,Wine Bar,Va de Vi Bistro & Wine Bar,4ad15593f964a52018de20e3
+267,Contra Costa,3,New American Restaurant,Esin Restaurant & Bar,4b787363f964a5203ccf2ee3
+268,Contra Costa,3,Italian Restaurant,Postino,4ad69cb4f964a520fd0721e3
+269,Contra Costa,3,Gastropub,Jack's Taps,556b9cb1498e644507f6b640
+270,Contra Costa,3,Sushi Restaurant,Sasa,4bca8e73b6c49c74dfdf9091
+271,Contra Costa,3,Italian Restaurant,Piatti,4d5a001bf8ff236a5390d14a
+272,Contra Costa,3,Tapas Restaurant,Telefèric Barcelona,562276a8498e2c18c2387b81
+273,Contra Costa,3,American Restaurant,The Hideout,553aafc8498e14d2315c8534
+274,Contra Costa,3,Restaurant,True Food Kitchen,58112ac938fabe486bcc2fcf
+275,Contra Costa,3,American Restaurant,Blackhawk Grille,4b341da2f964a5202c2525e3
+276,Contra Costa,4,Steakhouse,Ruth's Chris Steak House,4b33d1fcf964a520db1f25e3
+277,Contra Costa,4,Italian Restaurant,Montecatini Ristorante,4ab2f1b5f964a520116d20e3
+278,Del Norte,1,Deli / Bodega,Vita Cucina Bakery & Gourmet Foods,532b550b498ebe285c4821cb
+279,Del Norte,1,Coffee Shop,Java Hut,4f404407e4b080aa77fb9628
+280,Del Norte,1,Burger Joint,CC's Diner,4f246509e4b000874252c792
+281,Del Norte,1,Chinese Restaurant,Wing Wah,4c426254af052d7f31f47e79
+282,Del Norte,1,Mexican Restaurant,Cazadores,4cddf693f8a4a143f8e4d3bc
+283,Del Norte,1,Diner,Denny's,4bf623a6bfeac9288aed9336
+284,Del Norte,1,Coffee Shop,Starbucks,4bace108f964a52007153be3
+285,Del Norte,1,Mexican Restaurant,Perlita's Authentic Mexican Food,4ba96201f964a52074233ae3
+286,Del Norte,1,Coffee Shop,Dutch Bros. Coffee,4c5f3377cd522d7f5277cb3f
+287,Del Norte,1,Pizza Place,Papa Murphys Pizza,4e13bf17227146630ab71216
+288,Del Norte,1,Sandwich Place,Subway,4cc77e29ee718cfa1137b23d
+289,Del Norte,1,Sandwich Place,Subway,51099906e4b0436bea1f52af
+290,Del Norte,1,Sandwich Place,Subway,4c01d78d27dcc9289643e152
+291,Del Norte,1,Fast Food Restaurant,Taco Bell,4d191c3fbb488cfa9b3fbad4
+292,Del Norte,1,Breakfast Spot,The Hiouchi Cafe,4e07a3a9d22d658532a7775f
+293,Del Norte,1,Café,The Good Harvest Cafe,4b3beb9ef964a520657e25e3
+294,Del Norte,1,Pizza Place,Pizza Hut,4c393d541e06d13afb5f793e
+295,Del Norte,1,Fast Food Restaurant,McDonald's,4beeb098e8c3c92861f69892
+296,Del Norte,1,Fast Food Restaurant,Jack in the Box,4bfb1330f214a59363c2ae0e
+297,Del Norte,1,Fast Food Restaurant,Burger King,4c02caf239d476b0fb302fa7
+298,Del Norte,2,Brewery,SeaQuake Brewing,5791704a498ef657a7b97755
+299,Del Norte,2,Seafood Restaurant,Harbor View Grotto,4ba40b2bf964a520207b38e3
+300,Del Norte,2,Restaurant,North Coast Ocean Sports & Grill,568ed744498e0855cec900fa
+301,Del Norte,2,Brewery,Port O' Pints,5685b769498e3b32ae78aca4
+302,Del Norte,2,Diner,The Apple Peddler,4c0310249a7920a1b973cf79
+303,Del Norte,3,Seafood Restaurant,The Chart Room,4bfc2300b5cd2d7f012431fb
+304,Del Norte,3,Seafood Restaurant,Fisherman's Restaurant,4b7841d2f964a52016c02ee3
+305,El Dorado,1,Chinese Restaurant,China City,4c6ed58ad274b60c81bbd40d
+306,El Dorado,1,Mexican Restaurant,Fernando's Costa Del Sol,4b98113ef964a520212a35e3
+307,El Dorado,1,Mexican Restaurant,Los Pinos,4f760590e4b02125aba7dc94
+308,El Dorado,1,Hot Dog Joint,RUFFHAUS Hot Dog Co.,4c31003416adc928a300c09c
+309,El Dorado,1,Coffee Shop,Peet's Coffee & Tea,4b1aa08ef964a520c3ed23e3
+310,El Dorado,1,Sandwich Place,Beach Hut Deli,4b54cae7f964a520b0cc27e3
+311,El Dorado,1,Mexican Restaurant,Taqueria El Dorado Mexican Grill,50312b0be4b06888b7c310e4
+312,El Dorado,1,Breakfast Spot,The Train Station,4c8a3a681eafb1f792317835
+313,El Dorado,1,Café,Zia's,52d834d811d235437009e3e7
+314,El Dorado,1,Café,Bella Bru Cafe,4b5355f9f964a520d69727e3
+315,El Dorado,1,Ice Cream Shop,Cold Stone Creamery,4b8b08a7f964a520588f32e3
+316,El Dorado,1,Pizza Place,Wally's Pizza Bar,54b74372498e04ee043189a1
+317,El Dorado,1,Mexican Restaurant,Taqueria El Carnival,4c3e7cd183a3a5931641ee33
+318,El Dorado,1,Café,Caffe Santoro,4bcfd13841b9ef3bc43af9e5
+319,El Dorado,1,Coffee Shop,Starbucks,4a957eadf964a5206a2320e3
+320,El Dorado,1,Seafood Restaurant,Rubio's Coastal Grill,5761924d498e6f3093a33817
+321,El Dorado,1,Chinese Restaurant,Grand China,4bddd6a0ffdec92854a2e6a1
+322,El Dorado,1,Mexican Restaurant,Casa Ramos,4c27f22afe6e2d7f7c9b523c
+323,El Dorado,1,Diner,Denny's,4b5acbb2f964a520f4d428e3
+324,El Dorado,1,Coffee Shop,Starbucks,4b684b6af964a52014702be3
+325,El Dorado,1,Smoothie Shop,Jamba Juice,5928923ef62e0970eba2d551
+326,El Dorado,1,Coffee Shop,Starbucks,4da20bc77aee5481203ecefe
+327,El Dorado,1,Pizza Place,Round Table Clubhouse,4b91ae04f964a52069cf33e3
+328,El Dorado,1,Coffee Shop,Peet's Coffee & Tea,4dbe062293a08f9274e3c3a2
+329,El Dorado,1,Juice Bar,Jamba Juice,4c6484f52b66b71387c2946b
+330,El Dorado,1,Coffee Shop,Peet's Coffee & Tea,4b807e5cf964a5205f7730e3
+331,El Dorado,1,Fast Food Restaurant,Carl's Jr.,4bf6dc3a5efe2d7fc1e56734
+332,El Dorado,1,Pizza Place,Papa Murphy's,4cf9ab9e084f54815ea37609
+333,El Dorado,1,Sandwich Place,TOGO'S Sandwiches,4b9b05cef964a5208fec35e3
+334,El Dorado,1,Fast Food Restaurant,Taco Bell,4b54c382f964a52030cb27e3
+335,El Dorado,2,Café,Selland's Market Cafe,4f21ab62e4b0e479d447e790
+336,El Dorado,2,Japanese Restaurant,Aji Japanese Bistro,52b27b3c11d2a0b1d06fabb7
+337,El Dorado,2,BBQ Joint,Poor Red's BAR-B-Q,4b8ccbacf964a5205add32e3
+338,El Dorado,2,Pub,36 Handles Pub & Eatery,50b829c2e4b0f3b79365bd3d
+339,El Dorado,2,Bar,Bones Roadhouse,4beb50da61aca59341f68400
+340,El Dorado,2,Burger Joint,Relish Burger Bar,4bb810d27421a5930b7fc140
+341,El Dorado,2,Pizza Place,Pete's Restaurant & Brewhouse,4b37e883f964a520654825e3
+342,El Dorado,2,American Restaurant,Gold Vine Grill,4b9e823bf964a5201fea36e3
+343,El Dorado,2,Breakfast Spot,Purple Place Bar & Grill,4b367efdf964a520c03625e3
+344,El Dorado,2,Bar,PJ's,4c53c531f5f3d13a2dc00df9
+345,El Dorado,2,Brewery,Mraz Brewing Company,518468e5498e6f601772146f
+346,El Dorado,2,BBQ Joint,Back Forty Texas BBQ,4c37e1993849c928139fbeb1
+347,El Dorado,2,Sushi Restaurant,Sky Sushi,4b1aa0faf964a520d2ed23e3
+348,El Dorado,2,Coffee Shop,Starbucks,4b19505cf964a52012db23e3
+349,El Dorado,2,Chinese Restaurant,Fortune Garden Chinese Restaurant,4b193dc4f964a520cdd923e3
+350,El Dorado,2,Sushi Restaurant,Sushi Kuma,4cfd52b5dccef04d5cedc49c
+351,El Dorado,2,American Restaurant,Diamond Springs Hotel Restaurant,4c8cf2e6f0ce236af56f1cef
+352,El Dorado,2,American Restaurant,The Mimosa House,51b77663498efed52a6b155f
+353,El Dorado,2,Italian Restaurant,Papa Gianni's Ristorante,4c144dcea1010f4729524c18
+354,El Dorado,2,American Restaurant,Kirkwood Inn,4ba580c3f964a520630d39e3
+355,El Dorado,2,Sushi Restaurant,Kobe Surf N Turf,4b91b6d7f964a5200ed233e3
+356,El Dorado,2,Mexican Restaurant,Cascada,50bac75ae4b05d0a8eaad110
+357,El Dorado,3,New American Restaurant,Milestone Restaurant,565cc237498e7ec1b095a7bb
+358,El Dorado,3,New American Restaurant,Sienna,4b89f457f964a5207c5832e3
+359,Fresno,1,Ice Cream Shop,Ampersand Ice Cream,556a9791498e6c30a791de7c
+360,Fresno,1,Burger Joint,In-N-Out Burger,4b61440bf964a520790e2ae3
+361,Fresno,1,BBQ Joint,The Grille at the Meat Market,4b7da0ecf964a520dcca2fe3
+362,Fresno,1,Coffee Shop,Dutch Bros. Coffee,54b58c31498ebacc93c54cca
+363,Fresno,1,Coffee Shop,Dutch Bros. Coffee,4b61d17df964a520e9242ae3
+364,Fresno,1,Mexican Restaurant,Don Pepe Taqueria,4b69cceef964a52014b52be3
+365,Fresno,1,Mexican Restaurant,Los Panchos,4bbf84aff8219c744d1db010
+366,Fresno,1,Burger Joint,Red Robin Gourmet Burgers and Brews,4b400509f964a52051b425e3
+367,Fresno,1,Bakery,Eddie's Bakery Cafe,4b269547f964a520e17d24e3
+368,Fresno,1,Diner,Huckleberry's,4b53f763f964a520afaf27e3
+369,Fresno,1,Pizza Place,"Pieology Pizzeria Campus Pointe, Fresno, CA",55fe1133498e3854e219ebad
+370,Fresno,1,Frozen Yogurt Shop,Yogurtland,4d0315f637036dcb2be807fb
+371,Fresno,1,Sandwich Place,Sunnyside Deli,4b771938f964a520387d2ee3
+372,Fresno,1,Coffee Shop,Starbucks,4bb4b500f1b976b05e2e1f20
+373,Fresno,1,Mexican Restaurant,Chipotle Mexican Grill,4b4be139f964a52054aa26e3
+374,Fresno,1,Burger Joint,In-N-Out Burger,4b54ce76f964a52056cd27e3
+375,Fresno,1,Burger Joint,In-N-Out Burger,4ae34140f964a520649221e3
+376,Fresno,1,Bakery,Panaderia La Estrella,4b87f84ff964a520eed531e3
+377,Fresno,1,Japanese Restaurant,Pete's Teriyaki House,4b59f68ef964a5201da428e3
+378,Fresno,1,Mexican Restaurant,Sal's Mexican Restaurant - Fresno,4bbbee67e5b0d13a50c76e7c
+379,Fresno,1,Fast Food Restaurant,Chick-fil-A,54f62f9e498e1eab83bdbf4f
+380,Fresno,1,Seafood Restaurant,Rubio's Coastal Grill,4b590d35f964a520387a28e3
+381,Fresno,1,Coffee Shop,Starbucks,4b4a9114f964a520c48a26e3
+382,Fresno,1,Fast Food Restaurant,SONIC Drive In,4b9e9243f964a52037f036e3
+383,Fresno,1,Coffee Shop,Starbucks,4b54ba84f964a52042c927e3
+384,Fresno,1,Café,Teazer World Tea Market,52846a0911d21e90d4f88428
+385,Fresno,1,Breakfast Spot,Red Apple Cafe,566872a3498e5ac91ee2e68b
+386,Fresno,1,Frozen Yogurt Shop,Chosen Frozen Yogurt,5189c468498e5e928e92eab7
+387,Fresno,1,Greek Restaurant,Churrascos,4c17f4aa1436a593179e8c75
+388,Fresno,1,Breakfast Spot,The Train Depot,523dcb6011d2a84b82077ab5
+389,Fresno,2,Steakhouse,Fleming's Prime Steakhouse & Wine Bar,4c35fccbed37a5936b5b7103
+390,Fresno,2,Sports Bar,Dog House Grill,4b6354dbf964a520c1722ae3
+391,Fresno,2,Bar,Goldstein's Mortuary & Delicatessen,55a6fe34498eb7d78c4e2622
+392,Fresno,2,Fast Food Restaurant,Chick-fil-A,4b511b99f964a520e24227e3
+393,Fresno,2,Mexican Restaurant,Don Pepe Taqueria,4b5e0b95f964a520c27a29e3
+394,Fresno,2,Indian Restaurant,Standard Sweets & Spices,4dbc550a6a23e294ba2b9ce5
+395,Fresno,2,Burger Joint,In-N-Out Burger,4b2f0c1ef964a52050e924e3
+396,Fresno,2,Coffee Shop,Dutch Bros. Coffee,4b50db6af964a5208d3527e3
+397,Fresno,2,American Restaurant,Yard House,4e9493dc722e02c231b4fe99
+398,Fresno,2,Mediterranean Restaurant,Mediterranean Grill,4b43919ef964a52065e325e3
+399,Fresno,2,American Restaurant,The Cheesecake Factory,4b5b8c33f964a5202b0629e3
+400,Fresno,2,Sushi Restaurant,Pokiland,56906824498e17b933cd0e9b
+401,Fresno,2,Greek Restaurant,Phoenician Garden Mediterranean Bar and Grill,4b5a0a21f964a5205da928e3
+402,Fresno,2,Sushi Restaurant,UMI Sushi,52ccb8bc498ee416ec06e1d5
+403,Fresno,2,Mediterranean Restaurant,House of Kebab,4bac012cf964a5205add3ae3
+404,Fresno,2,BBQ Joint,Westwoods BBQ & Spice Co.,527193e6498e11414243e905
+405,Fresno,2,American Restaurant,Starving Artists Bistro,518d4608498e90f57abad547
+406,Fresno,2,Japanese Restaurant,Teriyaki Don,4b0705f7f964a520b8f522e3
+407,Fresno,2,Coffee Shop,Starbucks,4b6657b2f964a520891e2be3
+408,Fresno,2,Japanese Restaurant,Sakura Chaya,4b60fa39f964a52053042ae3
+409,Fresno,2,Breakfast Spot,Batter Up Pancakes,4d4454c43616b60c9c27e3c2
+410,Fresno,2,Coffee Shop,Starbucks,503bb271e4b0ebdead685fe8
+411,Fresno,2,Buffet,Sweet Tomatoes,4b5a6940f964a52070c328e3
+412,Fresno,2,Chinese Restaurant,P.F. Chang's,4b9b06faf964a520e3ec35e3
+413,Fresno,2,Coffee Shop,Starbucks,4b50d6d2f964a5209f3427e3
+414,Fresno,2,Chinese Restaurant,Hunan Restaurant,4baeee51f964a52082e23be3
+415,Fresno,2,Breakfast Spot,Benaddiction,53c1e8ce498e703e053f206f
+416,Fresno,2,Steakhouse,Tahoe Joe's,4b467fd2f964a520ad2226e3
+417,Fresno,2,Bakery,La Boulangerie De France,4b60505af964a5201fdf29e3
+418,Fresno,2,American Restaurant,BJ's Restaurant & Brewhouse,4b5288e8f964a520618127e3
+419,Fresno,3,Lounge,The Cosmopolitan,4bcdf678fb84c9b60bee223e
+420,Fresno,3,Steakhouse,"Yosemite Ranch Steak, Seafood & Roast House",4b9318bdf964a520cd3434e3
+421,Fresno,3,Seafood Restaurant,Pismo's Coastal Grill,4b070a5bf964a52006f622e3
+422,Fresno,3,Steakhouse,Richard's Prime Rib & Seafood,4d325c25c6cba35d6aba207a
+423,Fresno,3,Bistro,Campagnia,4b5cf1e5f964a520ed4b29e3
+424,Fresno,3,American Restaurant,The Patio Cafe,4b786169f964a520e7c92ee3
+425,Fresno,3,Lounge,O'Sullivan's Sunnyside Lounge,4dcda119b0fb25f6e32f44a2
+426,Fresno,3,Steakhouse,Black Angus Steakhouse,4bc12006f8219c74ceefb210
+427,Fresno,4,Steakhouse,Ruth's Chris Steak House,525da4dc498eb92d634ab78c
+428,Fresno,4,Steakhouse,The Manhattan Steakhouse & Bar,4c3b6cdd4565e21ecbb4566a
+429,Humboldt,1,Coffee Shop,Tim Hortons,4ebd728329c2a4fb0a567127
+430,Humboldt,1,Fast Food Restaurant,A&W Canada,4e5e7dd4b61cebc23b7118da
+431,Humboldt,1,Sandwich Place,Subway,4f57ea49e4b0c3218bbfec10
+432,Humboldt,1,Fast Food Restaurant,KFC,4e2f599062e1fbac610acd69
+433,Humboldt,1,Ice Cream Shop,Dairy Queen,4f68e831e4b0b9e50dc63c2e
+434,Humboldt,1,Fast Food Restaurant,McDonald's,4e512ee58877402b06db96e8
+435,Humboldt,2,Bar,Pioneer Bar & Lounge,4f6d21b3e4b0e0075a55f261
+436,Humboldt,2,Restaurant,Rookie's Restaurant,4f86785ae4b0603bf20360fc
+437,Humboldt,2,American Restaurant,Boston Pizza,529abbbc11d22448d8a0a98c
+438,Imperial,1,Mexican Restaurant,El Zarape,4c4a5446c668e21ea28274f8
+439,Imperial,1,Mexican Restaurant,Johnny's Burritos of Imperial,4c800b706cc2b7132e8e0f9b
+440,Imperial,1,Sandwich Place,SUBWAY,4c5c59727f661b8d534f481c
+441,Imperial,1,Snack Place,Raspados Cuchies,4dd321c9d22d4d4d40882422
+442,Imperial,1,Mexican Restaurant,Ma Lupe's Restaurant,5237569711d23a55c03401dc
+443,Imperial,2,Brewery,Humble Farmer Brewing - Imperial,5939bcfa4940bc718c0ae4e7
+444,Imperial,3,Cocktail Bar,Kashmir,50c2db08e4b049caaf7c64de
+445,Kern,1,Ice Cream Shop,Dewar's Express,4f874015e4b0183203d0e868
+446,Kern,1,Café,Cafe Smitten,58ab5587e0adac4d3aeea112
+447,Kern,1,Coffee Shop,Caffeine Supreme,4b97cf69f964a5200e1735e3
+448,Kern,1,Pizza Place,Pizza Barn,4a99925df964a520242f20e3
+449,Kern,1,Pizza Place,Caveman Pizza,4c9d12a254c8a1cd1c2f804b
+450,Kern,1,Burger Joint,The Habit Burger Grill,56f3476d498e8557fae7fa3c
+451,Kern,1,Sandwich Place,Sequoia Sandwich Company,4b140c49f964a520709c23e3
+452,Kern,1,Burger Joint,The Habit Burger Grill,566b0fc3498e3f662318a9ed
+453,Kern,1,Burger Joint,In-N-Out Burger,4b6cd566f964a520ce572ce3
+454,Kern,1,Breakfast Spot,24th Street Cafe,4b6c63caf964a52017362ce3
+455,Kern,1,Pizza Place,PizzaRev,54c598ac498e3fefe95d0444
+456,Kern,1,Bakery,Kohnen's Country Bakery,4b51f609f964a520a45d27e3
+457,Kern,1,Burger Joint,In-N-Out Burger,4b4baa2bf964a5204fa326e3
+458,Kern,1,Pizza Place,Guido's Pizza and Pasta,4c8bc71e509e370457062d55
+459,Kern,1,Italian Restaurant,Luigi's,4baa5623f964a5207f603ae3
+460,Kern,1,Mediterranean Restaurant,Petra Mediterranean Resturant,4ba117fef964a520159737e3
+461,Kern,1,Pizza Place,Bakersfield Pizza Co.,56a1f646498e75b506c0edbb
+462,Kern,1,Breakfast Spot,Knotty Pine Cafe,4b631739f964a52047622ae3
+463,Kern,1,Pizza Place,Slice of Italy,4c96ab4a82b56dcb51b2e3aa
+464,Kern,1,Restaurant,Jake's Tex-Mex Cafe,4ba1232cf964a5206a9b37e3
+465,Kern,1,Fast Food Restaurant,Chick-fil-A,4b3912f3f964a520955525e3
+466,Kern,1,Mexican Restaurant,Jacalito Grill Cantina,4c11396fb93cc9b63f0658e0
+467,Kern,1,Coffee Shop,Starbucks,4bcdebf4937ca593b693ad92
+468,Kern,1,Pizza Place,"Pieology Pizzeria Tejon Ranch, CA",55ce5b37498ee68fec8ce7f7
+469,Kern,1,Mexican Restaurant,Las Salsas,4cf456f37e0da1cd44bea197
+470,Kern,1,Café,Steampunk Cafe & Grill,56f04c79498e87a6c7c2b746
+471,Kern,1,Café,Wayside Cafe,4cc47e15d43ba1433d7167f8
+472,Kern,1,Dessert Shop,Sno Fun,4bb78cdd314e9521054a479d
+473,Kern,1,Coffee Shop,Starbucks,46db80cdf964a520864a1fe3
+474,Kern,1,Mexican Restaurant,La Tapatia,4b9d4a3cf964a520a4a036e3
+475,Kern,2,Southern / Soul Food Restaurant,J's Place,4fdbbb11e4b0f86f6ad51091
+476,Kern,2,BBQ Joint,Firestone Grill,568dd9ea498edaec244487e8
+477,Kern,2,Sushi Restaurant,Ichiban Sushi,4cbdf5c57148f04d9400f0ab
+478,Kern,2,Burger Joint,Moo Creamery,4b495639f964a520c36d26e3
+479,Kern,2,Sandwich Place,Sequoia Sandwich Company,4b4a828cf964a520958926e3
+480,Kern,2,Ice Cream Shop,Rosemary's Family Creamery,4b6649bff964a520651c2be3
+481,Kern,2,Brewery,Kern River Brewing Company,4bbf4a5df353d13a32527e10
+482,Kern,2,Sushi Restaurant,Love Sushi,4b6ce866f964a520075d2ce3
+483,Kern,2,Japanese Restaurant,Kan Pai,51a80e03498ebf53b20ca525
+484,Kern,2,Mexican Restaurant,Chipotle Mexican Grill,5262e8ea11d21121977d25f1
+485,Kern,2,Gastropub,Eureka! Burger,4f2acb7be4b043ec6e4ac1f2
+486,Kern,2,Thai Restaurant,Chef's Choice Noodle Bar,4da4a6cc9aa4721e317e3c1a
+487,Kern,2,Breakfast Spot,Henry's Cafe,4bfa963b1134b713d3780fc9
+488,Kern,2,Bar,Sandrini's,4aa5f6aef964a520a44920e3
+489,Kern,2,American Restaurant,BJ's Restaurant & Brewhouse,4b4a9827f964a520458b26e3
+490,Kern,2,Pizza Place,California Pizza Kitchen,4b53b39df964a5206ca827e3
+491,Kern,2,Bagel Shop,Bagels & Blenderz,4b841b3ff964a5201e2131e3
+492,Kern,2,Sushi Restaurant,Toro Fusion Grill,4ba7e0d5f964a52052bb39e3
+493,Kern,2,Coffee Shop,Starbucks,4ba80d1bf964a52045c939e3
+494,Kern,2,Deli / Bodega,Caesar's Italian Delicatessen,4b8f0d2df964a520894633e3
+495,Kern,2,Italian Restaurant,Olive Garden,4b538e07f964a52003a227e3
+496,Kern,2,North Indian Restaurant,Zaika Indian Cuisine O Bar,4fa5d34de4b0ddd4967dd261
+497,Kern,2,BBQ Joint,Salty's BBQ & Catering,54260d6b498e2d89dfa3e767
+498,Kern,2,Bakery,Panera Bread,4b4cf0d3f964a520f5c426e3
+499,Kern,2,Coffee Shop,Starbucks,4baa8b10f964a5202e733ae3
+500,Kern,2,Coffee Shop,Starbucks,4b5138ecf964a520d84727e3
+501,Kern,2,Asian Restaurant,The Flame Broiler,51d4cd01498ef30e8262e65c
+502,Kern,2,American Restaurant,Zorba's Charbroiled Burgers,4c5d8eda7735c9b6bc568f72
+503,Kern,2,Brewery,Lengthwise Brewing Company,4c538a4e728920a10e233e81
+504,Kern,2,Bar,17th Street Cigar Bar,4c0b0d5b7e3fc92805cbf482
+505,Kern,3,Ice Cream Shop,Dewar's Candy Shop,4b75b8e1f964a520bf1f2ee3
+506,Kern,3,Seafood Restaurant,Mariscos Las Islitas,4d1fdbef16cfb60ce4785461
+507,Kern,3,Italian Restaurant,Uricchio's Tratorria,4beb5fa862c0c9284026e2d4
+508,Kern,3,Italian Restaurant,Frugatti's Italian Eatery,4ba4316ff964a520bd8a38e3
+509,Kings,1,Burger Joint,In-N-Out Burger,52ab9946498e8e72b67af1c2
+510,Kings,1,Café,The Green Valley Cafe,4b76c2dbf964a5203f5d2ee3
+511,Kings,1,Burger Joint,In-N-Out Burger,4aaaa595f964a520c75620e3
+512,Kings,1,Burger Joint,The Habit Burger Grill,56290f98498ef19d1b002d5f
+513,Kings,1,Bakery,Panera Bread,4b50e279f964a520de3627e3
+514,Kings,1,Mexican Restaurant,El Tarasco,4c55e198479fc92839119695
+515,Kings,1,Taco Place,tacos el grullo,4b85bd53f964a520387031e3
+516,Kings,1,Juice Bar,Jamba Juice,4c990495de109eb0f4057c27
+517,Kings,1,Wings Joint,The Chicken Shack,54932b9a498ef9572f523607
+518,Kings,1,Fast Food Restaurant,Carl's Jr. / Green Burrito,4becf691bac3c9b613b8fde9
+519,Kings,1,Frozen Yogurt Shop,Yogurtland,5bb4febbdd8442002c32574c
+520,Kings,1,Chinese Restaurant,Panda Express,4b7ca5e3f964a520689f2fe3
+521,Kings,1,Mexican Restaurant,Chipotle Mexican Grill,5660b415498e91cb455fcac4
+522,Kings,1,Sandwich Place,Port of Subs,4b7a0058f964a5207c1e2fe3
+523,Kings,1,Pizza Place,Fatte Albert's Pizza Co.,4ba2da96f964a520481e38e3
+524,Kings,1,Burger Joint,Fosters Freeze,4c8027ffe602b1f7832c877a
+525,Kings,1,Breakfast Spot,The Vineyard Restaurant,4d2c8e8455a8b60c6908f1c0
+526,Kings,1,Coffee Shop,Starbucks,59595133123a195de6750e4b
+527,Kings,1,Snack Place,Auntie Anne's,4e4e2e1ebd4101d0d7a4170f
+528,Kings,1,Pizza Place,Papa Murphy's,4c898fd9e51e6dcb71a261de
+529,Kings,1,Fast Food Restaurant,Jack in the Box,4c53eb80b3b09c74e56822b4
+530,Kings,1,Coffee Shop,Starbucks,58b334818ae36347336c09c7
+531,Kings,1,Ice Cream Shop,Baskin-Robbins,4bd0625a77b29c74e9978a82
+532,Kings,1,Chinese Restaurant,Hong Kong Chop Suey Restaurant,4c27a39c905a0f47003e6560
+533,Kings,1,Coffee Shop,Starbucks,55a15e00498ee1b02547200e
+534,Kings,1,Mexican Restaurant,Arsenio's,4bfb4a0e565f76b0906e05db
+535,Kings,1,Burger Joint,Five Guys,57bded52498e8eb28d27289c
+536,Kings,1,Mexican Restaurant,Reyna's Mexican Restaurant,4c0d6f44c700c9b65e67a2dd
+537,Kings,1,Sandwich Place,Jimmy John's,5639306ccd1067db19f067b3
+538,Kings,1,Mexican Restaurant,Cisnero's Taqueria II,4c5a105d2091a5939f9c5ed0
+539,Kings,2,Ice Cream Shop,Superior Dairy Company,4b7dc07df964a52066d22fe3
+540,Kings,2,Mexican Restaurant,La Fiesta,4bd49818cfa7b7135b6b24da
+541,Kings,2,Mediterranean Restaurant,Zaytoona,55998d90498e8f66a45d8549
+542,Kings,2,Japanese Restaurant,Toshiko Japanese Cuisine,4c2fd41d66e40f47eda9c28b
+543,Kings,2,Japanese Restaurant,Geta Xpress,4b75d82df964a520ec282ee3
+544,Kings,2,Tex-Mex Restaurant,Chili's Grill & Bar,4bb4e107bc82a5935efe3e72
+545,Kings,2,American Restaurant,Coyote Grill,4c317442ed37a59378746a03
+546,Kings,2,American Restaurant,Applebee's Grill + Bar,4b7f5d43f964a520332a30e3
+547,Kings,2,Asian Restaurant,Zeny's Filipino Cuisine,4c79b4833badb1f70d2a5054
+548,Kings,2,Diner,Black Bear Diner,5490accc498e9b134174802b
+549,Kings,2,BBQ Joint,Dickey's Barbecue Pit,5261e6c111d2e4e8a99317a5
+550,Kings,2,Tea Room,L.T. Sue Co. Tea Room & Emporium,4f7b5d69e4b007b409702fdb
+551,Kings,2,American Restaurant,Ryan's Place,4cb20833db32f04df7fbcc4d
+552,Kings,2,Coffee Shop,Starbucks,4b72e2dff964a520858d2de3
+553,Kings,2,Wings Joint,Wingstop,552d4e2d498e0733657eae41
+554,Kings,2,Italian Restaurant,Fugazzis,4c29764b3492a593d90cb928
+555,Kings,2,Bar,Huggy's,4c034856f56c2d7fe6c11c66
+556,Kings,4,Japanese Restaurant,Boba Island,4c0b1218340720a17ca98793
+557,Lake,1,Sandwich Place,Jimmy's Deli,4bdb80ba383276b055b47369
+558,Lake,1,Café,Catfish Coffee House,4e615e9d52b1260c12aa00a3
+559,Lake,1,Burger Joint,Jolly Kone,4e35c60eb61cddd1cd41718a
+560,Lake,1,Mexican Restaurant,La Parrilla,4b6ce26df964a520825b2ce3
+561,Lake,1,Coffee Shop,Grinders Steep,4e00b5f8c65b896d116b22c2
+562,Lake,1,Mexican Restaurant,TNT On The Lake,4c0eb67275f99c74df82ecc4
+563,Lake,1,Café,Blue Wing Saloon & Cafe,4b0586b5f964a520b66a22e3
+564,Lake,1,Breakfast Spot,Sanducci's Cottage,4c827aedd8086dcb6dd37652
+565,Lake,1,Deli / Bodega,Perry's Deli,4b7c7bc4f964a52031962fe3
+566,Lake,1,Café,Renee's Cafe,4c2e9d8a3896e21ec7a9e290
+567,Lake,1,Sandwich Place,Subway,4dacbb156a23fc68ff398e23
+568,Lake,1,Coffee Shop,Starbucks,4d3a33d597e0a1cd15a66b3e
+569,Lake,1,Pizza Place,Round Table Pizza - Temporarily Closed,4bdc3a41a6fdef3bd8301547
+570,Lake,1,Sandwich Place,Subway,4d48cefd5129a35dcf0433ac
+571,Lake,1,Sandwich Place,Subway,4e98915555033ea8ab5e427e
+572,Lake,1,Sandwich Place,Subway,4c1c109dfcf8c9b67c7fa90b
+573,Lake,1,Fast Food Restaurant,Carl's Jr.,4d603c655b276dcb582313c6
+574,Lake,1,Fried Chicken Joint,KFC,4e24cb7118a8f1bc80208e1b
+575,Lake,1,Chinese Restaurant,Happy Garden Restaurant & Bar,4c50d8c55ee81b8d43d043ff
+576,Lake,1,Fast Food Restaurant,Taco Bell,4bb8f1617421a593284dc240
+577,Lake,1,Fried Chicken Joint,KFC,4d9e16ee48b6224b4f00349f
+578,Lake,1,Fast Food Restaurant,Carl's Jr.,4c2a8d56d1a10f4700a7f664
+579,Lake,1,Fast Food Restaurant,Jack in the Box,4c72bca3ad69b60c8f4a84b9
+580,Lake,1,Fast Food Restaurant,Burger King,4c41331ecc410f4746f4aa61
+581,Lake,1,Pizza Place,Firehouse Pizza,4be72a31bcef2d7f95f205e5
+582,Lake,2,Mexican Restaurant,Cactus Grill,4bd23c2941b9ef3bd3b5fde5
+583,Lake,2,American Restaurant,The Spot,514d1989e4b066e1ef25fb86
+584,Lake,2,Gastropub,Saw Shop Gallery Bistro,4bb6abf446d4a593f7a7c6c0
+585,Lake,2,Bar,Richmond Park Bar & Grill,4bc3e095dce4eee1edc9719d
+586,Lake,2,Brewery,O'Meara Brothers Brewing Company,54778569498e141c4ca88385
+587,Lake,2,American Restaurant,Cowpoke Cafe,4bb63bb3ef159c74969f75f7
+588,Lake,2,Brewery,Mount St. Helena Brewing Company,4c105559ce57c92825d281d2
+589,Lake,2,American Restaurant,Main Street Bar & Grill,4c265777f1272d7f5a6986c5
+590,Lake,2,BBQ Joint,The Boathouse Bar & BBQ,4c2e5e64452620a1e1b81b0f
+591,Lake,2,Thai Restaurant,Thai Bistro,4e2241e9b61cdcf1ecc73338
+592,Lake,3,Italian Restaurant,Park Place,4beeff8696edc9b6eb244af2
+593,Lassen,1,Mexican Restaurant,Mazatlan Grill,4bd7a0755cf276b0a1cd9b00
+594,Lassen,1,Mexican Restaurant,El Tepeyac Grille,4dd9560245ddced820b564ca
+595,Lassen,1,Chinese Restaurant,Panda Express,56f30b22498ed026ed1fc894
+596,Lassen,1,Pizza Place,Round Table Pizza,4c2be254b34ad13af38ceace
+597,Lassen,1,Fast Food Restaurant,Jack in the Box,4cbc59b07a5d9eb05f6331e9
+598,Lassen,1,Fast Food Restaurant,McDonald's,4bfa9ab88d30d13ac5cf0318
+599,Lassen,1,Coffee Shop,Starbucks,4bb7799c3db7b7130001209a
+600,Lassen,1,Fried Chicken Joint,KFC,4c84221be602b1f7ad74ac7a
+601,Lassen,1,Diner,Lumberjack's,51f8798f498e11c355db51f4
+602,Lassen,2,Brewery,Lassen Ale Works,4fc2c6a6e4b0f6b4ee76d95e
+603,Los Angeles,1,Art Museum,J. Paul Getty Museum,427ff980f964a520c7211fe3
+604,Los Angeles,1,Bookstore,The Last Bookstore,4dee93a0d4c019425301dd4e
+605,Los Angeles,1,Art Museum,The Broad,4eeb4c14b634b469c36a8c80
+606,Los Angeles,1,Ice Cream Shop,Salt & Straw,58a5368530ecc618cd3d30cf
+607,Los Angeles,1,Ice Cream Shop,Salt & Straw,5801612a38fab747a494609b
+608,Los Angeles,1,Coffee Shop,Blue Bottle Coffee,5b4539dc4c954c002c18f170
+609,Los Angeles,1,Observatory,Griffith Observatory,4a6e5d0df964a52093d41fe3
+610,Los Angeles,1,Ice Cream Shop,Saffron & Rose Ice Cream,4aa73b82f964a520694c20e3
+611,Los Angeles,1,Sandwich Place,Larchmont Village Wine & Cheese,4a5cecc3f964a520debc1fe3
+612,Los Angeles,1,Food Truck,Ricky's Fish Tacos,52b4ae65498e5cfe65970fae
+613,Los Angeles,1,Bakery,Proof Bakery,4ce0287b825e721ed2cd7445
+614,Los Angeles,1,Taco Place,Guisados,50e4af3de4b067b02e8b8842
+615,Los Angeles,1,Breakfast Spot,Met Her At A Bar,595fe67c0a464d1ac17063dd
+616,Los Angeles,1,Café,Spoke Bicycle Cafe,547a63fa498ef97a1092b01d
+617,Los Angeles,1,Coffee Shop,Blue Bottle Coffee,595ff9987269fe39b81d3200
+618,Los Angeles,1,Coffee Shop,Maru Coffee,57e822ed498e715ce7609025
+619,Los Angeles,1,Ice Cream Shop,Salt & Straw,5739352f498e45f1e3c540a7
+620,Los Angeles,1,Sandwich Place,Mendocino Farms,56455453498e2e765346728d
+621,Los Angeles,1,Sandwich Place,Wax Paper,55e492b0498ed112bead0545
+622,Los Angeles,1,Coffee Shop,Verve Coffee,560ec97c498e239b1a72f61b
+623,Los Angeles,1,Pizza Place,Roberta’s,5ba706749ef8ef002ccffcd2
+624,Los Angeles,1,Science Museum,California Science Center,4a789f0bf964a52013e61fe3
+625,Los Angeles,1,Coffee Shop,Blue Bottle Coffee,5a04977dd3cce816fb41f361
+626,Los Angeles,1,Ice Cream Shop,Jeni's Splendid Ice Creams,58768014f5bfab0c35fb67fe
+627,Los Angeles,1,Dessert Shop,Go Greek Yogurt,524e1a0e498e7145f7c0aeef
+628,Los Angeles,1,Brewery,Angel City Brewery,4d7ad06d51a3a093d5a69bb3
+629,Los Angeles,1,Burger Joint,In-N-Out Burger,4a46c6e3f964a52076a91fe3
+630,Los Angeles,1,Coffee Shop,Alfred Coffee & Kitchen,5037b4dee4b02b479d3e8dc8
+631,Los Angeles,1,Taco Place,Ave 26 Taco Stand,52329f2211d243a35dbad647
+632,Los Angeles,1,Food Truck,La Isla Bonita,4b09bef8f964a520d01c23e3
+633,Los Angeles,2,Wine Bar,Wally's,549a5c29498e7529d1aae65d
+634,Los Angeles,2,Ice Cream Shop,Salt & Straw,563fdd4ccd1088eed9da1cc6
+635,Los Angeles,2,Art Museum,Los Angeles County Museum of Art (LACMA),40a6af00f964a52027f31ee3
+636,Los Angeles,2,Wine Shop,Silver Lake Wine,4a56353df964a520c1b41fe3
+637,Los Angeles,2,Music Venue,The Hollywood Bowl,4161e400f964a5206f1d1fe3
+638,Los Angeles,2,Farmers Market,The Original Farmers Market,4a47e4f1f964a52040aa1fe3
+639,Los Angeles,2,Farmers Market,Hollywood Farmer's Market,49c53ab6f964a520ea561fe3
+640,Los Angeles,2,Sandwich Place,Mendocino Farms,524f7377498e1c862a0f5cf7
+641,Los Angeles,2,Mexican Restaurant,Tocaya Organica,5705a4e3498ea0a84f29d7f6
+642,Los Angeles,2,Coffee Shop,Blue Bottle Coffee,56e59bb0498e29dda29f7621
+643,Los Angeles,2,Coffee Shop,Verve Coffee Roasters,55df659e498ee04c03f457b1
+644,Los Angeles,2,Ice Cream Shop,Salt & Straw,541487f8498ecd37177dcca6
+645,Los Angeles,2,Mediterranean Restaurant,Bavel,5ade034f56c89f3f7d590b9d
+646,Los Angeles,2,Sushi Restaurant,KazuNori: The Original Hand Roll Bar,53d06bba498e6c801ea9816e
+647,Los Angeles,2,New American Restaurant,Superba Food + Bread,530faf60498e4936dd032288
+648,Los Angeles,2,Mediterranean Restaurant,Dune,54c7e947498e0337af1a23c0
+649,Los Angeles,2,Pizza Place,Pizzeria Mozza,4724d2d5f964a520d74b1fe3
+650,Los Angeles,2,Latin American Restaurant,Dama Fashion District,5b429a7e7564f7002c33491d
+651,Los Angeles,2,American Restaurant,Ostrich Farm,54a7698a498e98a2023c0a00
+652,Los Angeles,2,Coffee Shop,Verve Coffee,54c7d710498ed093faf6a57e
+653,Los Angeles,2,German Restaurant,Wurstküche,49b064dcf964a520bc521fe3
+654,Los Angeles,2,Ethiopian Restaurant,Meals By Genet,4bf739e0508c0f47a7683d31
+655,Los Angeles,2,Seafood Restaurant,The Boiling Crab,54d52884498eca3643a5558f
+656,Los Angeles,2,Italian Restaurant,Felix Trattoria,58e6a6cf6cea3f3dd9c8b8b5
+657,Los Angeles,2,German Restaurant,Wurstküche,4e3db435d22d102e8545e7e3
+658,Los Angeles,2,Restaurant,Mh Zh,58d53ac1b38b326aadf27157
+659,Los Angeles,2,American Restaurant,Mendocino Farms,4bd7a7ffe914a59389d551fa
+660,Los Angeles,2,Sushi Restaurant,Kazunori,591df7df6fa81f3c8c1f4296
+661,Los Angeles,2,Deli / Bodega,Brent's Deli,49c1721bf964a520a8551fe3
+662,Los Angeles,2,Sandwich Place,Mendocino Farms,4eb09cc093adccbac45899eb
+663,Los Angeles,3,Theme Park Ride / Attraction,The Wizarding World of Harry Potter,4ee3a0d59a52c1dad97abaac
+664,Los Angeles,3,Theme Park,Universal Studios Hollywood,4a6cc0f0f964a52088d11fe3
+665,Los Angeles,3,Theme Park Ride / Attraction,Harry Potter and the Forbidden Journey,56c0efdecd1043d2f474b9cd
+666,Los Angeles,3,Italian Restaurant,Bestia,506a1177e4b0bafc66607b7d
+667,Los Angeles,3,French Restaurant,République,527dab3d11d242392040d3a3
+668,Los Angeles,3,Grocery Store,Whole Foods Market,562796d5498e03dd35da0f5e
+669,Los Angeles,3,Sushi Restaurant,SUGARFISH | Santa Monica,4d3a0739979ea1431ac88bfc
+670,Los Angeles,3,Speakeasy,No Vacancy,509a18d8e4b08bf010b68112
+671,Los Angeles,3,Sushi Restaurant,SUGARFISH by sushi nozawa,5137c5afe4b097f9ccc87832
+672,Los Angeles,3,Cocktail Bar,Everson Royce Bar,55fccaa5498ec525f32b644d
+673,Los Angeles,3,Korean Restaurant,Kang Ho Dong Baek Jeong,4f0fcb0be4b07e9ec8c0cacc
+674,Los Angeles,3,Café,Gjusta,544e59cc498ee019d1af49d6
+675,Los Angeles,3,American Restaurant,Bandera,45a22f9cf964a520e9401fe3
+676,Los Angeles,3,Italian Restaurant,Jon & Vinny's,553559ab498ee7a9ecd3e7ba
+677,Los Angeles,3,Italian Restaurant,Angelini Osteria,4a8e0dd4f964a520e81120e3
+678,Los Angeles,3,New American Restaurant,Ysabel West Hollywood,54dc21cf498e6287692057c7
+679,Los Angeles,3,Speakeasy,Birds & Bees,5873fafb5e789611577ee395
+680,Los Angeles,3,New American Restaurant,Gjelina,4a6bdc59f964a52020d01fe3
+681,Los Angeles,3,Korean Restaurant,Park's BBQ,4ad94bbaf964a520a61921e3
+682,Los Angeles,3,Performing Arts Venue,The Magic Castle,468d7b22f964a52076481fe3
+683,Los Angeles,3,Italian Restaurant,Bottega Louie,49e25d07f964a5200f621fe3
+684,Los Angeles,3,Lounge,Mojo Hookah lounge,56c00eb9cd104c42298ee68d
+685,Los Angeles,3,New American Restaurant,Here's Looking at You,574f9a9d498e6a1b7c8aeda2
+686,Los Angeles,4,Steakhouse,Lawry's The Prime Rib,3fd66200f964a520cfee1ee3
+687,Los Angeles,4,Basketball Stadium,STAPLES Center,42893400f964a5207e231fe3
+688,Los Angeles,4,Sushi Restaurant,Koi Restaurant,4a1a01fcf964a520797a1fe3
+689,Los Angeles,4,Tapas Restaurant,The Bazaar by José Andrés,4abc28daf964a5209e8620e3
+690,Los Angeles,4,Lounge,Soho House,4b91de6df964a520acdc33e3
+691,Madera,1,Mexican Restaurant,Sal's,4b9fd83df964a520fd4337e3
+692,Madera,1,Coffee Shop,Starbucks,4b957081f964a520aaa234e3
+693,Madera,1,Coffee Shop,Starbucks,4be18b2c8e2962b544589b0a
+694,Madera,1,Coffee Shop,Starbucks,570847c5cd102400483c0a15
+695,Madera,1,Mexican Restaurant,Chipotle Mexican Grill,577447bf498ee11d22732fb9
+696,Madera,1,Pizza Place,Round Table Pizza,4c12a04da1010f475b344918
+697,Madera,1,Sandwich Place,Deli Delicious,55afb6af498efe124a6ccb4f
+698,Madera,1,Taco Place,Carniceria Y Taqueria Mexico,4cf6a61f1cfea093b7c6e039
+699,Madera,1,Sandwich Place,Deli Delicious,5260a3e411d244d5b6f3031d
+700,Madera,1,Sandwich Place,Jimmy John's,5707305f498ef6461e373648
+701,Madera,1,Mediterranean Restaurant,Kebab Grill,4c2558b8136d20a1ca80e361
+702,Madera,1,Fast Food Restaurant,Rally's,4b830aa1f964a52024f430e3
+703,Madera,1,Pizza Place,Mountain Mike's Pizza,4f3c3f02e4b05966f68654ca
+704,Madera,1,Pizza Place,Papa Murphys,4dc73ef9d164eb9ca01c4867
+705,Madera,1,Chinese Restaurant,Panda Express,4b82fe94f964a52087f130e3
+706,Madera,1,Sandwich Place,SUBWAY,4bbce8e6a0a0c9b614f81a0f
+707,Madera,1,Burger Joint,Frosty Queen,52bb452f498e0663e0260af5
+708,Madera,1,Fast Food Restaurant,SONIC Drive In,4bf0622124f020a19f0c684f
+709,Madera,1,Breakfast Spot,IHOP,4b8475e6f964a520d63631e3
+710,Madera,1,Sandwich Place,TOGO'S Sandwiches,53f51949498e2942baa4e44d
+711,Madera,1,Fast Food Restaurant,Carl's Jr. / Green Burrito,4b820db6f964a5202ec930e3
+712,Madera,1,Pizza Place,Pizza Hut,4c5ffd153a3703bb7f14e406
+713,Madera,1,Ice Cream Shop,Baskin-Robbins,4f91bdaa7beb818efa884754
+714,Madera,1,Sandwich Place,Cinnabon,4f256896e4b0e120829cf0d9
+715,Madera,1,Sandwich Place,Subway,4b65f00af964a520a8092be3
+716,Madera,1,Sandwich Place,SUBWAY,4b917954f964a52045bf33e3
+717,Madera,1,Sandwich Place,SUBWAY,4e9f1841dab4b02e653ebed7
+718,Madera,1,Donut Shop,Dunkin',5b0338fea22db7002c5cfa4f
+719,Madera,1,Pizza Place,Little Caesars Pizza,4cd0ad8d1ac7a1cdeb181b92
+720,Madera,1,Fast Food Restaurant,Carl's Jr.,4ce71cc1d99f721eb61ba873
+721,Madera,2,Italian Restaurant,DiCicco's,4b9bf5d8f964a520c73a36e3
+722,Madera,2,American Restaurant,The Vineyard Restaurant,4b760724f964a5209c372ee3
+723,Madera,2,Vietnamese Restaurant,Phodera,4fcfdcfee4b0b14861582ecc
+724,Madera,2,Diner,Black Bear Diner,5490adc9498e87dd3e30529d
+725,Madera,2,Wings Joint,Wingstop,51104d163d7c2f14d10c4447
+726,Madera,2,BBQ Joint,Players Smoked BBQ,51e06133498efa9d7be98bf4
+727,Marin,1,Pizza Place,Pizzeria Picco,4ade4fa7f964a520e47421e3
+728,Marin,1,National Park,Muir Woods National Monument,454cf043f964a520c63c1fe3
+729,Marin,1,Pizza Place,San Drino,55fcbb96498eb3a5d57cb374
+730,Marin,1,Mexican Restaurant,The Siren Canteen,53c44199498edc618e131ad9
+731,Marin,1,Mexican Restaurant,Mi Pueblo,502ee8c5e4b0c65b4a903872
+732,Marin,1,Burger Joint,In-N-Out Burger,52325a342fc673ebf3ad4e16
+733,Marin,1,Bakery,Rustic Bakery,4d3a3f6397e0a1cdcb2d6c3e
+734,Marin,1,Burger Joint,Shake Shack,5c9a849933e118002c92e276
+735,Marin,1,Bar,Gestalt Haus Fairfax,4aa46978f964a520bb4620e3
+736,Marin,1,Coffee Shop,Equator Coffees & Teas,57377135498e8763633daa51
+737,Marin,1,New American Restaurant,Cafe Del Soul,5161d498498ee174ce00b533
+738,Marin,1,Sandwich Place,Michael's Sourdough Sandwiches,4b4248faf964a520b6d025e3
+739,Marin,1,Coffee Shop,Shoreline Coffee Shop,4b1ea1faf964a520101d24e3
+740,Marin,1,Coffee Shop,Philz Coffee,59d67b929ef8ef6d20f11c3d
+741,Marin,1,Pizza Place,Creekside Pizza & Taproom,597d493abd4009797aa65c79
+742,Marin,1,Ice Cream Shop,Fairfax Scoop,4a74c6baf964a5208cdf1fe3
+743,Marin,1,Bakery,Arizmendi Bakery,4b8d8ccff964a520910033e3
+744,Marin,1,Café,Eduardo's  Restaurant,4adf2f55f964a520207821e3
+745,Marin,1,Ice Cream Shop,Three Twins Ice Cream,4efcde8f8b81b0190808932c
+746,Marin,1,Deli / Bodega,Sausalito Gourmet Delicatessen,4b4b93e3f964a520d6a026e3
+747,Marin,1,Bakery,Rustic Bakery,574202d4498e0117fca672c4
+748,Marin,1,Mexican Restaurant,Taqueria Cancun,4b5d1cbdf964a5202e5329e3
+749,Marin,1,Burger Joint,In-N-Out Burger,43fed5a9f964a52004301fe3
+750,Marin,1,Burger Joint,Super Duper Burger,4eece8272c5bafa618643137
+751,Marin,1,Mexican Restaurant,Picante,4b4249f5f964a520cad025e3
+752,Marin,1,Burger Joint,Five Guys,51476a3ee4b075ebde3e51ae
+753,Marin,1,Juice Bar,Juice Girl,53bacdf5498ea7ec7d5a3789
+754,Marin,1,Mexican Restaurant,Mi Pueblo Food Center,4ba3cd26f964a520046138e3
+755,Marin,1,Mexican Restaurant,Flores,5bc1044d1cf2e1002c822ccd
+756,Marin,1,Sandwich Place,Italian Delite,4a1c52baf964a520387b1fe3
+757,Marin,2,Bakery,M.H. Bread and Butter,517b3dbe80555420b2aa7f35
+758,Marin,2,Latin American Restaurant,Sol Food Puerto Rican Cuisine,49cb3851f964a52001591fe3
+759,Marin,2,Coffee Shop,Equator Coffees & Teas,51c765b5498e538e7259f69b
+760,Marin,2,Caribbean Restaurant,Sol Food Puerto Rican Cuisine,511555f1e4b0cde3d2e54b8c
+761,Marin,2,Coffee Shop,Equator Coffees & Teas,528ef16c498ee4dc21194848
+762,Marin,2,American Restaurant,Sir And Star at the Olema,51f5ad42498e374989d7506d
+763,Marin,2,Pizza Place,Bar Bocce,4d856fbb5ad3a0930500e6fd
+764,Marin,2,Indian Restaurant,Cafe Lotus,4b8d8f63f964a520130133e3
+765,Marin,2,Cheese Shop,Cowgirl Creamery at Pt Reyes Station,4aee13e1f964a520e2d121e3
+766,Marin,2,Thai Restaurant,My Thai,4b1dc825f964a5203a1524e3
+767,Marin,2,Sandwich Place,Blue Barn Gourmet,5071f0b2e4b0559b4e185b88
+768,Marin,2,Bakery,Rustic Bakery,4b006d21f964a520183e22e3
+769,Marin,2,American Restaurant,Restaurant Picco,4e2b94e718a80bb0585bb3b7
+770,Marin,2,American Restaurant,Terrapin Crossroads,4f5831631e17278641a1c59c
+771,Marin,2,BBQ Joint,Pig in a Pickle,53cd759e498eaca0b60c1dd0
+772,Marin,2,Mexican Restaurant,Los Moles,54decd91498e9bec96f9210d
+773,Marin,2,Seafood Restaurant,Tomales Bay Oyster Company,4bd4b7726798ef3b2a41628d
+774,Marin,2,Seafood Restaurant,Salito's Crab House & Prime Rib,4e5aa906a8098920b3cefb4c
+775,Marin,2,Café,Comforts Fine City Homestyle Food,4abcee0af964a520bc8720e3
+776,Marin,2,Italian Restaurant,Piatti,4c9e93cb7c096dcb21c1d6d1
+777,Marin,2,Burger Joint,Napa Valley Burger,4f19cbc4e4b025b0616b40b6
+778,Marin,2,Indian Restaurant,Lotus Cuisine of India,4a64f33ff964a5200bc71fe3
+779,Marin,2,Asian Restaurant,Burmatown,54bb1ed0498ec3ed3d9f00a7
+780,Marin,2,American Restaurant,Barrel House Tavern,51ccee2a498efb66f29c7613
+781,Marin,2,Taco Place,Joe's Taco Lounge,4a46e8ccf964a520a6a91fe3
+782,Marin,2,Italian Restaurant,Piazza D'Angelo Ristorante,4acb8dc3f964a52042c420e3
+783,Marin,2,Wine Bar,Tiburon Wine,50a851e5e4b02dc98d456e8e
+784,Marin,2,Asian Restaurant,Bbq & Curry House Indian and Pakistani Restaurant,529535c9498edd5b17f4c302
+785,Marin,2,Bar,Iron Springs Public House,5a6b838242d8c2036cfaa266
+786,Marin,2,Deli / Bodega,Woodlands Market,4dbc5e9c43a1d8504b8a1bc3
+787,Marin,3,Seafood Restaurant,Hog Island Oyster Farm,4b525906f964a5208c7827e3
+788,Marin,3,Seafood Restaurant,Saltwater,5000e9f5e4b093944c2b94eb
+789,Marin,3,Japanese Restaurant,Sushi Ran,43c3ad7ef964a520542d1fe3
+790,Marin,3,Seafood Restaurant,Scoma's Sausalito,49cf0b37f964a5209d5a1fe3
+791,Marin,3,Seafood Restaurant,Fish.,4a4593a3f964a5205ba81fe3
+792,Marin,3,Bakery,Rustic Bakery,4f3eb5c7e4b0c9cefead4e2c
+793,Marin,3,Seafood Restaurant,The Marshall Store,4bf065a124f19c746639f983
+794,Marin,3,Brewery,Mill Valley Beerworks,4b8da6d0f964a520840633e3
+795,Marin,3,American Restaurant,Buckeye Roadhouse,4a2b0fb9f964a52094961fe3
+796,Marin,3,Italian Restaurant,Il Davide Cucina Italiana,4c2d22681683b713d04826ec
+797,Marin,3,Ice Cream Shop,Silberman's Ice Cream,4b8346f0f964a520580031e3
+798,Marin,3,American Restaurant,Farmshop,518b078e498e719eefcfafbc
+799,Marin,3,Mediterranean Restaurant,Insalata's,4ad8171df964a520b81021e3
+800,Marin,3,Gastropub,Joinery,58718a395a5869791ca76f37
+801,Marin,4,Seafood Restaurant,Nick's Cove & Cottages,4bc3cae2dce4eee129c1719d
+802,Mendocino,1,Dive Bar,Dick's Place,4b789992f964a52077d92ee3
+803,Mendocino,1,Café,Goodlife Cafe & Bakery,5037fefae4b0d3a7939ac78a
+804,Mendocino,1,Breakfast Spot,Queenies Cafe,4ed25df56da162f1c0d2857b
+805,Mendocino,1,Pub,Patterson's Pub,4aa461acf964a520a64620e3
+806,Mendocino,1,Dessert Shop,Papa Bear’s Chocolate Haus,4bca0d36937ca593eefaa692
+807,Mendocino,1,Café,Mosswood Market Cafe & Bakery,4b65f53ff964a520000b2be3
+808,Mendocino,1,Ice Cream Shop,Paysanne,4c843360d4e23704ad3f7888
+809,Mendocino,1,Deli / Bodega,Boonville General Store,4b3bc96af964a520337b25e3
+810,Mendocino,1,Deli / Bodega,Mendocino Market,4bc10385f8219c74deb0b210
+811,Mendocino,1,Pizza Place,Frankie's,4b78c2eef964a52045e12ee3
+812,Mendocino,1,Beer Garden,Boonville Beerfest,4be4bd38910020a13e34d214
+813,Mendocino,1,Deli / Bodega,Tote Féte,4bc9ff2f0687ef3bdcfadacc
+814,Mendocino,1,Diner,Redwood Drive-In Cafe,4b75d89af964a52003292ee3
+815,Mendocino,1,Coffee Shop,Moody's Organic Coffee Bar,4bbcfa2b593fef3b1ae50256
+816,Mendocino,2,Brewery,Anderson Valley Brewing Company,4b819a1df964a520ebb130e3
+817,Mendocino,2,New American Restaurant,Stone And Embers,526c6e9011d2c398f1d82057
+818,Mendocino,2,Restaurant,The Apple Farm,4cb22f5aaef16dcb9374bf54
+819,Mendocino,2,American Restaurant,Little River Inn Restaurant,590e911b82a750569d522c65
+820,Mendocino,2,American Restaurant,Trillium Cafe,5337297a11d2d39d07ef81b7
+821,Mendocino,2,Breakfast Spot,Circa '62 at the Inn at Schoolhouse Creek,506db624e4b0b4cf0dd0eaac
+822,Mendocino,2,Restaurant,Table 128,4efa734930f894d86b220ad6
+823,Mendocino,2,Italian Restaurant,Luna Trattoria,5abc5ae960d11b070d10d1bb
+824,Mendocino,2,American Restaurant,Lauren's,4b7610a4f964a520463a2ee3
+825,Mendocino,2,Wine Bar,Husch Vineyards,4f32905119836c91c7e4109a
+826,Mendocino,2,American Restaurant,The Buckhorn Boonville,4d817b8759d16dcbe86bfa1b
+827,Mendocino,2,Restaurant,Mendocino Hotel Bistro,4de302f62271bfb844aa4e42
+828,Mendocino,3,New American Restaurant,Bewildered Pig,58ce0c2e24ca6a54f1ff6fa4
+829,Mendocino,3,Hotel Bar,The Boonville Hotel,4ba8ce0df964a52053f039e3
+830,Mendocino,3,New American Restaurant,Cafe Beaujolais,4b32c64af964a520a91325e3
+831,Mendocino,3,Cocktail Bar,Ole's Whale Watch Bar,4bd488736798ef3b36d0618d
+832,Mendocino,3,Seafood Restaurant,Mendocino Cafe,4ab3f000f964a520356f20e3
+833,Mendocino,3,Vegetarian / Vegan Restaurant,Ravens' Restaurant,4b78d120f964a52075e32ee3
+834,Mendocino,4,American Restaurant,"MacCallum House Restaurant, Grey Whale Bar & Cafe",4c5ccb569b28d13a9e055870
+835,Mendocino,4,Seafood Restaurant,Wild Fish,4eed694c9911d70cb7d54174
+836,Merced,1,Diner,Toni's Courtyard Cafe,4b4cfdb5f964a520e0c626e3
+837,Merced,1,Burger Joint,In-N-Out Burger,4b4bee96f964a52085ab26e3
+838,Merced,1,Bagel Shop,Bagel Tyme,4bc9e0dfcc8cd13ac553bccf
+839,Merced,1,Burger Joint,H&W Family Drive In,4bee08982c082d7fbbf32f42
+840,Merced,1,Mexican Restaurant,El Asadero Restaurant,4ce47e85e1dba35de6937c88
+841,Merced,1,Coffee Shop,Starbucks,4bb2042df964a52035b23ce3
+842,Merced,1,Juice Bar,Jamba Juice,4ba6524df964a5201f4639e3
+843,Merced,1,Diner,Paul's Place Restaurant & Bakery,4bba210b7421a593326dc340
+844,Merced,1,Coffee Shop,Starbucks,57ca1b4e38fa9033380e3fbe
+845,Merced,1,Mexican Restaurant,Mario's Taco Shop,4c4f35ee8b5520a1370e2004
+846,Merced,1,Burger Joint,Five Guys,5758665a498e4b8f20749d5a
+847,Merced,1,Mexican Restaurant,Chipotle Mexican Grill,52f3da7f498eb0fd98519e05
+848,Merced,1,Donut Shop,Donut King's,4d5813db7c0b370433e7dd08
+849,Merced,1,Café,Coffee Bandits,4eda9bf00aaf49e029dd5e38
+850,Merced,1,Coffee Shop,Starbucks,4ba78bdaf964a520349c39e3
+851,Merced,1,Ice Cream Shop,Cold Stone Creamery,4c080918b913b7135af39621
+852,Merced,1,Coffee Shop,Starbucks,4ba2b0fff964a520af1038e3
+853,Merced,1,Pizza Place,Pizza Villa,4b5a07dff964a520d7a828e3
+854,Merced,1,Mexican Restaurant,Los Panchos,4dc4b633d4c0ad9c0f7672f8
+855,Merced,1,Taco Place,J & R Tacos,4b834cc6f964a520610131e3
+856,Merced,1,Chinese Restaurant,New China Cafe,4c71e72d9e706dcb27b44962
+857,Merced,1,Mexican Restaurant,Florencio's Mexican Restaurant,4bf092ebb315c9b6683293ff
+858,Merced,1,Breakfast Spot,IHOP,4bc11cc574a9a593c662d1f6
+859,Merced,1,Pizza Place,Papa Murphy's,4c4a56f9f7cc1b8dbcf13c3e
+860,Merced,1,Fast Food Restaurant,Sonic Drive-In,4af5f707f964a5208aff21e3
+861,Merced,1,Sandwich Place,TOGO'S Sandwiches,4c1e99d263750f471904ba67
+862,Merced,1,Mexican Restaurant,Mariana's Mexican Grill,4be89be3c5220f47f0faa9ca
+863,Merced,1,Pizza Place,Round Table Pizza,4bcb63cccc8cd13adf4cbfcf
+864,Merced,1,Fast Food Restaurant,Del Taco,4b9add40f964a5206ddd35e3
+865,Merced,1,Fast Food Restaurant,Taco Bell,4c3f5cd9d691c9b619a0890a
+866,Merced,2,Bakery,Panera Bread,530f5d9911d2a2933628bfab
+867,Merced,2,American Restaurant,Jantz Cafe,51437dafe4b0158df9ac21c6
+868,Merced,2,Indian Restaurant,Taste Of Little India,4bb3f2d09af3b7139fcf8b28
+869,Merced,2,Italian Restaurant,Strings Italian Cafe,4b663e35f964a520651a2be3
+870,Merced,2,Asian Restaurant,Thai Cuisine II,4bbbd04651b89c7424c3862a
+871,Merced,2,Japanese Restaurant,Pocket 8's Sushi & Grill,4be8602a88ed2d7ff1cacb1d
+872,Merced,2,New American Restaurant,Bella Luna Bistro,4f0750d2e4b0ef60ec5b0f22
+873,Merced,2,Diner,Black Bear Diner,5490b1fc498ec1eb54e09508
+874,Merced,2,Thai Restaurant,Sam's Cafe,4b6f2bb1f964a520b2e12ce3
+875,Merced,2,Indian Restaurant,Turmeric Indian Cuisine,51ae3e5a498e49e56f96dd8e
+876,Merced,2,Bar,O'Ryleigh's Tavern,4bd29b049854d13ad91bfc4d
+877,Merced,2,BBQ Joint,The BBQ Pit,4bc1fc484cdfc9b6674f9521
+878,Merced,3,Steakhouse,The Branding Iron Restaurant,4bf5ff0d004ed13a51d541a0
+879,Monterey,1,Beer Garden,Fieldwork Brewing Company,599667f5f0b49071072a3d36
+880,Monterey,1,Sandwich Place,Compagno's Market & Deli,4b254954f964a5205d6f24e3
+881,Monterey,1,Bakery,Parker-Lusseau Pastries,4c3638091e06d13ae0d7733e
+882,Monterey,1,Burger Joint,In-N-Out Burger,56f4438f498ed9041c857d4c
+883,Monterey,1,Coffee Shop,Captain + Stoker,5ae4a6ac0dd31f0024c62304
+884,Monterey,1,Coffee Shop,Bright Coffee,52261aac11d22eec5772fb8f
+885,Monterey,1,Sandwich Place,Mundos Cafe,4e36c7472271b2cf068525ea
+886,Monterey,1,Pizza Place,Pizza My Heart,4a74e8a7f964a520f8df1fe3
+887,Monterey,1,Vegetarian / Vegan Restaurant,El Cantaro,5195203c498ea6c394ace669
+888,Monterey,1,Sports Bar,Sticks at Spanish Bay,4bc8ca2f92b376b08434523a
+889,Monterey,1,Sandwich Place,La Sala's Bi-rite,4beafc2da9900f478d371740
+890,Monterey,1,Ice Cream Shop,Revival Ice Cream,5801a2cd38faa9fbef124c0e
+891,Monterey,1,Breakfast Spot,Old Monterey Cafe,4b65e6def964a52025072be3
+892,Monterey,1,Bakery,Patisserie Bechler,4c40b4d9e26920a199525de7
+893,Monterey,1,Coffee Shop,Starbucks,4aff8afef964a520643922e3
+894,Monterey,1,Coffee Shop,Water + Leaves,56856c5a498e81a958a42f40
+895,Monterey,1,Mexican Restaurant,Papa Chano's,4b4a3b9df964a520e67f26e3
+896,Monterey,1,Pizza Place,heirloom pizza co.,59fa5c008ad62e632762ceb8
+897,Monterey,1,Coffee Shop,Cafe Lumiere,4ae21b52f964a520c98a21e3
+898,Monterey,1,Breakfast Spot,The Club Room,4be25540660ec9287763c93b
+899,Monterey,1,Café,Tidal Coffee,5a78d3a1772fbc2908e5b2ff
+900,Monterey,1,Coffee Shop,Peet's Coffee & Tea,4bad7f9af964a520b6563be3
+901,Monterey,1,Pizza Place,Pelican Pizza,4bb01ae9f964a52064373ce3
+902,Monterey,2,Aquarium,Monterey Bay Aquarium,4a028eeef964a5205d711fe3
+903,Monterey,2,Ice Cream Shop,Cold Stone Creamery,4b686a35f964a52012772be3
+904,Monterey,2,Brewery,Alvarado Street Brewery & Grill,535e85ec498eba1a5a1478b9
+905,Monterey,2,Restaurant,Hula's Island Grill & Tiki Room,4ace80a7f964a520eed020e3
+906,Monterey,2,Sandwich Place,Ike's Sandwiches,531fb925498e34aff22365d6
+907,Monterey,2,Sushi Restaurant,Crystal Fish,4b3ffa55f964a52069b325e3
+908,Monterey,2,Grocery Store,Trader Joe's,4b60e327f964a520ceff29e3
+909,Monterey,2,Wine Bar,A Taste of Monterey,4cb8dff5dd41a35d5728dea0
+910,Monterey,2,Seafood Restaurant,Monterey's Fish House,4b5539cdf964a52038df27e3
+911,Monterey,2,Cupcake Shop,Kara's Cupcakes,5206f421498e924279f9dd7f
+912,Monterey,2,Sushi Restaurant,Yama Sushi,4b47e6c2f964a520554326e3
+913,Monterey,2,Bakery,Paris Bakery Cafe,4b6fac7df964a520aaf92ce3
+914,Monterey,2,Diner,Loulou's Griddle In The Middle,4b9d4838f964a520df9f36e3
+915,Monterey,2,Pizza Place,Gianni's Pizza,4b6f7050f964a5208bf02ce3
+916,Monterey,2,Pub,The Crown & Anchor,4b493c56f964a520ff6a26e3
+917,Monterey,2,Thai Restaurant,Zab Zab Thai Cuisine,54a34f9c498e2a645b6c9f00
+918,Monterey,2,Italian Restaurant,Taste Cafe & Bistro,4c100a0eb93cc9b6a91c56e0
+919,Monterey,2,American Restaurant,Rosine's Restaurant,4aabfdcdf964a5206d5b20e3
+920,Monterey,2,Sushi Restaurant,Ocean Sushi Deli,4b4a5d9ff964a5206c8526e3
+921,Monterey,2,Restaurant,Crepes of Brittany,5802078d38fab63bb7405566
+922,Monterey,2,Mediterranean Restaurant,Paprika Cafe,4bc3d013461576b0043e7f32
+923,Monterey,2,Seafood Restaurant,Bubba Gump Shrimp Co.,4b107d2df964a520937123e3
+924,Monterey,2,American Restaurant,Lalla Grill,4b6ce5b0f964a520565c2ce3
+925,Monterey,2,Chinese Restaurant,P.F. Chang's,4c05a6c0d3842d7fc789be41
+926,Monterey,2,Coffee Shop,Starbucks,4c39f39f2c8020a1f3758d00
+927,Monterey,2,Mexican Restaurant,Chipotle Mexican Grill,5282948a11d248c5b0ee5d19
+928,Monterey,2,Indian Restaurant,Ambrosia India Bistro,4b7f2167f964a520ca1830e3
+929,Monterey,2,American Restaurant,Islands Restaurant,4b4fc874f964a5203f1527e3
+930,Monterey,2,Italian Restaurant,Paluca Trattoria,4daa41866e81162ae7d3439c
+931,Monterey,2,Creperie,Crepes of Brittany,4df797ed1f6e94c2c7802838
+932,Monterey,3,New American Restaurant,Montrio Bistro,4aac5ce3f964a520a15d20e3
+933,Monterey,3,New American Restaurant,Tarpy's Road House,4b58d1f0f964a520e06c28e3
+934,Monterey,3,French Restaurant,Bistro Moulin,4c8ad2c31797236a1a746588
+935,Monterey,3,Seafood Restaurant,Chart House Restaurant,4b6a22dff964a52095c92be3
+936,Monterey,3,Seafood Restaurant,The Poke Lab,56ba4f2a498e293d3dacea24
+937,Monterey,3,Seafood Restaurant,Shake's Old Fisherman's Grotto,4a028f66f964a5205e711fe3
+938,Monterey,3,Seafood Restaurant,Sandbar & Grill,4b908116f964a520a58d33e3
+939,Monterey,3,Seafood Restaurant,The Sardine Factory,4a19f7d8f964a520737a1fe3
+940,Monterey,3,Seafood Restaurant,Fish Hopper Seafood & Steaks,4a986d9af964a520f72b20e3
+941,Monterey,3,New American Restaurant,Lalla Oceanside Grill,5662574f498e7d1d096e9bd4
+942,Monterey,3,Seafood Restaurant,Schooners,4b22f988f964a520635124e3
+943,Monterey,3,Lounge,Lallapalooza,4a73ac5bf964a52021dd1fe3
+944,Monterey,3,Seafood Restaurant,Sea Harvest Fish Market,4abfc3b0f964a5200c9220e3
+945,Monterey,3,Seafood Restaurant,Wave Street Café,55f98955498e17705d41da52
+946,Monterey,3,Greek Restaurant,Epsilon Fine Greek Restaurant,4d32597d8c42a1cd460de85d
+947,Monterey,3,Seafood Restaurant,crab house,58928a01ba883735f309f180
+948,Monterey,3,American Restaurant,Rocky Point,4b9c028df964a5206e4036e3
+949,Monterey,4,American Restaurant,Whaling Station Steakhouse,4b6521a0f964a52095e52ae3
+950,Napa,1,Café,Southside,574214ee498ef558ce9d8513
+951,Napa,1,Coffee Shop,Ritual Coffee Roasters,4b251b9cf964a5205b6c24e3
+952,Napa,1,Ice Cream Shop,Three Twins,4b799b31f964a52010052fe3
+953,Napa,1,Fast Food Restaurant,Heritage Eats,55198243498edbf6282c1f77
+954,Napa,1,Burger Joint,In-N-Out Burger,4a7e32ccf964a52067f11fe3
+955,Napa,1,Mexican Restaurant,Gran Electrica,5abadbb71cf2e1255b4d7e17
+956,Napa,1,Pizza Place,Azzurro Pizzeria e Enoteca,4ac93c93f964a5204fbf20e3
+957,Napa,1,Coffee Shop,Peet's Coffee & Tea,4ae86fbdf964a52054af21e3
+958,Napa,1,Pizza Place,Velo Pizzeria,52a107e211d271c8526e4e7f
+959,Napa,1,Café,Molinari Caffe,4f6638d1e4b0fb96f76bf44b
+960,Napa,1,Bakery,Sweetie Pies,4ad136e9f964a52087dd20e3
+961,Napa,1,Falafel Restaurant,Small World Restaurant,4b71db74f964a52077602de3
+962,Napa,1,Burger Joint,Squeeze Inn,4b492563f964a520b96726e3
+963,Napa,1,Coffee Shop,Dutch Bros Coffee,5552cfe8498ebeaf90907112
+964,Napa,1,Pizza Place,Forge Pizza,5752159a498e9fd596e68fd8
+965,Napa,1,Breakfast Spot,Butter Cream Bakery & Diner,4ae328a6f964a520109121e3
+966,Napa,1,Mexican Restaurant,Las Palmas,4b873f97f964a52079b831e3
+967,Napa,1,Pizza Place,MOD Pizza,5813b5c138fa62c38873facc
+968,Napa,1,Coffee Shop,Starbucks,5064dcc7e4b01981bb6a7a00
+969,Napa,1,Pizza Place,LiveFirePizza,5945e2dc67a9fe24f17b3057
+970,Napa,1,Burger Joint,Andie's Cafe,4a91a583f964a5201f1b20e3
+971,Napa,1,Mexican Restaurant,Taqueria Zapata,4b5e7524f964a5208e8f29e3
+972,Napa,1,Fast Food Restaurant,Wendy's,4b5cfd2cf964a520f14d29e3
+973,Napa,1,Coffee Shop,Starbucks,4c1f883ceac020a104364bc2
+974,Napa,2,Seafood Restaurant,Hog Island Oyster Co.,4b512b56f964a520ba4527e3
+975,Napa,2,Burger Joint,Gott's Roadside,4a2adcf2f964a5205f961fe3
+976,Napa,2,New American Restaurant,Mustards Grill,4ada2f0bf964a520a91f21e3
+977,Napa,2,Tapas Restaurant,Zuzu,3fd66200f964a5206ef11ee3
+978,Napa,2,Restaurant,Boon Fly Cafe,4bdc49bbc79cc92857e185e9
+979,Napa,2,Winery,Artesa Vineyards & Winery,4a05f551f964a520a1721fe3
+980,Napa,2,Winery,Clos Du Val Winery,4a99b06ff964a520d72f20e3
+981,Napa,2,Brazilian Restaurant,Galpão Gaucho,57117d14498ec90dbb8bcf16
+982,Napa,2,BBQ Joint,Bounty Hunter Wine Bar & Smokin' BBQ,49fe3664f964a520806f1fe3
+983,Napa,2,Wine Bar,Robert Sinskey Vineyards,4a218e0df964a520117d1fe3
+984,Napa,2,American Restaurant,Five Dot Ranch,4cb22f3875ebb60c890fd3ad
+985,Napa,2,Bakery,Model Bakery,4a75d706f964a52066e11fe3
+986,Napa,2,Mexican Restaurant,C Casa,4bea0379a9900f47ce1a1640
+987,Napa,2,Deli / Bodega,Genova's Deli,4b7074c2f964a5208b1b2de3
+988,Napa,2,Wine Bar,Oxbow Wine Merchant & Wine Bar,4b59130bf964a520507b28e3
+989,Napa,2,Italian Restaurant,Ristorante Allegria,4b36b47bf964a520fe3a25e3
+990,Napa,2,Breakfast Spot,Alexis Baking Company,4b5dcaf6f964a520fa6b29e3
+991,Napa,2,Burger Joint,The Habit Burger Grill,4f64ed29e4b0cded5ceee2fc
+992,Napa,2,American Restaurant,Napa Palisades Saloon,55a21539498e51373027d568
+993,Napa,2,American Restaurant,Grace's Table,4b6b95ebf964a5204f112ce3
+994,Napa,2,Winery,Andretti Winery,4b3a9861f964a520b06a25e3
+995,Napa,2,American Restaurant,Torc,528ad89111d289757850fb47
+996,Napa,2,Winery,Chimney Rock Winery,4a999a91f964a5205f2f20e3
+997,Napa,2,Wine Bar,Carpe Diem Wine Bar,4c16ce8096040f47077873a5
+998,Napa,2,Mediterranean Restaurant,Tarla Mediterranean Bar + Grill,4ee64c01e30005f8b996d465
+999,Napa,2,Wine Bar,Cadet Wine & Beer Bar,53154470498eead764aca1d9
+1000,Napa,2,Sushi Restaurant,Kenzo,582ea64a9398ab3e7ca7ba4c
+1001,Napa,2,Steakhouse,Trancas Steakhouse,4b6f12dff964a52026db2ce3
+1002,Napa,2,Sushi Restaurant,Eiko's,4e01424452b1ac66aac9cfa8
+1003,Napa,2,Mexican Restaurant,Don Perico Restaurant,4b5f747bf964a52059bb29e3
+1004,Napa,3,Farmers Market,Oxbow Public Market,4a2ae37df964a52066961fe3
+1005,Napa,3,Italian Restaurant,Bistro Don Giovanni,4a95ed60f964a520782520e3
+1006,Napa,3,Winery,Domaine Carneros,4a92c7c0f964a520ad1d20e3
+1007,Napa,3,Winery,Stag's Leap Wine Cellars,4bb674171344b7136d899d04
+1008,Napa,3,Restaurant,Basalt,56ef729ccd10ffe7a74cd690
+1009,Napa,3,Italian Restaurant,Il Posto,4f84ea7ee4b021fa101ecf87
+1010,Napa,3,Winery,Sequoia Grove Vineyards,4b771da9f964a520fe7e2ee3
+1011,Napa,3,French Restaurant,Angèle Restaurant & Bar,4ac66209f964a52014b420e3
+1012,Napa,3,Italian Restaurant,Oenotri,4ba58615f964a520220f39e3
+1013,Napa,3,Gastropub,Hopcreek Pub,568333d9498e1e4ef1255e68
+1014,Napa,3,Winery,Darioush Winery,4a95a8f8f964a5200b2420e3
+1015,Napa,3,Italian Restaurant,Ca'Momi Osteria,56415df0498e7d3cfafeca87
+1016,Napa,3,Mexican Restaurant,Villa Corona Cocina Mexicana,4ba295f3f964a520b20638e3
+1017,Napa,3,Lounge,Napa Valley Marriott - Concierge Lounge,5239b8bb498e3573e94eff3f
+1018,Napa,3,French Restaurant,La Toque Restaurant,4bd11413462cb71320c8d907
+1019,Napa,4,American Restaurant,"FARM, The Carneros Inn",4a7667a3f964a52001e31fe3
+1020,Napa,4,Steakhouse,Cole's Chop House,4c2368d713c00f47bef488de
+1021,Napa,4,Sushi Restaurant,Morimoto Napa,4c4369c674ffc9284b2b74cc
+1022,Napa,4,American Restaurant,Celadon,4acaa52df964a520b7c220e3
+1023,Napa,4,Dessert Shop,Vintage Sweet Shoppe,4b5f3bf2f964a52021af29e3
+1024,Napa,4,American Restaurant,The Q Restaurant & Bar,4a367934f964a520929d1fe3
+1025,Nevada,1,Deli / Bodega,Full Belly Deli,4b4b8a9af964a520a79f26e3
+1026,Nevada,1,Burger Joint,Pine Street Burgers,5205443d498e862a71323272
+1027,Nevada,1,Breakfast Spot,Donner Lake Kitchen,557f9957498e949ab4ba5d5d
+1028,Nevada,1,Coffee Shop,Wild Cherries Coffee House,4b4f9565f964a520670c27e3
+1029,Nevada,1,Pub,The Lodge Restaurant & Pub,4c01bcde27dcc9286c15e152
+1030,Nevada,1,Pizza Place,Old Town Tap,574e6420498e5e901bb0080b
+1031,Nevada,1,Dessert Shop,Nevada City Chocolate Shoppe,4c94f7e438dd8cfa2e09ce62
+1032,Nevada,1,Brewery,ol' Republic Brewery,4f3f13bfe4b00e2d502dd65b
+1033,Nevada,1,Coffee Shop,Züri Coffee Co,58822ed1084be507654a54c2
+1034,Nevada,1,Dessert Shop,Lazy Dog Chocolateria,5104561de4b0a221cd2b5192
+1035,Nevada,1,Breakfast Spot,South Pine Cafe,4b1020b2f964a520906923e3
+1036,Nevada,1,Coffee Shop,Caroline's Coffee Roasters,4bf07515f45ec92894dd933c
+1037,Nevada,1,Sandwich Place,Blue Cow Deli,4caf752339458cfa28a0fa9f
+1038,Nevada,1,Dessert Shop,Sweets Handmade Candies,4ba57f56f964a520d70c39e3
+1039,Nevada,1,Diner,Northridge Restaurant,4c3e3e1e51dee21ec45aea6e
+1040,Nevada,1,Coffee Shop,Dark Horse Coffee Roasters,5410af33498e4d4bbf593310
+1041,Nevada,1,Breakfast Spot,Marty's Cafe,5102f603e4b06b57bf4b2c60
+1042,Nevada,1,Pizza Place,Players Pizza,4cc238feb2beb1f777ad0e4c
+1043,Nevada,1,Pizza Place,Glenshire Pizza Company,5663734f498e3f71fc552623
+1044,Nevada,1,Beer Garden,Tahoe Mountain Brewery,52db38a8498e80be5479dfff
+1045,Nevada,1,Pizza Place,Village Pizzeria,4b5be10ff964a520511b29e3
+1046,Nevada,1,Ice Cream Shop,Treats,4c0ac5627e3fc9285c3cf482
+1047,Nevada,1,Pizza Place,Pizza on the Hill,4bd0df829854d13a61aaf84d
+1048,Nevada,2,Brewery,Alibi Ale Works,59559b90018cbb384753c74f
+1049,Nevada,2,Breakfast Spot,Squeeze In,4b5c8ed1f964a5207c3629e3
+1050,Nevada,2,Brewery,Three Forks Bakery & Brewing Co.,53cc9cf2498ecfa7ac15911d
+1051,Nevada,2,Seafood Restaurant,Morgan's Lobster Shack & Fish Market,51d0a9f2498ee43051dcd6f9
+1052,Nevada,2,Breakfast Spot,South Pine Cafe,4bf01037d4f70f47c869390f
+1053,Nevada,2,Café,Coffeebar,4cac836a36fa6dcb7723df78
+1054,Nevada,2,Brewery,FiftyFifty Brewing Co.,4b3e77a8f964a5209c9d25e3
+1055,Nevada,2,American Restaurant,Big A Root Beer Drive-In,4bd75827e914a593250551fa
+1056,Nevada,2,Coffee Shop,Starbucks,4b5923c1f964a520957e28e3
+1057,Nevada,2,Cajun / Creole Restaurant,Ike's Quarter Cafe,4b79b18df964a520ac0b2fe3
+1058,Nevada,2,Thai Restaurant,Sopa Thai,4bd240cab221c9b6a959d7d0
+1059,Nevada,2,Bar,Mellow Fellow,51b01597498ecd61ed05251f
+1060,Nevada,2,Vegetarian / Vegan Restaurant,Fudenjuce,4c86992b47cc224b2afdaa9f
+1061,Nevada,2,Latin American Restaurant,Diego's,4b9af69ff964a52053e735e3
+1062,Nevada,2,Wine Bar,The Pour House,4d32242b2c76a143768a6dc7
+1063,Nevada,2,American Restaurant,Northridge Restaurant,4bbe960f30c99c749f165411
+1064,Nevada,2,Diner,Jax at the Tracks,4b76f0e7f964a520b46c2ee3
+1065,Nevada,2,Burger Joint,Burger Me,4b11bc4df964a5206b8323e3
+1066,Nevada,2,Pizza Place,Rubicon Pizza Company,4b3026e3f964a520f3f624e3
+1067,Nevada,2,Japanese Restaurant,Drunken Monkey,4b5a7c1af964a520cbc728e3
+1068,Nevada,3,American Restaurant,Moody's Bistro Bar & Beats,4a91dc9df964a520261c20e3
+1069,Nevada,3,Bar,Bar of America,45c4b513f964a5204a421fe3
+1070,Nevada,3,American Restaurant,Cottonwood Restaurant & Bar,4b381660f964a520754b25e3
+1071,Nevada,3,Italian Restaurant,Cirino's Main Street,4bb66796f562ef3ba01a3097
+1072,Nevada,3,New American Restaurant,New Moon Cafe,4c37ebe818e72d7f1e8f17f5
+1073,Nevada,3,American Restaurant,Friar Tuck's Restaurant & Bar,4b9ea415f964a52007f636e3
+1074,Nevada,4,Italian Restaurant,Pianeta,4b3baceff964a5208c7825e3
+1075,Nevada,4,American Restaurant,Truckee Tavern and Grill,542ad803498ec1f341242ddb
+1076,Nevada,4,Steakhouse,The Willo,4cba99dda33bb1f7d1a48ffd
+1077,Nevada,4,Restaurant,Manzanita Terrace,5380af8a498ec7f833046e3d
+1078,Orange,1,Pizza Place,Blaze Pizza,55821094498eb72387db90a7
+1079,Orange,1,Burger Joint,In-N-Out Burger,4a88889ff964a520cd0620e3
+1080,Orange,1,Frozen Yogurt Shop,Yogurtland,500f5952e4b01dc256f28ec0
+1081,Orange,1,Burger Joint,In-N-Out Burger,4ab69f83f964a520367820e3
+1082,Orange,1,Sandwich Place,Which Wich? Superior Sandwiches,52a4da2611d291de8ba5483f
+1083,Orange,1,Sandwich Place,Cortina's Orange,4fa047bee4b0b74f34c0242b
+1084,Orange,1,Donut Shop,Krispy Kreme Doughnuts,4b0df537f964a520225323e3
+1085,Orange,1,Mexican Restaurant,Carnitas Los Reyes,4b2d5038f964a520dfd324e3
+1086,Orange,1,Burger Joint,Burger Parlor,57204481498ed40bd1e69c77
+1087,Orange,1,Italian Restaurant,Tutto Fresco,4ad62b34f964a5207e0521e3
+1088,Orange,1,Coffee Shop,Bodhi Leaf Coffee Traders,5582dfcc498ea3bdcccf51be
+1089,Orange,1,Pizza Place,The Pizza Press,5517376d498e4c7fe60a5ac0
+1090,Orange,1,Burger Joint,Troy's Burgers,4b93f642f964a5202b5d34e3
+1091,Orange,1,Mexican Restaurant,Anepalco's Café,4b044d4af964a520195322e3
+1092,Orange,1,Sandwich Place,Jersey Mike's Subs,4fd67c50e4b0ba023366b47c
+1093,Orange,1,Diner,Paul's Place,533e07e5498e432df852046e
+1094,Orange,1,Sandwich Place,Blue Frog,4b71a162f964a52046522de3
+1095,Orange,1,Sandwich Place,Jersey Mike's Subs,4d0914a61657a35d162330e7
+1096,Orange,1,Donut Shop,DK's Donuts,4b9bfccbf964a520d73d36e3
+1097,Orange,1,Coffee Shop,The Aussie Bean,56b92860498edb7e2b124b71
+1098,Orange,1,Burrito Place,Cali Tacos,4fd62d69e4b0352ac5550f11
+1099,Orange,1,Ice Cream Shop,Andrew's Ice Cream & Desserts,52c8d65c498eed633f90fa2b
+1100,Orange,1,Dive Bar,Salty Dawg Tavern,4bb6a7c2ef159c74025a76f7
+1101,Orange,1,Coffee Shop,Tru Bru Organic Coffee,52f93e2e498ead0807afa527
+1102,Orange,1,Coffee Shop,Starbucks,4ab1b0ddf964a5206b6a20e3
+1103,Orange,1,Mediterranean Restaurant,Green Tomato Grill,50f5e94ae4b0e09a254538e5
+1104,Orange,1,Mexican Restaurant,Los Cabos,4a7e3a66f964a52082f11fe3
+1105,Orange,1,Juice Bar,Jamba Juice,4aba17e3f964a5205d8020e3
+1106,Orange,1,Coffee Shop,Portola Coffee Roasters,520065fd498ea480ca3aaa72
+1107,Orange,1,Mexican Restaurant,Anepalco Modern Mexican,4f7e5d41e4b0d9edea30844b
+1108,Orange,2,Brewery,Green Cheek Beer Company,594933a84c954c4ff5f3aeac
+1109,Orange,2,BBQ Joint,Smoqued BBQ,5043c127e4b0a10507adedbe
+1110,Orange,2,Sandwich Place,Bruxie,4cd091467561236a13082df3
+1111,Orange,2,Deli / Bodega,Provisions Market,517b5923e4b00689ef4a5ee4
+1112,Orange,2,Japanese Restaurant,Musubi Monster,56902cd9498ec12f131dc7fc
+1113,Orange,2,Deli / Bodega,Hollingshead's Delicatessen,4ab81ddaf964a5203e7c20e3
+1114,Orange,2,Thai Restaurant,Lanta Thai Fusion,5004b531e4b03f55b39be094
+1115,Orange,2,New American Restaurant,Lazy Dog Restaurant & Bar,4afb3fccf964a5205c1c22e3
+1116,Orange,2,American Restaurant,Rutabegorz Restaurant,4b47a2c4f964a520663826e3
+1117,Orange,2,Mexican Restaurant,Gabbi's Mexican Kitchen,4aecb802f964a52095ca21e3
+1118,Orange,2,Brewery,Chapman Crafted Beer,57478445498ee05232e7bb99
+1119,Orange,2,Mexican Restaurant,Chipotle Mexican Grill,4b512f21f964a520664627e3
+1120,Orange,2,American Restaurant,The Filling Station Cafe,4ab53996f964a520617320e3
+1121,Orange,2,Bakery,Panera Bread,4ab2e768f964a520e86c20e3
+1122,Orange,2,German Restaurant,Mattern Sausage & Deli,4ae20de6f964a520398a21e3
+1123,Orange,2,Diner,Ruby's Diner,4ce713bbe888f04dc0e4396b
+1124,Orange,2,Bar,The Wall,57cb59cf498edb27200c8652
+1125,Orange,2,Diner,Arthur's Family Restaurant,4aabeed9f964a5200a5b20e3
+1126,Orange,2,Argentinian Restaurant,Patagonia Empanadas,5717ed65498e3ef5e985d5a6
+1127,Orange,2,Sushi Restaurant,Orange Roll & Sushi,50b99104e4b062ae368857b7
+1128,Orange,2,Tea Room,Paris in a Cup,4b9d6427f964a5203aa936e3
+1129,Orange,2,Mexican Restaurant,Avila's El Ranchito,4f48710ce4b0683d4f982dd4
+1130,Orange,2,Breakfast Spot,Flappy Jack's Pancake House,4e19c9c8d1648b83483ef255
+1131,Orange,2,BBQ Joint,Lucille's Smokehouse Bar-B-Que,4af9c122f964a520f31322e3
+1132,Orange,2,Sushi Restaurant,Ohshima Japanese Cuisine,4b64fbcff964a520b1dd2ae3
+1133,Orange,2,BBQ Joint,Johnny Rebs',4a61328bf964a52014c21fe3
+1134,Orange,2,Breakfast Spot,Broken Yolk Cafe,52126616498e270510419036
+1135,Orange,2,American Restaurant,Islands Restaurant,4acbdfa1f964a52024c820e3
+1136,Orange,2,Pizza Place,Wise Guys Pizzeria,4bf5f73f4d5f20a1059c98fe
+1137,Orange,2,Korean Restaurant,Tikiyaki,4ce43079c36ba35d3f0174f6
+1138,Orange,3,American Restaurant,Orange Hill Restaurant,4ab04e30f964a520fd6620e3
+1139,Orange,3,Italian Restaurant,Francoli Gourmet,4b843d05f964a5209f2931e3
+1140,Orange,3,Mediterranean Restaurant,Citrus City Grille,4b4a8a01f964a5203d8a26e3
+1141,Orange,3,American Restaurant,Orange County Mining Company,4aff6132f964a520f43722e3
+1142,Orange,3,Persian Restaurant,Darya Restaurant,4ae4d8a4f964a520bb9e21e3
+1143,Orange,4,Seafood Restaurant,King's Fish House,4a8ca52bf964a520c70e20e3
+1144,Orange,4,Seafood Restaurant,Market Broiler,4af65a0df964a520340322e3
+1145,Placer,1,Pizza Place,Old Town Pizza (OTP) Roseville,54b564ad498ecfc4ba626f73
+1146,Placer,1,American Restaurant,Four Sisters Cafe,4fce6aa3e4b0ef380fed5cb3
+1147,Placer,1,Coffee Shop,Dutch Bros. Coffee,5786d346498e43208d8154e5
+1148,Placer,1,Burger Joint,In-N-Out Burger,4b121bb6f964a520168923e3
+1149,Placer,1,Café,Shady Coffee and Tea,4c536a121b46c9b6878ee3cc
+1150,Placer,1,Deli / Bodega,Full Belly Deli,4b4b8a9af964a520a79f26e3
+1151,Placer,1,Pizza Place,Blaze Pizza,5489185a498eb8abae1a5ae6
+1152,Placer,1,Pizza Place,Old Town Pizza (OTP) Lincoln,4bb3dc11eb3e95213dbfcb0a
+1153,Placer,1,Café,Katrina's Cafe,4ba672c0f964a5208d5339e3
+1154,Placer,1,Burger Joint,In-N-Out Burger,4b2aef7ef964a52065b224e3
+1155,Placer,1,Breakfast Spot,Donner Lake Kitchen,557f9957498e949ab4ba5d5d
+1156,Placer,1,Juice Bar,Nectar Café,52d04852498e60ac36f9085a
+1157,Placer,1,Pizza Place,Primo Pizza Burger & Brew,4c47b63a417b20a128b4dea9
+1158,Placer,1,Pub,Dine n Dash Pub & Grill,4ea3181999117fc56cbf683f
+1159,Placer,1,Coffee Shop,Wild Cherries Coffee House,4b4f9565f964a520670c27e3
+1160,Placer,1,Burger Joint,Taylor's,4d4b0a585129a35d43034aac
+1161,Placer,1,Coffee Shop,Starbucks,527e7f2711d227d6294bda51
+1162,Placer,1,Brewery,Knee Deep Brewing Co.,517bf6be498ea1b6087119e6
+1163,Placer,1,Pizza Place,Trademark Pizza Company,5275e4d411d26c66ed4d1c6f
+1164,Placer,1,Coffee Shop,Starbucks,4bcb73960687ef3bebc7ddcc
+1165,Placer,1,Coffee Shop,Starbucks,4b81bd05f964a5200ebb30e3
+1166,Placer,1,Pizza Place,Celestino's New York Pizza,4b6bbaf3f964a520f1162ce3
+1167,Placer,1,Mexican Restaurant,Zocalo,502b1a66e4b0e9c46a1be623
+1168,Placer,1,Mexican Restaurant,On The Border Mexican Grill & Cantina,4b36a55bf964a520d23925e3
+1169,Placer,1,Pub,The Lodge Restaurant & Pub,4c01bcde27dcc9286c15e152
+1170,Placer,1,Pizza Place,Old Town Tap,574e6420498e5e901bb0080b
+1171,Placer,1,Bakery,Tahoe House Bakery & Gourmet Store,4a8c6b61f964a520ee0d20e3
+1172,Placer,1,Fast Food Restaurant,Chick-fil-A,51544bffe4b0389a07beb828
+1173,Placer,1,Bakery,Suger Pine Cakery,4de834bbfa76fd11689bba18
+1174,Placer,1,Donut Shop,Krispy Kreme Doughnuts,4e58168281dc961975cc1c2f
+1175,Placer,2,Burger Joint,The Habit Burger Grill,4b8d7f1ff964a52042ff32e3
+1176,Placer,2,American Restaurant,Boudin SF,4c426c64e26920a1012060e7
+1177,Placer,2,Burger Joint,Ikeda's California Country Market,3fd66200f964a520a7eb1ee3
+1178,Placer,2,Sushi Restaurant,Mikuni,4a7f2b84f964a5201ef31fe3
+1179,Placer,2,Brewery,Moonraker Brewing Company,568a5976498e85bff1c4a485
+1180,Placer,2,Brewery,Alibi Ale Works,59559b90018cbb384753c74f
+1181,Placer,2,Caribbean Restaurant,Joe Caribé,4ccb4601ba0a548146803559
+1182,Placer,2,Italian Restaurant,Dominick’s Italian Market & Deli,4bb2978d35f0c9b6a585bb83
+1183,Placer,2,Seafood Restaurant,Rubio's Coastal Grill,4bdb24af2a3a0f47349fadb6
+1184,Placer,2,Chinese Restaurant,Rose Garden Chinese Restaurant,4b760edbf964a520ca392ee3
+1185,Placer,2,BBQ Joint,Moe's Original Bar B Que,53a9bba2498e7f33813005f7
+1186,Placer,2,Steakhouse,Cattlemens,4b664141f964a520e91a2be3
+1187,Placer,2,Bar,Ice Bar,4d28c7dd342d6dcbf627fcca
+1188,Placer,2,American Restaurant,Spoon,4d02f123c2e53704d593ae67
+1189,Placer,2,Breakfast Spot,Squeeze In,4b5c8ed1f964a5207c3629e3
+1190,Placer,2,Brewery,Auburn Alehouse,4b10a3faf964a5202f7423e3
+1191,Placer,2,Seafood Restaurant,Morgan's Lobster Shack & Fish Market,51d0a9f2498ee43051dcd6f9
+1192,Placer,2,Sushi Restaurant,Mikuni Kaizen,4d461bfff83bcbffc21c30dc
+1193,Placer,2,Café,Coffeebar,4cac836a36fa6dcb7723df78
+1194,Placer,2,Mexican Restaurant,El Azteca Taqueria,4b760641f964a52054372ee3
+1195,Placer,2,Burger Joint,Smashburger,4df7a9de7d8b55b0676c23e4
+1196,Placer,2,Breakfast Spot,Peg's Glorified Ham n' Eggs,5203e629498e1b7dfbebf6e4
+1197,Placer,2,American Restaurant,Yard House,4dfea058c65be3b1068003be
+1198,Placer,2,Restaurant,LBB GastroPub & SmokeHouse,57afcf7b498ec9f77834d568
+1199,Placer,2,American Restaurant,The Chef's Table,4b6b6e57f964a52051082ce3
+1200,Placer,2,Pub,Boneshaker Public House,4e8fae04b8f79f71de316abc
+1201,Placer,2,American Restaurant,The Cheesecake Factory,4be4b2a2910020a19221d214
+1202,Placer,2,BBQ Joint,Lucille's Smokehouse Bar-B-Que,4c54bbfda724e21ee441d8f6
+1203,Placer,2,Chinese Restaurant,P.F. Chang's,4b26e663f964a520ba8224e3
+1204,Placer,2,Bakery,Panera Bread,4b070100f964a52029f522e3
+1205,Placer,3,American Restaurant,Soule Domain,4b651d7ef964a520d8e42ae3
+1206,Placer,3,American Restaurant,Paul Martin's American Grill,4ae7a687f964a52012ad21e3
+1207,Placer,3,Asian Restaurant,Fat's Asia Bistro,4b0586b9f964a520526b22e3
+1208,Placer,3,Hotel,Sunnyside,4b5154cef964a520204b27e3
+1209,Placer,3,Nightclub,Illusions,4c26c8b03703d13a9917a636
+1210,Placer,3,American Restaurant,Moody's Bistro Bar & Beats,4a91dc9df964a520261c20e3
+1211,Placer,4,Steakhouse,Ruth's Chris Steak House,4b60dfebf964a5201fff29e3
+1212,Placer,4,Italian Restaurant,Pianeta,4b3baceff964a5208c7825e3
+1213,Placer,4,American Restaurant,Truckee Tavern and Grill,542ad803498ec1f341242ddb
+1214,Plumas,2,Restaurant,The Plumas Inn,5a851c793af9887d40824f98
+1215,Riverside,1,Ice Cream Shop,Frostbites,4b9b1a67f964a520ebf235e3
+1216,Riverside,1,Burger Joint,In-N-Out Burger,4b4cd945f964a5208cc126e3
+1217,Riverside,1,Pizza Place,Blaze Pizza,539f1649498ee67090d898d1
+1218,Riverside,1,Fast Food Restaurant,Chick-fil-A,4b92f3bcf964a520e32934e3
+1219,Riverside,1,Burger Joint,In-N-Out Burger,4b3676d2f964a5200f3625e3
+1220,Riverside,1,Coffee Shop,The Coffee Bean & Tea Leaf,4b0f1a99f964a520315f23e3
+1221,Riverside,1,Sandwich Place,Butch's Grinders,4bddd5c0587b2d7f27465509
+1222,Riverside,1,Sandwich Place,The Sub Station,4bbe2e0a061fb7134fdcedce
+1223,Riverside,1,Italian Restaurant,D'Caesaro Pizza & Italian,4b68ed62f964a5208f932be3
+1224,Riverside,1,Frozen Yogurt Shop,Yogurtland,4bd3937a462cb7138cd8de07
+1225,Riverside,1,Mexican Restaurant,Chipotle Mexican Grill,542c484e498ec9e949be2e22
+1226,Riverside,1,Burger Joint,The Habit Burger Grill,55c394b1498ed63d5aae9f46
+1227,Riverside,1,Brewery,Packinghouse Brewing Company,4cca02230a9ab1f785f318f4
+1228,Riverside,1,Vietnamese Restaurant,Pho Huynh,501d5a54e4b03b87a1fbe909
+1229,Riverside,1,Thai Restaurant,Best Thai Cuisine,4aa8557bf964a520e85020e3
+1230,Riverside,1,Café,Wandas,4bad05b8f964a52075253be3
+1231,Riverside,1,Mexican Restaurant,Chipotle Mexican Grill,4a95da1df964a5200a2520e3
+1232,Riverside,1,Fast Food Restaurant,Del Taco,4b6a4aa6f964a520fed02be3
+1233,Riverside,1,Juice Bar,Jujubar,54e9644a498ea80f9f0606b6
+1234,Riverside,1,Sandwich Place,The Upper Crust Sandwich Shoppe,4b6c7629f964a5200c3c2ce3
+1235,Riverside,1,Fast Food Restaurant,Baker's Drive Thru,4b299d4cf964a520bea124e3
+1236,Riverside,1,Thai Restaurant,Jumbo Bowl Cafe,4b809b36f964a520818030e3
+1237,Riverside,1,Deli / Bodega,Marisa's Italian Deli,52d1f188498e33559d093e6d
+1238,Riverside,1,Pizza Place,Woodfire Cafe,550242fc498eadb9159e7b0e
+1239,Riverside,1,Juice Bar,Juice It Up!,4dd05e8e1f6eb12270aab08d
+1240,Riverside,1,Fast Food Restaurant,Dairy Queen,4ba1a188f964a520e4c437e3
+1241,Riverside,1,Coffee Shop,Augie's Coffee Roasters,52686c1211d2b54a92256ab2
+1242,Riverside,1,Coffee Shop,Molinos Coffee,529d67e3498ea495f3f46dc5
+1243,Riverside,1,Coffee Shop,Starbucks,4b5f4ed6f964a5202bb329e3
+1244,Riverside,1,Fish & Chips Shop,California Fish Grill,5c90495d1ffed7002cb41656
+1245,Riverside,2,Mexican Restaurant,Anchos Southwest Bar & Grill,4b1f1809f964a520e72324e3
+1246,Riverside,2,Bakery,Panera Bread,4b47ae6ef964a520663a26e3
+1247,Riverside,2,Greek Restaurant,Greek Street Grill,5148bfd3e4b07d65da828773
+1248,Riverside,2,Mexican Restaurant,Dona Timos Mexican Restaurant,4a875b10f964a520100420e3
+1249,Riverside,2,Caribbean Restaurant,San Juan BBQ,5250b7e811d2e235c3f1c954
+1250,Riverside,2,American Restaurant,Yard House,4afc6776f964a520512222e3
+1251,Riverside,2,Gastropub,The Salted Pig,4ceab41bb4952d43b29f63f5
+1252,Riverside,2,Coffee Shop,Starbucks,4b7c9afdf964a520689d2fe3
+1253,Riverside,2,Sandwich Place,D'Elia's Grinders,4ad52f32f964a5203d0221e3
+1254,Riverside,2,Chinese Restaurant,Dragon House,4ba6cf75f964a520047139e3
+1255,Riverside,2,American Restaurant,The Cheesecake Factory,4b0d9850f964a520db4b23e3
+1256,Riverside,2,Burger Joint,Burger Boss,4de54ea1fa764cf4bec56173
+1257,Riverside,2,Seafood Restaurant,Market Broiler,4b0a019cf964a520002123e3
+1258,Riverside,2,Bakery,Simple Simon's Bakery & Bistro,4b521516f964a520756627e3
+1259,Riverside,2,Thai Restaurant,Bann Thai,4b6e09bef964a5206fa52ce3
+1260,Riverside,2,Italian Restaurant,The Old Spaghetti Factory,4b09a49af964a520e21a23e3
+1261,Riverside,2,Seafood Restaurant,Red Lobster,4c328e8fed37a593f61c6c03
+1262,Riverside,2,Sushi Restaurant,Ooka Japanese Restaurant,4c21552e9a67a59353d8da87
+1263,Riverside,2,Coffee Shop,Starbucks,4b61ef28f964a520222c2ae3
+1264,Riverside,2,Italian Restaurant,Romano's Family Italian Restaurant,4b6f4b54f964a520c6e92ce3
+1265,Riverside,2,Wings Joint,Wingstop,4b303887f964a520eef724e3
+1266,Riverside,2,Brewery,Wicks Brewing Co.,51743d97498e33a24e9eb85d
+1267,Riverside,2,Coffee Shop,Starbucks,4bcb737968f976b07a246183
+1268,Riverside,2,Burger Joint,Red Robin Gourmet Burgers and Brews,5019d14ae4b06b15b31fcd67
+1269,Riverside,2,Indian Restaurant,Punjab Palace,4df13d29b0fb807158b882c2
+1270,Riverside,2,Coffee Shop,Starbucks,4bb532c71344b713f1019c04
+1271,Riverside,2,Tea Room,Ten Ren's Tea Time,4b1abc69f964a520a0f023e3
+1272,Riverside,2,Pizza Place,California Pizza Kitchen,4b147fc7f964a520e8a323e3
+1273,Riverside,2,Coffee Shop,Starbucks,4b4f4f73f964a520c20027e3
+1274,Riverside,2,Mexican Restaurant,Taco Station,4b6c76acf964a5202d3c2ce3
+1275,Riverside,3,Italian Restaurant,Mario's Place,4b5a64edf964a52042c228e3
+1276,Riverside,3,Hotel Bar,Presidential Lounge,4c0ae71f7e3fc928eb7ef482
+1277,Riverside,3,Bar,PRO∀BITION Whiskey Bar & Restaurant,51466033e4b0925719549b9b
+1278,Riverside,4,American Restaurant,Mission Inn Restaurant,4b77055cf964a5202d752ee3
+1279,Sacramento,1,Coffee Shop,Temple Coffee & Tea,56f1aaf2498ea02fac64965b
+1280,Sacramento,1,Sandwich Place,The Sandwich Spot,4bc8c4218b7c9c741ede38cf
+1281,Sacramento,1,Ice Cream Shop,Gunther's Quality Ice Cream,4b0586b4f964a520816a22e3
+1282,Sacramento,1,Burger Joint,In-N-Out Burger,4f8b9442e4b09efba37e8de4
+1283,Sacramento,1,Coffee Shop,Starbucks,5244581911d265150b81ba2a
+1284,Sacramento,1,Southern / Soul Food Restaurant,South,5452ad26498e2e8f461d877b
+1285,Sacramento,1,Burger Joint,In-N-Out Burger,4b2ef654f964a520c2e824e3
+1286,Sacramento,1,Bakery,ABC Bakery,4c4f311792b6a593a8842b71
+1287,Sacramento,1,Coffee Shop,Dutch Bros. Coffee,50376617e4b03267a7e4132f
+1288,Sacramento,1,Breakfast Spot,Cricket's Country Kitchen,4b25402af964a520bb6e24e3
+1289,Sacramento,1,Dessert Shop,Rick's Dessert Diner,4ac7e61df964a52073ba20e3
+1290,Sacramento,1,Pizza Place,Uncle Vito's Slice of NY,4a99bd40f964a520303020e3
+1291,Sacramento,1,Seafood Restaurant,Rubio's Coastal Grill,4b63570af964a5203c732ae3
+1292,Sacramento,1,Sandwich Place,Mendocino Farms,5c06da61535d6f002b4edeb4
+1293,Sacramento,1,Coffee Shop,The Mill,53e01ac6498e069de50dd48e
+1294,Sacramento,1,Sandwich Place,Dad's Sandwiches,4b26af83f964a5207f7f24e3
+1295,Sacramento,1,Asian Restaurant,Harry's Cafe,4b92c965f964a520a41b34e3
+1296,Sacramento,1,Mexican Restaurant,Oscar's Very Mexican Food,4b61f5d9f964a520af2d2ae3
+1297,Sacramento,1,French Restaurant,Plan B,4ba2dbeaf964a520ab1e38e3
+1298,Sacramento,1,Bakery,Marie's Donuts,4bab8d90f964a520fab23ae3
+1299,Sacramento,1,Burger Joint,In-N-Out Burger,4b2aefcef964a5206ab224e3
+1300,Sacramento,1,Bakery,Freeport Bakery,4a7dea35f964a5202df01fe3
+1301,Sacramento,1,Food Truck,Wicked wich,4e17b6a215202ba040b58aea
+1302,Sacramento,1,Mexican Restaurant,Chando's Tacos,4ff7ad8ed86ca0c938ec315a
+1303,Sacramento,1,Fast Food Restaurant,Chick-fil-A,4b18a379f964a520dad423e3
+1304,Sacramento,1,Mexican Restaurant,El Palmar,4b0af5aff964a520b42a23e3
+1305,Sacramento,1,Mexican Restaurant,Chipotle Mexican Grill,4b3fb6b6f964a52001ad25e3
+1306,Sacramento,1,Fast Food Restaurant,Chick-fil-A,56cb609a498e2a8dcf39bef5
+1307,Sacramento,1,Mexican Restaurant,La Fiesta Taqueria,4b6c93f6f964a52064442ce3
+1308,Sacramento,1,Deli / Bodega,Sampino’s Towne Foods,4b4ba39cf964a5209aa226e3
+1309,Sacramento,2,Bakery,Ettore's European Bakery & Restaurant,4b0586b4f964a520a46a22e3
+1310,Sacramento,2,Café,Selland's Market-Café,4bb2777742959c74bfdf202c
+1311,Sacramento,2,Coffee Shop,Old Soul Co.,4a99c08bf964a5204b3020e3
+1312,Sacramento,2,Mexican Restaurant,La Rosa Blanca,4b3eb4d5f964a52026a125e3
+1313,Sacramento,2,Brewery,Track 7 Brewing Co.,4effa1d47ee5f14f39af2589
+1314,Sacramento,2,Beer Bar,Pangaea Bier Cafe,4b05da40f964a52069e422e3
+1315,Sacramento,2,Ethiopian Restaurant,Queen Sheba Ethopian Restaurant,4b7b0139f964a520874b2fe3
+1316,Sacramento,2,Vegetarian / Vegan Restaurant,Mother,53c6b927498ee83c5b56d33c
+1317,Sacramento,2,Coffee Shop,Temple Coffee & Tea,4b5dbd50f964a5204d6929e3
+1318,Sacramento,2,Mexican Restaurant,Tres Hermanas,4adb796ff964a520e32721e3
+1319,Sacramento,2,Coffee Shop,Temple Coffee & Tea,4b1c1d5ff964a520680224e3
+1320,Sacramento,2,New American Restaurant,Tower Cafe,4a7f1862f964a520c9f21fe3
+1321,Sacramento,2,Sushi Restaurant,Mikuni,4b0586b9f964a520766b22e3
+1322,Sacramento,2,French Restaurant,Cafe Rolle,4b4f78d1f964a520040827e3
+1323,Sacramento,2,American Restaurant,The Mimosa House,57a92481498ef689ea4c6c20
+1324,Sacramento,2,Japanese Restaurant,Akebono,4bbd4194a0a0c9b6ef7f1b0f
+1325,Sacramento,2,Coffee Shop,Old Soul at 40 Acres,4bb258332397b71383e336b3
+1326,Sacramento,2,Brewery,Track 7 Brewing Co.,54b0892a498efa9d6f00530a
+1327,Sacramento,2,Brewery,Urban Roots Brewing & Smokehouse,5a444c558173cb3a047ae53d
+1328,Sacramento,2,American Restaurant,The Rind,51982204498e2a792231fbe6
+1329,Sacramento,2,Breakfast Spot,bacon & butter,4f9d8f3fe4b0f1efa8ea4bce
+1330,Sacramento,2,Sushi Restaurant,Lou's Sushi,524a2a4c11d24d26e4632e9e
+1331,Sacramento,2,Diner,Dad's Kitchen,4b0b36faf964a520d12e23e3
+1332,Sacramento,2,Bar,Coin-Op Game Room,554be0a2498e1edf55515978
+1333,Sacramento,2,Café,Cafe Dantorels,504ce3b0e4b08a5d47186a0a
+1334,Sacramento,2,American Restaurant,Cafeteria 15L,4bb4d8b0a7059521f7c91bce
+1335,Sacramento,2,Deli / Bodega,Roxie Deli & Grocery,4aac1997f964a520405c20e3
+1336,Sacramento,2,New American Restaurant,The Red Rabbit Kitchen and Bar,4ee282cf9911340c3708a586
+1337,Sacramento,2,American Restaurant,Swabbies Restaurant & Bar,4ba580adf964a520580d39e3
+1338,Sacramento,2,Pizza Place,Hot Italian,4ac18b9ff964a520739720e3
+1339,Sacramento,3,New American Restaurant,The Kitchen,4b0586b4f964a520906a22e3
+1340,Sacramento,3,American Restaurant,The Firehouse Restaurant,4b0586b8f964a520286b22e3
+1341,Sacramento,3,American Restaurant,Ella Dining Room & Bar,4aefa08af964a520a7d921e3
+1342,Sacramento,3,Mexican Restaurant,Zocalo,4b1d832ff964a5208a1124e3
+1343,Sacramento,3,Steakhouse,Ruth's Chris Steak House,4b63c9c1f964a5209c912ae3
+1344,Sacramento,3,Seafood Restaurant,Station 16,576f4cc6498e68bc8f058b88
+1345,Sacramento,3,New American Restaurant,Grange,4add393af964a520a96421e3
+1346,Sacramento,3,Steakhouse,Morton's The Steakhouse,4b0586b4f964a520826a22e3
+1347,Sacramento,3,Tapas Restaurant,Tapa The World,4b0586b4f964a520866a22e3
+1348,Sacramento,3,Chinese Restaurant,Frank Fat's,4b99b5e3f964a520828d35e3
+1349,Sacramento,3,Italian Restaurant,Il Fornaio,4b194af1f964a520afda23e3
+1350,Sacramento,3,Seafood Restaurant,Make Fish Poke & Sushi Burrito,56d89a0d498e0cb21580b073
+1351,Sacramento,3,Nightclub,The Torch Club,4b0586b6f964a520cd6a22e3
+1352,Sacramento,3,New American Restaurant,Localis,559ef525498e645c13c01015
+1353,Sacramento,4,American Restaurant,Mulvaney's Building & Loan,4b0586baf964a5207c6b22e3
+1354,Sacramento,4,Restaurant,Magpie Cafe,5595f8a0498e8f6699f2cd54
+1355,Sacramento,4,French Restaurant,The Waterboy,4b0586b9f964a5203f6b22e3
+1356,Sacramento,4,Italian Restaurant,Biba,4b0586b9f964a5204a6b22e3
+1357,San Bernardino,1,Burger Joint,In-N-Out Burger,4a753cb7f964a520b8e01fe3
+1358,San Bernardino,1,Burger Joint,In-N-Out Burger,4ee19e959911340c3636aaae
+1359,San Bernardino,1,Mexican Restaurant,Rosa Maria Drive In,4b4972fff964a520f36f26e3
+1360,San Bernardino,1,Diner,Papa Tony's Diner,4b917a45f964a52084bf33e3
+1361,San Bernardino,1,Dessert Shop,Yogurtland,5060d72e72da6571367b8b9b
+1362,San Bernardino,1,Taco Place,Taco Shop Mexican Grill,4d6d5663e7ab224b47587cf7
+1363,San Bernardino,1,Burger Joint,Five Guys,4f60d20ae5e8d4902df17dc1
+1364,San Bernardino,1,Bagel Shop,Bleu Pitt Cafe,559d32f1498eac8918c92088
+1365,San Bernardino,1,Mexican Restaurant,Lucy's Mexican Restaurant,4b80a404f964a520e58230e3
+1366,San Bernardino,1,Sports Bar,NOS Sports Center,4f5c4742e4b00747db450dfb
+1367,San Bernardino,1,Sandwich Place,Baguette Express,51007f03e4b07e2b92c254ff
+1368,San Bernardino,1,Breakfast Spot,Alice's Restaurant,4c8285a3dc018cfa5910d06c
+1369,San Bernardino,1,Fast Food Restaurant,Arby's,4b9d6338f964a520f2a836e3
+1370,San Bernardino,1,Breakfast Spot,IHOP,4b6c6e02f964a5207a392ce3
+1371,San Bernardino,1,Fried Chicken Joint,Raising Cane's Chicken Fingers,5a60bfc3237dee176cef24d5
+1372,San Bernardino,1,Taco Place,Pablo's Taco Bender,4c2366fcfbe5c9b6f8589b21
+1373,San Bernardino,1,Thai Restaurant,Rose Apple Thai Cuisine,4bbac2e098c7ef3b457f3302
+1374,San Bernardino,1,Sandwich Place,SUBWAY,4ba28c52f964a520160338e3
+1375,San Bernardino,1,Coffee Shop,DJ's Coffee Shop,4b6cf270f964a5208f5f2ce3
+1376,San Bernardino,1,Thai Restaurant,Thai Place,4bcf9d54046076b08abc6e71
+1377,San Bernardino,1,Café,Mitla Cafe,4c4c8eaf46240f4783bafaf4
+1378,San Bernardino,1,Ice Cream Shop,Baskin-Robbins,4d4db3984aa3a093320646ae
+1379,San Bernardino,1,Bakery,Panera Bread,4a999c0ef964a5206c2f20e3
+1380,San Bernardino,1,Coffee Shop,Starbucks,4b5b0676f964a52083df28e3
+1381,San Bernardino,1,Coffee Shop,Starbucks,4a70b0eff964a52038d81fe3
+1382,San Bernardino,1,Mexican Restaurant,Paco's Tacos,4bce3d1bc564ef3b5ef9edf0
+1383,San Bernardino,1,Mexican Restaurant,Los Altos Meat Market,4be21cd71dd22d7fca7193bd
+1384,San Bernardino,1,Mexican Restaurant,The Mexico Cafe,4b43b5f0f964a5203fe725e3
+1385,San Bernardino,1,Mexican Restaurant,Viva Villa,4d6307c2d85da35d38358ad4
+1386,San Bernardino,1,Mexican Restaurant,Tony's Mexican Food,4c2105fe132f0f4760a1a796
+1387,San Bernardino,2,Sushi Restaurant,Miyagi Sushi,4b91c33df964a52095d533e3
+1388,San Bernardino,2,Indian Restaurant,Delhi Palace,4b75cc8ef964a5208c252ee3
+1389,San Bernardino,2,Mexican Restaurant,Chipotle Mexican Grill,4ab847a7f964a520cd7c20e3
+1390,San Bernardino,2,American Restaurant,BJ's Restaurant & Brewhouse,4a973b42f964a520002920e3
+1391,San Bernardino,2,Steakhouse,Black Angus Steakhouse,4b7845fff964a52037c12ee3
+1392,San Bernardino,2,Chinese Restaurant,Lotus Garden,4b4b8f54f964a5204da026e3
+1393,San Bernardino,2,Mexican Restaurant,George Lopez's Chingon Kitchen,59bca05afebf314eba1906c2
+1394,San Bernardino,2,American Restaurant,TGI Fridays,4b71ccf3f964a5202a5d2de3
+1395,San Bernardino,2,Italian Restaurant,Two Guys Pasta & Pizza,4ba45407f964a520409638e3
+1396,San Bernardino,2,Burger Joint,Vicky's Restaurant,4c28f905e19720a192c7f858
+1397,San Bernardino,2,Korean Restaurant,Myung Ga,4b60bcc3f964a52096f629e3
+1398,San Bernardino,2,Japanese Restaurant,Seattle's Best Teriyaki,4b82e839f964a52066ec30e3
+1399,San Bernardino,2,Italian Restaurant,Olive Garden,4b3fb9e7f964a52050ad25e3
+1400,San Bernardino,2,Steakhouse,Outback Steakhouse,4b660c63f964a520b2102be3
+1401,San Bernardino,2,Sushi Restaurant,Rock & Roll Sushi,4bf09036b315c9b6e92e93ff
+1402,San Bernardino,2,Restaurant,Sundowners Family Restaurant,4c38d3af93db0f479b552292
+1403,San Bernardino,2,Bar,Marquis Cocktail Lounge,4ba1d913f964a520f2ce37e3
+1404,San Bernardino,2,Pizza Place,Alfredo's Pizza & Pasta,4b48e555f964a520405c26e3
+1405,San Bernardino,2,American Restaurant,Cedar Glen Inn,4c03080a9a7920a15c65cf79
+1406,San Bernardino,2,Coffee Shop,Starbucks,4ba1779df964a52084b937e3
+1407,San Bernardino,2,Latin American Restaurant,Pollo Campero,4bc3b12e4cdfc9b658c29721
+1408,San Bernardino,2,Vietnamese Restaurant,Pho Ha Vietnamese Restaurant,4b5663faf964a520660e28e3
+1409,San Bernardino,2,Tex-Mex Restaurant,Chili's Grill & Bar,4b461325f964a520831526e3
+1410,San Bernardino,2,Bar,Screaming Chicken Saloon,4bb6c335f562ef3b65b93097
+1411,San Bernardino,2,Sushi Restaurant,Meiga Sushi,55ea4d1b498e7fc65962a8fd
+1412,San Bernardino,3,American Restaurant,Rock & Brews San Manuel,57da2667498ecdfec84a2f66
+1413,San Bernardino,3,American Restaurant,Castaway (San Bernardino),4b8082b4f964a520c57830e3
+1414,San Diego,1,Ice Cream Shop,Salt & Straw,598c99c6123a190a4324154d
+1415,San Diego,1,Dumpling Restaurant,Din Tai Fung,5bb2d145d0a149002cc22308
+1416,San Diego,1,Coffee Shop,Bird Rock Coffee Roasters,4a947bf6f964a520bf2120e3
+1417,San Diego,1,Taco Place,The Taco Stand Downtown,568daf60498eaf94b8afbc5d
+1418,San Diego,1,Taco Place,The Taco Stand,5287de8511d2cf1f3554aa06
+1419,San Diego,1,Sandwich Place,Ike's Place,5650d494498e701dbbb2aef7
+1420,San Diego,1,Brewery,Societe Brewing Company,4f35ab6ae4b0156e8593c1cd
+1421,San Diego,1,Breakfast Spot,Shorehouse Kitchen,538a2e88498e0c921f9fd22e
+1422,San Diego,1,Café,La Colombe Coffee Roasters,5a848b3d47f8764d0b82285e
+1423,San Diego,1,Mexican Restaurant,Oscar's Mexican Seafood,4e3cb55ed4c058f9dbfc3793
+1424,San Diego,1,Pizza Place,Bronx Pizza,429ba900f964a5208f241fe3
+1425,San Diego,1,Burger Joint,In-N-Out Burger,4a70c4e8f964a5205fd81fe3
+1426,San Diego,1,Coffee Shop,Hawthorn Coffee,567867bf498e05d5b1ff7b9a
+1427,San Diego,1,Deli / Bodega,Brothers' Provisions,507095e3e4b05fb6c3877b2b
+1428,San Diego,1,Mexican Restaurant,Las Cuatro Milpas,4ac7c1e0f964a52094b920e3
+1429,San Diego,1,Café,Little Lion,547b964a498e7162d9cdbbc2
+1430,San Diego,1,Bakery,Azucar,4b1876a0f964a5200cd323e3
+1431,San Diego,1,Burger Joint,In-N-Out Burger,4a70c485f964a5205dd81fe3
+1432,San Diego,1,Mexican Restaurant,Tacos El Cabron,5a0e148fd0a1494ae8bd06bb
+1433,San Diego,1,Middle Eastern Restaurant,Alforon,4cca33fdc4d06dcb0c676103
+1434,San Diego,1,Donut Shop,Rose Donuts,4aa35feff964a520ed4320e3
+1435,San Diego,1,Pizza Place,Regents Pizzeria,46596392f964a52017471fe3
+1436,San Diego,1,Sandwich Place,Board & Brew Scripps Ranch,53ffa8b5498e7fc31b8050b7
+1437,San Diego,1,Dessert Shop,Yogurtland,52800c3d11d2a6324374ddaa
+1438,San Diego,1,Pizza Place,Tribute Pizza,5781784d498e010cac598ac4
+1439,San Diego,1,Vietnamese Restaurant,Pho Hoa,4a3c3e36f964a52051a11fe3
+1440,San Diego,1,Coffee Shop,Bird Rock Coffee Roasters,5449a66a498e6e9c0e7aaacb
+1441,San Diego,1,Coffee Shop,Starbucks,5bf06bbbd807ee002c04cb6d
+1442,San Diego,1,Burger Joint,In-N-Out Burger,4a70c520f964a52060d81fe3
+1443,San Diego,1,Coffee Shop,Cafe Moto,4aa80552f964a520c74e20e3
+1444,San Diego,2,Ice Cream Shop,Bobboi Natural Gelato,530a6e55498eb257c823c997
+1445,San Diego,2,Farmers Market,Little Italy Mercato,4ba12033f964a5204f9a37e3
+1446,San Diego,2,Seafood Restaurant,Ironside Fish & Oyster,5343742b11d22b61cbaab411
+1447,San Diego,2,Museum,USS Midway Museum,4b19744cf964a5209fdd23e3
+1448,San Diego,2,Brewery,AleSmith Brewing Company,5574c6d4498e7ea8d3aab7b8
+1449,San Diego,2,Brewery,Modern Times Lomaland Fermentorium,515dc2fff31cfd25572eea72
+1450,San Diego,2,Brewery,Modern Times Flavordome,536add8e11d21c7853ef0883
+1451,San Diego,2,Brewery,Ballast Point Brewing & Spirits,5331de18498e7b294de023a9
+1452,San Diego,2,Vegetarian / Vegan Restaurant,Kindred,5675f355498e98ce8b9f4713
+1453,San Diego,2,Brewery,Ballast Point Tasting Room & Kitchen,5187e02b498e51f783bac1ea
+1454,San Diego,2,Brewery,Half Door Brewing Company,52e8bab311d2c54734f2299c
+1455,San Diego,2,Sushi Restaurant,Azuki Sushi,4aab2e6df964a520355920e3
+1456,San Diego,2,Coffee Shop,James Coffee Co.,53ee5e49498ebccc29046832
+1457,San Diego,2,Pizza Place,Pizza Port Brewing Company,4bcf3837046076b02cdc6d71
+1458,San Diego,2,Chocolate Shop,Ghirardelli Ice Cream & Chocolate Shop,4ac05930f964a520319420e3
+1459,San Diego,2,Ice Cream Shop,Pappalecco,4a80d007f964a5203bf61fe3
+1460,San Diego,2,Japanese Restaurant,Tsuruhashi Japanese BBQ,4a7e3c01f964a52085f11fe3
+1461,San Diego,2,Brewery,Pure Project Brewing,56ac1216498e2043f351285b
+1462,San Diego,2,Spanish Restaurant,Restaurante Costa Brava,4aa728a7f964a520084c20e3
+1463,San Diego,2,BBQ Joint,Phil's BBQ,460d2cfcf964a52002451fe3
+1464,San Diego,2,Whisky Bar,The Whiskey House,54c44349498e47f3d5ea8208
+1465,San Diego,2,Brewery,Fall Brewing Co.,53af5ac7498ec433ee926b84
+1466,San Diego,2,Cocktail Bar,Polite Provisions,50930fb3e4b055b34b6a7713
+1467,San Diego,2,American Restaurant,Kettner Exchange,5438a153498ea4de4939702a
+1468,San Diego,2,Gastropub,Raglan Public House,4f2072a8e4b07fb2480fdf5f
+1469,San Diego,2,Wine Bar,The 3rd Corner,4b1871f1f964a520d1d223e3
+1470,San Diego,2,Sushi Restaurant,Ken Sushi Workshop,53da94d9498ea77fe1804ea9
+1471,San Diego,2,Coffee Shop,Harry's Coffee Shop,410c3280f964a520a70b1fe3
+1472,San Diego,2,Winery,Orfila Vineyards and Winery,4aff2d33f964a520793522e3
+1473,San Diego,2,American Restaurant,Yard House,55e0c978498e55dbe85a4ddd
+1474,San Diego,3,Zoo,San Diego Zoo,4a369f12f964a520c19d1fe3
+1475,San Diego,3,Italian Restaurant,CUCINA urbana,4d25603c3b62f04d2a732078
+1476,San Diego,3,Seafood Restaurant,California Fish Grill,5956a2f8840fc216ec676a98
+1477,San Diego,3,Italian Restaurant,Catania Restaurant,540b7962498e51f0a5102663
+1478,San Diego,3,Lounge,Raised By Wolves,5ad55022e1f2280db8beb6c7
+1479,San Diego,3,Sushi Restaurant,Sushi Ota,4a615314f964a5204cc21fe3
+1480,San Diego,3,Seafood Restaurant,Island Prime & C Level,48331810f964a520e24f1fe3
+1481,San Diego,3,French Restaurant,BO-beau kitchen + bar,4ccb5e1864a6199c250c14c1
+1482,San Diego,3,Seafood Restaurant,Eddie V's Prime Seafood,52d98abc11d23c6d7d412924
+1483,San Diego,3,New American Restaurant,Herb & Wood,57240f5e498e42f6f1bc6001
+1484,San Diego,3,New American Restaurant,George's at The Cove,40e0b100f964a5202c021fe3
+1485,San Diego,3,American Restaurant,Bankers Hill Bar & Restaurant,4bf49fe494af2d7f96e23a72
+1486,San Diego,3,Seafood Restaurant,Crab Town,5497780a498ed496ec6c653d
+1487,San Diego,3,Italian Restaurant,Venetian Italian Restaurant,4b36c9ddf964a520733c25e3
+1488,San Diego,3,Restaurant,Juniper & Ivy,529f3b7b11d2ce5e2f429b8a
+1489,San Diego,4,Steakhouse,Born And Raised,59bb36256bdee626d8f07e1d
+1490,San Diego,4,Seafood Restaurant,Eddie V's Prime Seafood,4e0cd60614954f127e6a798f
+1491,San Diego,4,Sushi Restaurant,Nobu,4b27e7a6f964a520088c24e3
+1492,San Francisco,1,Ice Cream Shop,Salt & Straw,59e7d9cada2e006b9e519959
+1493,San Francisco,1,Bakery,Tartine,5d2b9404c8358500240b9ff1
+1494,San Francisco,1,Ice Cream Shop,Garden Creamery,589d125b005a0f47b970b12b
+1495,San Francisco,1,Food Truck,Primavera,4bae4f93f964a5200fa13be3
+1496,San Francisco,1,Bakery,Arizmendi Bakery Panaderia & Pizzeria,4ca4d6a3d7c33704acd2ac62
+1497,San Francisco,1,Burrito Place,La Taqueria,455877bff964a520453d1fe3
+1498,San Francisco,1,Dumpling Restaurant,Yuanbao Jiaozi,5a80ea27c58ed77c7cbcd80c
+1499,San Francisco,1,Coffee Shop,Ritual Coffee Roasters,4dd94350e4cd37c893d8146f
+1500,San Francisco,1,Sandwich Place,Turner's Kitchen,578bb74e498e0aee36fd96db
+1501,San Francisco,1,Coffee Shop,Blue Bottle Coffee,43d3901ef964a5201f2e1fe3
+1502,San Francisco,1,Coffee Shop,Blue Bottle Coffee Kiosk,521cf6af11d21968a3ce3498
+1503,San Francisco,1,Ice Cream Shop,Bi-Rite Creamery,45eaff58f964a5208e431fe3
+1504,San Francisco,1,Bakery,Thorough Bread and Pastry,49f13784f964a5209f691fe3
+1505,San Francisco,1,Coffee Shop,The Coffee Movement,5c47e89dcf72a0003963c145
+1506,San Francisco,1,Bakery,Devil's Teeth Baking Company,4db0bc8e0437a93f7f7a23e7
+1507,San Francisco,1,Coffee Shop,Sightglass Coffee,4a4b8a43f964a5206fac1fe3
+1508,San Francisco,1,Café,Stonemill Matcha,5af1201a029a55002cb9dcb5
+1509,San Francisco,1,Ice Cream Shop,Mr. & Mrs. Miscellaneous,4bf313f7370e76b0c956bd4a
+1510,San Francisco,1,Bakery,Jane the Bakery,584b00068f0be42a4dbf33ed
+1511,San Francisco,1,Mexican Restaurant,Taqueria El Farolito,44ff5a91f964a520a5381fe3
+1512,San Francisco,1,Brewery,Anchor Brewing Company,43a16022f964a5202c2c1fe3
+1513,San Francisco,1,Coffee Shop,Four Barrel Coffee,480d1a5ef964a520284f1fe3
+1514,San Francisco,1,Donut Shop,Bob's Donuts,44cf44a2f964a52020361fe3
+1515,San Francisco,1,Bakery,The Mill,4feddd79d86cd6f22dc171a9
+1516,San Francisco,1,Ice Cream Shop,Humphry Slocombe,4eff718f722e0f0771aa0717
+1517,San Francisco,2,Park,Collis P. Huntington Park,4698dfcbf964a520ef481fe3
+1518,San Francisco,2,Flower Shop,Flora Grubb Gardens,49d3e08bf964a5201f5c1fe3
+1519,San Francisco,2,Bakery,Neighbor Bakehouse,5272781811d2ce55eb5981df
+1520,San Francisco,2,Climbing Gym,Dogpatch Boulders,50c8d0f9e4b033901889acc9
+1521,San Francisco,2,Art Museum,San Francisco Museum of Modern Art,40943a00f964a520e5f21ee3
+1522,San Francisco,2,Bookstore,Dog Eared Books,49e79762f964a520d0641fe3
+1523,San Francisco,2,Farmers Market,Ferry Plaza Farmers Market,4a49961cf964a52076ab1fe3
+1524,San Francisco,2,Café,Vive La Tarte,55554f0a498e7ffc6883325c
+1525,San Francisco,2,Market,Ferry Building (Ferry Building Marketplace),43067280f964a52023271fe3
+1526,San Francisco,2,Bar,Fool’s Errand,5b4297c19411f2002c274de9
+1527,San Francisco,2,Science Museum,California Academy of Sciences,49cc413df964a5205a591fe3
+1528,San Francisco,2,Bakery,B. Patisserie,5105ed2fe4b02d11de1bae8d
+1529,San Francisco,2,Chocolate Shop,Dandelion Chocolate,501ec87fe4b067f6ad7a2832
+1530,San Francisco,2,Asian Restaurant,Nute's Noodle Night,5407c3ee498e743eaa28f797
+1531,San Francisco,2,Climbing Gym,Mission Cliffs,408c5100f964a520c8f21ee3
+1532,San Francisco,2,Sushi Restaurant,Kuma Sushi + Sake,5989205d64c8e12750122427
+1533,San Francisco,2,Bakery,Arsicault Bakery,55203ab9498eb807ad0e6da5
+1534,San Francisco,2,Bookstore,The Booksmith,42a78680f964a52017251fe3
+1535,San Francisco,2,Wine Bar,Maritime Wine Tasting Studio,562041f8498ead0b09bdca7a
+1536,San Francisco,2,Deli / Bodega,Salumeria,4fc541fb7716c8a1e24eec6c
+1537,San Francisco,2,Tea Room,Song Tea & Ceramics,5237fb987e48ecf300656635
+1538,San Francisco,2,Korean Restaurant,Daeho,5c687f93e1f0aa002c124962
+1539,San Francisco,2,Seafood Restaurant,Hog Island Oyster Co.,43fed1fff964a520fe2f1fe3
+1540,San Francisco,2,Brewery,Anchor Public Taps,59e6b27c112c6c32076dfe03
+1541,San Francisco,2,Wine Bar,Union Larder,53ec8516498e7fd89bd29ade
+1542,San Francisco,2,Brewery,Cellarmaker House of Pizza,5c37fbb3610f04002c72e497
+1543,San Francisco,2,Argentinian Restaurant,Lolinda,50243fd229a61e4b21a26e16
+1544,San Francisco,2,Wine Bar,Birba,551b7760498e1612b67f33f9
+1545,San Francisco,2,Smoothie Shop,Basik Cafe,54c272de498ec42c95827928
+1546,San Francisco,2,Brewery,Barebottle Brewing Company,56eb4e0a498e5769545c1843
+1547,San Francisco,3,Greek Restaurant,Kokkari Estiatorio,4570691ff964a5205c3e1fe3
+1548,San Francisco,3,Coffee Shop,Blue Bottle Coffee,5560dbdb498e91a2bcde84f6
+1549,San Francisco,3,Coffee Shop,Sightglass Coffee,530a187e498eb0cfd40890a0
+1550,San Francisco,3,Grocery Store,Gus’s Community Market,564e0e98498ee2cb338012bc
+1551,San Francisco,3,Baseball Stadium,Oracle Park,4bd2177d046076b055357371
+1552,San Francisco,3,Seafood Restaurant,Hook Fish Co,55876ba3498e08016ede6a73
+1553,San Francisco,3,Spanish Restaurant,Bellota,573e8ba3cd102b8b7351f55a
+1554,San Francisco,3,Butcher,Fatted Calf,4c996073db10b60cdde7896d
+1555,San Francisco,3,New American Restaurant,Foreign Cinema,3fd66200f964a520a0ec1ee3
+1556,San Francisco,3,Coffee Shop,Blue Bottle Coffee,5a428c56911fc41c77d25dea
+1557,San Francisco,3,Asian Restaurant,The House,4b0a2fe5f964a520492223e3
+1558,San Francisco,3,Italian Restaurant,Cotogna,4cd0a38e5b5ca35de6317df0
+1559,San Francisco,3,Hawaiian Restaurant,Liholiho Yacht Club,54c2a5e4498ee52a438800f7
+1560,San Francisco,3,New American Restaurant,Nopa,44646408f964a52026331fe3
+1561,San Francisco,3,American Restaurant,The Progress,548b976b498e8beca9ac6641
+1562,San Francisco,3,New American Restaurant,Frances,4b00cb8ef964a520274122e3
+1563,San Francisco,3,Sushi Restaurant,Ebisu,3fd66200f964a52017ed1ee3
+1564,San Francisco,4,French Restaurant,Atelier Crenn,4d35122d8c42a1cd7c9e005e
+1565,San Francisco,4,Grocery Store,Bi-Rite Market,47f64f56f964a520a94e1fe3
+1566,San Joaquin,1,Burger Joint,In-N-Out Burger,4b1ad930f964a52021f323e3
+1567,San Joaquin,1,Coffee Shop,Starbucks,4be1a0e78ea562b5981a2170
+1568,San Joaquin,1,Burger Joint,In-N-Out Burger,4b99bb27f964a520d38e35e3
+1569,San Joaquin,1,Frozen Yogurt Shop,Menchie's,5110285ae4b0ee65995a0942
+1570,San Joaquin,1,Pizza Place,Rick's New York Style Pizza,4bbe7a2db083a5931e22a2e9
+1571,San Joaquin,1,Pizza Place,Pizza Plus,4b91ee11f964a520dddf33e3
+1572,San Joaquin,1,Chinese Restaurant,Yen Du,4bca24d3937ca593083ca792
+1573,San Joaquin,1,Café,The Avenue Grill,4bb8e2e0cf2fc9b696fb9f02
+1574,San Joaquin,1,Coffee Shop,Peet's Coffee & Tea,4b735754f964a52098a92de3
+1575,San Joaquin,1,Bakery,Panera Bread,556cb0d1498e7ea75e22154c
+1576,San Joaquin,1,Bakery,Panera Bread,4b42a016f964a520b9d725e3
+1577,San Joaquin,1,Coffee Shop,Starbucks,4ba8cd54f964a52014f039e3
+1578,San Joaquin,1,Burger Joint,In-N-Out Burger,4b512c1ff964a520db4527e3
+1579,San Joaquin,1,Mexican Restaurant,Taquería La Costa,4bca2d50937ca5939652a792
+1580,San Joaquin,1,Deli / Bodega,Genova Bakery,4b32f6fbf964a5207c1625e3
+1581,San Joaquin,1,Pizza Place,Round Table Pizza,4bc529e941cb76b00b183e6f
+1582,San Joaquin,1,Mexican Restaurant,Taqueria Yvettes,4be0798fcb81c9b674fc658b
+1583,San Joaquin,1,Snack Place,Cheese Central,4d8e434f1d06b1f73dc9443b
+1584,San Joaquin,1,Pizza Place,Dante's California Style Pizza,4b552281f964a5206adc27e3
+1585,San Joaquin,1,Pizza Place,David's Pizza,4bca0b3c3740b713afe35f65
+1586,San Joaquin,1,Burger Joint,In-N-Out Burger,4b3bb768f964a5207b7925e3
+1587,San Joaquin,1,American Restaurant,Lumberjacks,4fa81a5ee4b04e7685482d8c
+1588,San Joaquin,1,Burger Joint,Fosters Freeze,4c5c6cac6ebe2d7f980ad02e
+1589,San Joaquin,1,Coffee Shop,Starbucks,52425b74498e7bd18d989f9a
+1590,San Joaquin,1,Coffee Shop,Starbucks,5297e0e011d210809e59e72b
+1591,San Joaquin,1,Coffee Shop,Starbucks,4b310eccf964a52049ff24e3
+1592,San Joaquin,1,Filipino Restaurant,Papa Urb's Grill,4d0aaa83dd5fa1cd6db55489
+1593,San Joaquin,1,Coffee Shop,Starbucks,4b36c9cdf964a520713c25e3
+1594,San Joaquin,1,Fast Food Restaurant,Chick-fil-A,581136e438fa82d3ef2a338f
+1595,San Joaquin,1,Frozen Yogurt Shop,Tigers Yogurt,4ba9469df964a5208a1a3ae3
+1596,San Joaquin,2,Winery,Michael David Winery,4bca0ad3511f952113deaec7
+1597,San Joaquin,2,BBQ Joint,The Waterloo Club,4c225167fbe5c9b61bb29921
+1598,San Joaquin,2,American Restaurant,Market Tavern,527edd2a498e9cdc25a516f4
+1599,San Joaquin,2,Sushi Restaurant,Komachi Sushi,522fd85111d207d3187589b4
+1600,San Joaquin,2,Sushi Restaurant,Amici Sushi,4dd7eee3fa76ad96d131042d
+1601,San Joaquin,2,Chocolate Shop,Ghiradelli Chocolate Outlet & Ice Cream Shop,4b4f63ebf964a5207a0427e3
+1602,San Joaquin,2,Indian Restaurant,Dhaba Indian Cuisine,4afe15cff964a520c92d22e3
+1603,San Joaquin,2,Afghan Restaurant,Mazaa Kabob House,551db8df498ea94001640f6c
+1604,San Joaquin,2,Brewery,Morgan Territory Brewing,574b9a26498eb823b9f0527d
+1605,San Joaquin,2,Filipino Restaurant,Best Lumpia,4b32f763f964a520881625e3
+1606,San Joaquin,2,Bakery,Boudin SF,4b32f852f964a520a01625e3
+1607,San Joaquin,2,Japanese Restaurant,Misaki,4b6c9281f964a52001442ce3
+1608,San Joaquin,2,Diner,Black Bear Diner,5490b1fc498ebedb2c5a3bf3
+1609,San Joaquin,2,Chinese Restaurant,Dave Wong's Restaurant,4b550db5f964a5206ed927e3
+1610,San Joaquin,2,Chinese Restaurant,Peking Restaurant,4b78a28cf964a5203adb2ee3
+1611,San Joaquin,2,Coffee Shop,Starbucks,4b77284af964a52045832ee3
+1612,San Joaquin,2,Coffee Shop,Starbucks,4b6df2d7f964a5204a9e2ce3
+1613,San Joaquin,2,Italian Restaurant,Romano's Macaroni Grill,4baad481f964a5201f893ae3
+1614,San Joaquin,2,BBQ Joint,Billie Hill’s Hillbillie Bar-B-Q,4eeba2f993ad2cbd83c00fb3
+1615,San Joaquin,2,BBQ Joint,L&L Hawaiian Barbecue,4b9ea631f964a520bbf636e3
+1616,San Joaquin,2,Sushi Restaurant,Mikasa Japanese Bistro,4bdb5b14383276b05dae7369
+1617,San Joaquin,2,Coffee Shop,Starbucks,52869069498e3289da675b66
+1618,San Joaquin,2,Sushi Restaurant,Matsuyama,4bc13f6c74a9a59361aad1f6
+1619,San Joaquin,2,Italian Restaurant,Angelina's Spaghetti House,4ba45394f964a5202a9638e3
+1620,San Joaquin,2,Mexican Restaurant,Habanero Hots,4b82125bf964a520bbc930e3
+1621,San Joaquin,2,Bar,The Boathouse at River Islands,56cfb7da498ec38d4192903e
+1622,San Joaquin,2,Breakfast Spot,Midtown Crêperie & Café,4c22687c9a67a593f271dc87
+1623,San Joaquin,2,American Restaurant,Garlic Brothers Restaurant & Bar,4b551d6ef964a5209ddb27e3
+1624,San Joaquin,2,American Restaurant,Wine Country Cardroom & Restaurant,4ad14fb6f964a520fcdd20e3
+1625,San Joaquin,2,Bar,Haven Acres,4c8c6c6f509e37041dac3355
+1626,San Joaquin,3,Greek Restaurant,Papapavlo's Bistro & Bar,4b53d0fcf964a52042ac27e3
+1627,San Joaquin,3,Italian Restaurant,Pietro's Italian Restaurant,4bc4f1d20191c9b69fdeeab1
+1628,San Joaquin,4,American Restaurant,Rosewood Bar & Grill,4f488b09e4b072f5aa9d9e15
+1629,San Joaquin,4,American Restaurant,M & J Bistro,4c5627a573fd2d7f322809cf
+1630,San Joaquin,4,Steakhouse,Sizzler,5883c745a4367c4078b9fb9a
+1631,San Joaquin,4,Seafood Restaurant,Red Lobster,4b0586b5f964a520b36a22e3
+1632,San Luis Obispo,1,Donut Shop,SLO Donut Company,4c94036e21c7199cb0960d7f
+1633,San Luis Obispo,1,Deli / Bodega,High Street Market & Deli,4b01bf78f964a520174522e3
+1634,San Luis Obispo,1,Café,Scout Coffee Co,57a362cd498e281804a37b2d
+1635,San Luis Obispo,1,BBQ Joint,Firestone Grill,4a0cf435f964a5206f751fe3
+1636,San Luis Obispo,1,Café,Sally Loo's Wholesome Cafe,4b818efbf964a52002af30e3
+1637,San Luis Obispo,1,Coffee Shop,Kreuzberg Coffee Company,4ccb917e566aa09382e01bfd
+1638,San Luis Obispo,1,Pub,Frog & Peach Pub,4adea2f4f964a5208d7621e3
+1639,San Luis Obispo,1,Falafel Restaurant,Jaffa Cafe,4afc87def964a520952322e3
+1640,San Luis Obispo,1,Burger Joint,The Habit Burger Grill,4e064dddfa767637fd23f145
+1641,San Luis Obispo,1,Sandwich Place,Urbane Cafe,4eac62c8f5b90f34f04b8755
+1642,San Luis Obispo,1,Pizza Place,Blast 825° Taproom,56a29068498e217b6b6d6304
+1643,San Luis Obispo,1,Sandwich Place,Kona's Deli,4b8b0afaf964a520d68f32e3
+1644,San Luis Obispo,1,Sandwich Place,Mr. Pickle's Sandwich Shop,5085bfb1e4b0b1ead2c9d617
+1645,San Luis Obispo,1,Coffee Shop,Coastal Peaks Coffee,4bb6792c941ad13aa67e1fe3
+1646,San Luis Obispo,1,Pizza Place,Woodstock's Pizza,4b187292f964a520dbd223e3
+1647,San Luis Obispo,1,Burrito Place,Taqueria Santa Cruz,51f9ca94498e585cfa2e62e5
+1648,San Luis Obispo,1,Hot Dog Joint,Frank's Famous Hot Dogs,4c50968dd797e21eb394ad7a
+1649,San Luis Obispo,1,Mexican Restaurant,Taco Roco,4b47aa66f964a520b03926e3
+1650,San Luis Obispo,1,Café,Del Monte Cafe,4b6b781ff964a520ca0a2ce3
+1651,San Luis Obispo,1,Dessert Shop,Cowboy Cookie n' Grub,4b6e0686f964a52057a42ce3
+1652,San Luis Obispo,1,Pizza Place,Pizza Solo,4b50c512f964a520a93127e3
+1653,San Luis Obispo,1,Coffee Shop,Starbucks,4babfd12f964a520fcdb3ae3
+1654,San Luis Obispo,1,Deli / Bodega,Sidewalk Market & Deli,4b8aa2bef964a520997632e3
+1655,San Luis Obispo,1,Coffee Shop,BlackHorse at Uptown,4aca1e37f964a52079c020e3
+1656,San Luis Obispo,1,Café,Copper Cafe,4b76f14ff964a520e06c2ee3
+1657,San Luis Obispo,1,Sandwich Place,Jersey Mike's Subs,56fad992cd10ad4cd66c06b2
+1658,San Luis Obispo,1,Burger Joint,Five Guys,5aa59522fc9e9430156d5837
+1659,San Luis Obispo,1,Coffee Shop,Peet's Coffee & Tea,4b6e4f1bf964a5207db72ce3
+1660,San Luis Obispo,1,Coffee Shop,Linnaea's Cafe,4aa7f631f964a5203b4e20e3
+1661,San Luis Obispo,1,Coffee Shop,Starbucks,4b4cab47f964a520a2b926e3
+1662,San Luis Obispo,2,Coffee Shop,Scout Coffee Co.,52dc92b6498e3e0def25c752
+1663,San Luis Obispo,2,Brewery,Central Coast Brewing,4a522f4ef964a52059b11fe3
+1664,San Luis Obispo,2,Deli / Bodega,Lincoln Market & Deli,4b92be75f964a520951734e3
+1665,San Luis Obispo,2,Brewery,BarrelHouse Brewing SLO - Taproom,56905047498ea35a31f057cf
+1666,San Luis Obispo,2,Asian Restaurant,Novo Restaurant & Lounge,4b4d5f1bf964a5208dd126e3
+1667,San Luis Obispo,2,Burger Joint,Eureka!,4e7a37c1a809668b4acbb091
+1668,San Luis Obispo,2,Thai Restaurant,Thai Boat,4b625b56f964a520fc432ae3
+1669,San Luis Obispo,2,Sushi Restaurant,Goshi Japanese Restaurant,4bca68effb84c9b69b351d3e
+1670,San Luis Obispo,2,Sushi Restaurant,Yanagi Sushi & Grill,4b5d1254f964a520555129e3
+1671,San Luis Obispo,2,Brewery,The Libertine Brewing Company,55d7e32f498e8e61fd84c02c
+1672,San Luis Obispo,2,Pizza Place,Petra Mediterranean Pizza and Grill,4bd35673462cb7136633de07
+1673,San Luis Obispo,2,Tapas Restaurant,Taste! Catering & Eatery,50fb5cd4e4b007244c11ab7c
+1674,San Luis Obispo,2,Breakfast Spot,Louisa's Place,4aa52efef964a520874720e3
+1675,San Luis Obispo,2,Sandwich Place,Gus's Grocery,4b4cd96cf964a52094c126e3
+1676,San Luis Obispo,2,Cajun / Creole Restaurant,Bon Temps Creole Cafe,57377b23498eb703a82cfb8e
+1677,San Luis Obispo,2,New American Restaurant,Big Sky Cafe,4ae734faf964a52060a921e3
+1678,San Luis Obispo,2,Seafood Restaurant,Splash Café Monterey St.,4b4a916bf964a520c78a26e3
+1679,San Luis Obispo,2,Italian Restaurant,Guiseppe's Cucina Rustica,5859ba19424f934966983062
+1680,San Luis Obispo,2,Bar,Black Sheep Bar & Grill,4b4d7719f964a520b2d226e3
+1681,San Luis Obispo,2,Bar,McCarthy's Irish Pub,4afc8994f964a520a92322e3
+1682,San Luis Obispo,2,Brewery,SLO Brew Rock,54c891d9498e578602b5be8a
+1683,San Luis Obispo,2,Brewery,Central Coast Brewing,5aa3427b61e53b37cca21e2c
+1684,San Luis Obispo,2,Winery,Kelsey See Canyon Vineyards,4bd4ad696798ef3b552a628d
+1685,San Luis Obispo,2,Brewery,Bang the Drum Brewery,5240e888049385b534586787
+1686,San Luis Obispo,2,Japanese Restaurant,Raku Ramen,53c0aab4498ed50a2f0de561
+1687,San Luis Obispo,2,Wine Bar,Granada Bistro,4bd3a1e9046076b06aa07671
+1688,San Luis Obispo,2,BBQ Joint,Mo's Smokehouse BBQ,4b3ffd34f964a520b9b325e3
+1689,San Luis Obispo,2,BBQ Joint,Old San Luis BBQ Co.,53dd9944498e95484c46a480
+1690,San Luis Obispo,2,German Restaurant,Wineman GrillHaus,54013a26498e1ec0544690d8
+1691,San Luis Obispo,2,Winery,Chamisal Vineyards,4b804ef8f964a520966630e3
+1692,San Luis Obispo,3,Tapas Restaurant,Luna Red,4cba73db9552b60cad73da8b
+1693,San Luis Obispo,3,Hotel,Apple Farm,4a0cf5f5f964a52070751fe3
+1694,San Luis Obispo,3,Hotel Bar,Silver Bar Cocktail Lounge,4b776848f964a5206e982ee3
+1695,San Luis Obispo,3,Seafood Restaurant,Olde Port Inn,4b809beef964a520b58030e3
+1696,San Luis Obispo,4,Steakhouse,F.McLintocks Saloon & Dining House,4b1f0540f964a520f12224e3
+1697,San Mateo,1,Coffee Shop,Blue Bottle Coffee,59c306afd0a1490dd2a23c17
+1698,San Mateo,1,Sandwich Place,The Ravioli House,4abbc7d4f964a520de8420e3
+1699,San Mateo,1,Breakfast Spot,Apple Fritter,548b5265498e928ab665f488
+1700,San Mateo,1,Ice Cream Shop,Tin Pot Creamery,59b0508bcf72a06947ffa734
+1701,San Mateo,1,Coffee Shop,Philz Coffee,54907fd8498ee860218d95fa
+1702,San Mateo,1,Dessert Shop,Romolo's Cannoli & Spumoni Factory,4ac3ce9bf964a520df9c20e3
+1703,San Mateo,1,Beer Garden,Fieldwork Brewing Co. Beer Garden,59569d501fa763146a37902a
+1704,San Mateo,1,Noodle House,Noodleosophy,58b23dcbfc73d40cf7723bb5
+1705,San Mateo,1,Bakery,Antoine's Cookie Shop,5701b2e7cd1096a8c8f35ebd
+1706,San Mateo,1,Bakery,Backhaus,5d05311ed41bb7002c86765b
+1707,San Mateo,1,Mexican Restaurant,Taqueria El Palenque,4a6e0204f964a5209dd31fe3
+1708,San Mateo,1,Café,Cup of Blooms,5c2051311953f3002b958655
+1709,San Mateo,1,Grocery Store,Suruki Supermarket,4a8c567ef964a520b30d20e3
+1710,San Mateo,1,Coffee Shop,Starbucks,4c6b2213e503c928ca8147b3
+1711,San Mateo,1,Dessert Shop,Meet Fresh 鮮芋仙,5d74521270b0ed0008ed5a79
+1712,San Mateo,1,Mexican Restaurant,Pancho Villa Taqueria,45bce3b8f964a5200c421fe3
+1713,San Mateo,1,Ice Cream Shop,Uji Time,5b2ec027f79faa002cdfbb01
+1714,San Mateo,1,Grocery Store,Takahashi Market,4b466d4af964a5208d2026e3
+1715,San Mateo,1,Chinese Restaurant,Boiling Point 沸點,57f088a3498ed51bff79cd1c
+1716,San Mateo,1,Coffee Shop,Foreigner,5d0671ea1c0b34002cae7739
+1717,San Mateo,1,Café,Fiero Caffé,55c6537d498e372c8890a84a
+1718,San Mateo,1,Bakery,Dianda's Italian American Pastry - San Mateo,4b243ac7f964a5203b6424e3
+1719,San Mateo,1,Dessert Shop,Uncle Tetsu,5bf0b54dc9a517003989e58a
+1720,San Mateo,1,Japanese Restaurant,Kaz Teriyaki Grill,49e4f1c2f964a52076631fe3
+1721,San Mateo,1,Salad Place,sweetgreen,5a777ac9e2d4aa7517d4a850
+1722,San Mateo,1,Wings Joint,Fire Wings,5b198c90febf31002cf26a46
+1723,San Mateo,1,Café,Kitchentown,4c6827ac7abde21e4ce36768
+1724,San Mateo,1,Food Truck,Moveable Feast: Fashion Island,52a0d67711d26ec8a30c4321
+1725,San Mateo,1,Sandwich Place,The Sandwich Spot,4eea48072c5bbde21843e47e
+1726,San Mateo,1,Noodle House,Noodles & Things 文哥雞湯米線,5c71b1e7d69ed0002cf5f236
+1727,San Mateo,2,Breakfast Spot,Nini's Coffee Shop,49eb83f1f964a520ed661fe3
+1728,San Mateo,2,Bar,Grape & Grain,4e222a8ee4cdf685918d9a39
+1729,San Mateo,2,Japanese Restaurant,Gyu-Kaku Japanese BBQ,51e9adf57dd2c76c98e87aa3
+1730,San Mateo,2,Thai Restaurant,Charm Thai Eatery,54ca97ba498ed741559a3901
+1731,San Mateo,2,Cuban Restaurant,Cuban Kitchen,55be7423498e6bfc71c3b684
+1732,San Mateo,2,Japanese Restaurant,Yakitori Kokko,4b08ac73f964a520931023e3
+1733,San Mateo,2,Cocktail Bar,Mortar & Pestle,52d0b2b3498e85dde0930d32
+1734,San Mateo,2,Indian Restaurant,Curry Up Now,4e3eea0aa809ba757c1de630
+1735,San Mateo,2,Vietnamese Restaurant,Gao Viet Kitchen,5b57e3d51cf2e1002cd7862d
+1736,San Mateo,2,Mediterranean Restaurant,Cobani Gyro & Kebab,54f8caef498e72f9a012bd6a
+1737,San Mateo,2,Mexican Restaurant,El Sinaloense,4aeb45b7f964a5206ac021e3
+1738,San Mateo,2,Italian Restaurant,Sole Ristorante Italiano,5197038c498eaee01143519c
+1739,San Mateo,2,Pizza Place,Rainbow Pizza,4a30bc2df964a52088991fe3
+1740,San Mateo,2,Peruvian Restaurant,Mancora Restaurant Cebicheria,4cf96d03084f54816eed7409
+1741,San Mateo,2,Ramen Restaurant,Ramen Dojo,4bbe2b79061fb713aed7edce
+1742,San Mateo,2,Vietnamese Restaurant,Ben Tre,54ca9f3c498e90135b2dd32f
+1743,San Mateo,2,Mediterranean Restaurant,Village Hummus,55e4ab32498e0f5934a848e0
+1744,San Mateo,2,Japanese Restaurant,Fuji Sukiyaki,4b046de6f964a520175422e3
+1745,San Mateo,2,Burger Joint,Jack's Prime Burgers & Shakes,4a18fcabf964a520017a1fe3
+1746,San Mateo,2,Wine Bar,B Street & Vine,4a0cf910f964a52073751fe3
+1747,San Mateo,2,Sushi Restaurant,Sushi Maruyama,59166fc761f07003f95c3a73
+1748,San Mateo,2,Sushi Restaurant,Kaori Restaurant,56947852498effc7305e220b
+1749,San Mateo,2,Korean Restaurant,Bonchon,55a9b315498e451742099dd0
+1750,San Mateo,2,Seafood Restaurant,The Fish Market San Mateo,4a821f2cf964a520adf81fe3
+1751,San Mateo,2,Burger Joint,Rave Burger,49e8ce7af964a5208a651fe3
+1752,San Mateo,2,American Restaurant,The Cheesecake Factory,4e722625b99345fbe85f0755
+1753,San Mateo,2,Ramen Restaurant,Himawari,4a67ccd4f964a52012ca1fe3
+1754,San Mateo,2,Ramen Restaurant,Ramen Parlor,4e8767ee2c5bafd664fc1e82
+1755,San Mateo,2,American Restaurant,Neal's Coffee Shop,5054ac7fe4b0cbb61a6e179e
+1756,San Mateo,2,Mediterranean Restaurant,Hummus Mediterranean Kitchen,51589757e4b0d20cd97f70ac
+1757,San Mateo,3,Grocery Store,Whole Foods Market,49de836ef964a5205f601fe3
+1758,San Mateo,3,Japanese Restaurant,Yuzu Sushi & Grill,4ab44345f964a520a27020e3
+1759,San Mateo,3,Japanese Restaurant,Sushi Sam's,4a7c81bbf964a520d7ec1fe3
+1760,San Mateo,3,Churrascaria,Espetus Churrascaria,4b882d89f964a52051e531e3
+1761,San Mateo,3,Indian Restaurant,All Spice,4cf1eb4f899c6ea8ffbdf3c1
+1762,San Mateo,3,Mediterranean Restaurant,Tannourine,4aef5cd4f964a520dad721e3
+1763,San Mateo,3,Tapas Restaurant,Amour Amour,53c491d6498e4b356ee07cf2
+1764,San Mateo,3,Japanese Restaurant,Izakaya Ginji,4c8ae98f3dc2a1cd2bb1b132
+1765,San Mateo,4,Japanese Restaurant,Sushi Yoshizumi,55331866498e4b7428e9e7a2
+1766,San Mateo,4,American Restaurant,Central Park Bistro,4ae7544cf964a52075aa21e3
+1767,San Mateo,4,Japanese Restaurant,Wakuriya,4b108551f964a520277223e3
+1768,San Mateo,4,French Restaurant,Viognier Restaurant,4b4cc69df964a5205cbe26e3
+1769,San Mateo,4,Deli / Bodega,Esposto's Delicatessen,4a68c412f964a520f5ca1fe3
+1770,Santa Barbara,1,Coffee Shop,Handlebar Coffee,4e09167aa809495e61a2a059
+1771,Santa Barbara,1,Ice Cream Shop,Rori's Artisanal Creamery,50c16fb7e4b0abeb9e539a24
+1772,Santa Barbara,1,Pizza Place,Lucky Penny,519f9d502fc61d9b8677aacd
+1773,Santa Barbara,1,Ice Cream Shop,McConnell's Fine Ice Creams,52275d178bbddd8a8d16e7a5
+1774,Santa Barbara,1,Coffee Shop,The French Press,50758a3ce4b004083243d89a
+1775,Santa Barbara,1,Breakfast Spot,Backyard Bowls,4afda4def964a520712922e3
+1776,Santa Barbara,1,Coffee Shop,The French Press,4aeb28fbf964a52027bf21e3
+1777,Santa Barbara,1,Coffee Shop,Handlebar Coffee,59d1283a04d1ae5b8eb8d17e
+1778,Santa Barbara,1,Mexican Restaurant,Santo Mescal,5924c286780eee0a06543fdf
+1779,Santa Barbara,1,Taco Place,Corazon Cocina,57a0335d498ebab5a8df4555
+1780,Santa Barbara,1,Brewery,Figueroa Mountain Brewing Company,519ae835498e7dc3236d8f05
+1781,Santa Barbara,1,Bakery,Helena Avenue Bakery,57adf542498e0d78c52d46e5
+1782,Santa Barbara,1,Taco Place,East Beach Tacos,5519b2f0498e6713ea43f0be
+1783,Santa Barbara,1,Sandwich Place,South Coast Deli,4b280e06f964a5204a8e24e3
+1784,Santa Barbara,1,Ice Cream Shop,Rori's Artisanal Creamery,53533c08498e1e03294c0f4d
+1785,Santa Barbara,1,Taco Place,Lilly's Taqueria,4b44e3d2f964a52068ff25e3
+1786,Santa Barbara,1,Burger Joint,The Habit Burger Grill,4b245cb8f964a520846624e3
+1787,Santa Barbara,1,Juice Bar,Blenders in the Grass,4b3ff70af964a52022b325e3
+1788,Santa Barbara,1,Taco Place,La Super-Rica Taqueria,4a7dd9acf964a520e1ef1fe3
+1789,Santa Barbara,1,Bakery,Jeannine's American Bakery & Restaurant,4af5b284f964a52079fb21e3
+1790,Santa Barbara,1,Ice Cream Shop,Mcconnell’s Fine Ice Creams,5b5bc24f18d43b00390e086f
+1791,Santa Barbara,1,Sandwich Place,Pickles & Swiss,5046a3c3e4b0852ff26779ce
+1792,Santa Barbara,1,Beer Garden,Nite Moves,4beb528ea9900f47c7bb1740
+1793,Santa Barbara,1,Gastropub,Yellow Belly,54373a78498e918b44987f49
+1794,Santa Barbara,1,Seafood Restaurant,On The Alley,4fc2a969e4b05b8503981d6d
+1795,Santa Barbara,1,Mexican Restaurant,Mony's,5228d2d0498e17bf52f4a81f
+1796,Santa Barbara,1,Burger Joint,The Habit Burger Grill,4b467835f964a520082226e3
+1797,Santa Barbara,1,Mexican Restaurant,Taqueria Cuernavaca,4f494836e4b0e4755dceb13e
+1798,Santa Barbara,1,Bakery,Lilac Patisserie,54d6b583498e66f5eec93cef
+1799,Santa Barbara,1,Noodle House,Empty Bowl Gourmet Noodle Bar,5346c8e0498e3d778240e5c7
+1800,Santa Barbara,2,Sandwich Place,The Blue Owl,4fd68473e4b050a3e526cc05
+1801,Santa Barbara,2,Pizza Place,Olio Pizzeria,5160f063e4b006e8fa21d5b4
+1802,Santa Barbara,2,Mexican Restaurant,Los Agaves Restaurant,4b252867f964a5201c6d24e3
+1803,Santa Barbara,2,Mediterranean Restaurant,Cafe Zaytoon,4aba7e7ef964a520958120e3
+1804,Santa Barbara,2,Deli / Bodega,Norton's Pastrami & Deli,4babf145f964a520a0d73ae3
+1805,Santa Barbara,2,Bar,Test Pilot,57ca67d7498e98eee97c9268
+1806,Santa Barbara,2,Deli / Bodega,South Coast Deli,4b54cec0f964a52069cd27e3
+1807,Santa Barbara,2,Ice Cream Shop,Mission Street Ice Cream and Yogurt - Featuring McConnell's Fine Ice Creams,4adcf428f964a520db6221e3
+1808,Santa Barbara,2,Bar,The Good Lion,5471482a498ea81a482bb9bb
+1809,Santa Barbara,2,Seafood Restaurant,Brophy Bros.,480b7de8f964a5201d4f1fe3
+1810,Santa Barbara,2,Restaurant,Bella Vista,4c2eb10c452620a1f0661c0f
+1811,Santa Barbara,2,Mexican Restaurant,Los Agaves,51c0e2f8498ec6e591549d30
+1812,Santa Barbara,2,Asian Restaurant,Sama Sama Kitchen,50d3ce89c84ca92b281481f8
+1813,Santa Barbara,2,Gourmet Shop,Metropulos Fine Foods Merchant,4b60c6b7f964a520c5f829e3
+1814,Santa Barbara,2,New American Restaurant,Opal Restaurant & Bar,4b51439bf964a5202c4927e3
+1815,Santa Barbara,2,Winery,Kunin Wines Tasting Room,4b774655f964a520eb8d2ee3
+1816,Santa Barbara,2,Brewery,Topa Topa Brewing Company,581534ed38fae856620f3a28
+1817,Santa Barbara,2,Coffee Shop,Starbucks,49e8a4f6f964a5205d651fe3
+1818,Santa Barbara,2,Café,Savoy Cafe & Deli,4c7d6ae13b22a1cd1bdb5e9e
+1819,Santa Barbara,2,Brewery,Telegraph Brewing Company,4ae0ebfdf964a520bb8321e3
+1820,Santa Barbara,2,Wine Bar,Wine+Beer,534d91d0498edb4991258a2a
+1821,Santa Barbara,2,French Restaurant,Renaud's Patisserie & Bistro,4b9bf6eef964a5204b3b36e3
+1822,Santa Barbara,2,Seafood Restaurant,Santa Barbara Shellfish Co.,4b3a6087f964a520f06525e3
+1823,Santa Barbara,2,American Restaurant,Shoreline Beach Cafe,4b12b199f964a520618c23e3
+1824,Santa Barbara,2,Diner,The Shop,50ca483de4b0821744b551b0
+1825,Santa Barbara,2,Italian Restaurant,Pane E Vino,4b65e101f964a520aa052be3
+1826,Santa Barbara,2,Coffee Shop,Santa Barbara Roasting Company,4b42729ff964a5201ed425e3
+1827,Santa Barbara,2,Thai Restaurant,Meun Fan Thai,4b50d8caf964a520153527e3
+1828,Santa Barbara,2,Breakfast Spot,Sambo's,4ab3e140f964a520e06e20e3
+1829,Santa Barbara,2,Mexican Restaurant,Rose Cafe,4b4adb5ef964a520218f26e3
+1830,Santa Barbara,3,Gastropub,Brass Bear Brewing & Bistro,56cf6d38cd10b98f496c2749
+1831,Santa Barbara,3,Seafood Restaurant,Lure Fish House,56841727498e284cc5ea9d18
+1832,Santa Barbara,3,American Restaurant,Boathouse at Hendry's Beach,4b3e5f76f964a520169c25e3
+1833,Santa Barbara,3,Sushi Restaurant,Arigato Sushi,4b25c5e9f964a520107624e3
+1834,Santa Barbara,3,Lounge,University Club,4ac51d9bf964a5206ab020e3
+1835,Santa Barbara,3,American Restaurant,Scarlett Begonia,4e7f8f3e550322dac0bac57b
+1836,Santa Barbara,3,New American Restaurant,Honor Bar,54751baf498e0c555a31ff1b
+1837,Santa Barbara,3,French Restaurant,Bree'osh Bakery Cafe Montecito,56325b08498efe869a6cc641
+1838,Santa Barbara,3,Cocktail Bar,Goodbar,54dbff0e498e19703967f62d
+1839,Santa Barbara,3,Tapas Restaurant,Milk & Honey,4b51496af964a520d64927e3
+1840,Santa Barbara,3,Bakery,D'Angelo Bread,4b326062f964a520fc0925e3
+1841,Santa Barbara,3,Seafood Restaurant,Santa Barbara FisHouse,4b5b7b38f964a520780129e3
+1842,Santa Barbara,3,French Restaurant,Stella Mare's,4bafcd40f964a520e9213ce3
+1843,Santa Barbara,3,American Restaurant,Finch & Fork,4b5d07d1f964a520ae4f29e3
+1844,Santa Barbara,3,Italian Restaurant,Tre Lune,4b5495d9f964a52041c127e3
+1845,Santa Barbara,3,New American Restaurant,Finney’s Crafthouse & Kitchen,5acd7cdd86bc490a113a247a
+1846,Santa Barbara,4,New American Restaurant,The Lark,519f96b42fc6fac9c42684f5
+1847,Santa Barbara,4,American Restaurant,Stonehouse Restaurant,4ad28ee7f964a52030e220e3
+1848,Santa Barbara,4,Spanish Restaurant,Loquita,57e50482498e68a314ab03d1
+1849,Santa Barbara,4,Steakhouse,Lucky's Steakhouse,4c68be26c946e21e4c9be88e
+1850,Santa Barbara,4,Steakhouse,Tee-Off Restaurant and Lounge,4b415be0f964a520c8c525e3
+1851,Santa Barbara,4,Italian Restaurant,Toma Restaurant,5168c44ee4b065824cfc7def
+1852,Santa Barbara,4,New American Restaurant,The Dining Room at El Encanto,51be4065498e6a6fee60ffd5
+1853,Santa Clara,1,Donut Shop,Stan's Donut Shop,4b0d6183f964a520354723e3
+1854,Santa Clara,1,Coffee Shop,Chromatic Coffee,50799a54e4b08aa6be4e0b76
+1855,Santa Clara,1,Café,Voyager Craft Coffee,57ddc096498e779b814d0572
+1856,Santa Clara,1,Pizza Place,A Slice of New York,4a821921f964a52095f81fe3
+1857,Santa Clara,1,Sandwich Place,Ike's Sandwiches,507e209ae4b0959d8bc30ecc
+1858,Santa Clara,1,Sandwich Place,Erik's DeliCafé,4afc7db8f964a5203b2322e3
+1859,Santa Clara,1,Mexican Restaurant,Asadero,59337e3b419a9e4bedbe3f7c
+1860,Santa Clara,1,Coffee Shop,1 oz coffee,571a5271498ecff1fbdb85a6
+1861,Santa Clara,1,Fast Food Restaurant,Chick-fil-A,5dcb6d7cf94e180008d32a54
+1862,Santa Clara,1,Mexican Restaurant,Puesto Restaurant,5afb85d13e6741002ca813ee
+1863,Santa Clara,1,Burger Joint,In-N-Out Burger,43c51016f964a520632d1fe3
+1864,Santa Clara,1,Ice Cream Shop,Baskin-Robbins,4b80b001f964a5203f8630e3
+1865,Santa Clara,1,Dumpling Restaurant,Din Tai Fung 鼎泰豐,5531d5a2498e3e975d9513b7
+1866,Santa Clara,1,Pizza Place,Pizza My Heart,4f8630cbe4b0eb2053f9eb43
+1867,Santa Clara,1,Pizza Place,Premier Pizza,4aa17191f964a520914020e3
+1868,Santa Clara,1,Snack Place,Auntie Anne's,4b804324f964a520146230e3
+1869,Santa Clara,1,Chinese Restaurant,Easterly Hunan Cuisine,5a656b872632ec25930ace12
+1870,Santa Clara,1,Burger Joint,The Habit Burger Grill,53ee4f44498e649a7bdae16f
+1871,Santa Clara,1,Pizza Place,MOD Pizza,55a8012b498e11da1ab70cda
+1872,Santa Clara,1,Mediterranean Restaurant,Yeganeh Bakery & Cafe,4f7db5ece4b0b591d62964b8
+1873,Santa Clara,1,Ice Cream Shop,Rocko’s Ice Cream Tacos,5adbff42ff03064314779709
+1874,Santa Clara,1,Chinese Restaurant,Panda Express,54f77e65498e8e8bef9ddc45
+1875,Santa Clara,1,Burger Joint,Grub Burger Bar,5b7c6fade0c0c9002c81bd4e
+1876,Santa Clara,1,Bagel Shop,Noah's Bagels,4b0ec8f5f964a520015b23e3
+1877,Santa Clara,1,Bakery,Feride’s Bakery,59da99de1ffed7697ae3a5bb
+1878,Santa Clara,1,Korean Restaurant,Hong Kong Banjum San Jose / Paik's Noodle,582781281dbf6c7dd859da27
+1879,Santa Clara,1,Frozen Yogurt Shop,Yumi Yogurt,4a5fff2af964a520a6c01fe3
+1880,Santa Clara,1,Burger Joint,Konjoe Burger,5abeebd63af988101bb11aa3
+1881,Santa Clara,1,Bakery,Boudin Bakery Café Valley Fair,4b550c40f964a52030d927e3
+1882,Santa Clara,1,Mexican Restaurant,Chipotle Mexican Grill,529f98c111d2d6d80af4412e
+1883,Santa Clara,2,Japanese Restaurant,Sumiya Japanese Charcoal Grill,4a8cc4ebf964a5201b0f20e3
+1884,Santa Clara,2,Greek Restaurant,Athena Grill & Catering,4b8d7103f964a52010fc32e3
+1885,Santa Clara,2,Mongolian Restaurant,El Camino Mongolian BBQ,4a734d78f964a5200ddc1fe3
+1886,Santa Clara,2,Korean Restaurant,Kunjip Restaurant,4aeb99dbf964a520adc321e3
+1887,Santa Clara,2,Coffee Shop,Big Mug Coffee Roaster,5323c4f3498e7c57fe1eb1db
+1888,Santa Clara,2,Korean Restaurant,Tapas Tokki,5878358ffc73d44ef346fbd3
+1889,Santa Clara,2,Sushi Restaurant,Sushi O Sushi,43768200f964a5204e2a1fe3
+1890,Santa Clara,2,Steakhouse,Flemings Prime Steakhouse & Wine Bar,59a9fe189de23b724c4365c0
+1891,Santa Clara,2,Thai Restaurant,Dusita Thai,4bb647c8ef159c74b5b375f7
+1892,Santa Clara,2,Indian Restaurant,Aachi Aappakadai,4e8f496c0aafb4070b78eed7
+1893,Santa Clara,2,Sushi Restaurant,Yuki Sushi,4a62921bf964a52059c41fe3
+1894,Santa Clara,2,Japanese Restaurant,En Japanese Tapas Restaurant,4a62a855f964a5206dc41fe3
+1895,Santa Clara,2,Bar,Whole Foods Tap Room,5797f3ba498e25176de9be2b
+1896,Santa Clara,2,Pizza Place,Pizz'a Chicago,4acfa13ef964a5200ed520e3
+1897,Santa Clara,2,American Restaurant,The Cheesecake Factory,4a81c9c1f964a52093f71fe3
+1898,Santa Clara,2,Korean Restaurant,To Bang,4a9b3d51f964a520ce3420e3
+1899,Santa Clara,2,Korean Restaurant,Jang Su Jang,4a03953cf964a520cb711fe3
+1900,Santa Clara,2,BBQ Joint,Armadillo Willy's,4ae7a453f964a520fdac21e3
+1901,Santa Clara,2,Bakery,Paris Baguette,4a62aa1af964a5206fc41fe3
+1902,Santa Clara,2,Seafood Restaurant,The Fish Market Santa Clara,4afe2d94f964a520872e22e3
+1903,Santa Clara,2,Korean Restaurant,SGD Tofu House,4b20778cf964a5207d3224e3
+1904,Santa Clara,2,Thai Restaurant,Must Be Thai,5985343bbd400967fb7d2db7
+1905,Santa Clara,2,American Restaurant,Mission City Grill,54df8b94498e4e594c858943
+1906,Santa Clara,2,Restaurant,Prime Restaurant,553a8e22498e5acdfab68da8
+1907,Santa Clara,2,Diner,Sara's Kitchen,49eb4cfcf964a520b8661fe3
+1908,Santa Clara,2,Ramen Restaurant,Orenchi Ramen,4b5bd185f964a520f51729e3
+1909,Santa Clara,2,Middle Eastern Restaurant,Achilles,5b1de14c4c9be6002cb0e347
+1910,Santa Clara,2,Breakfast Spot,Mikayla's Cafe,5260324a11d25306695a7885
+1911,Santa Clara,2,Vietnamese Restaurant,Phở Khang,4bbf97a4b492d13a45eca260
+1912,Santa Clara,2,Indian Restaurant,Paradise Biryani Pointe,50253d33164885947ba56ae5
+1913,Santa Clara,3,Korean Restaurant,Chungdam,544c5ed0498e300a7375cfdb
+1914,Santa Clara,3,Seafood Restaurant,Poke Poke Fish Bar,57a5713c498e69a1d97d02c7
+1915,Santa Clara,3,Korean Restaurant,Gooyi Gooyi,4b567f20f964a520f11228e3
+1916,Santa Clara,3,Sushi Restaurant,OMEE.J Fusion Sushi Grill & Bar,4eea782df9ab8fc95f2bbda4
+1917,Santa Clara,3,Lounge,501 Club,54161ebd498eec6ac4a8963d
+1918,Santa Clara,3,Steakhouse,Birk's Restaurant,4a285f62f964a5201a951fe3
+1919,Santa Clara,4,Korean Restaurant,Han Sung Korean BBQ,4b63a3a8f964a5200c892ae3
+1920,Santa Clara,4,Steakhouse,Bourbon Steak & Pub,53e1a180498e17de4b64a70f
+1921,Santa Cruz,1,Coffee Shop,Verve Coffee Roasters,4e78d496183849d5f9c6273f
+1922,Santa Cruz,1,Coffee Shop,Verve Coffee Roasters,4ec843ce9a52756c56ac60f1
+1923,Santa Cruz,1,Ice Cream Shop,Marianne's Ice Cream,49e918a7f964a520c9651fe3
+1924,Santa Cruz,1,Coffee Shop,Cat & Cloud Coffee,57ef075b498eeb97eca8abd0
+1925,Santa Cruz,1,Coffee Shop,"The Abbey Coffee, Art & Music Lounge",4b438497f964a5203be225e3
+1926,Santa Cruz,1,Ice Cream Shop,The Penny Ice Creamery,4c75f052ff1fb60cded0f7a7
+1927,Santa Cruz,1,Bakery,Companion Bakeshop,4e0c994f8877c535e46f5a93
+1928,Santa Cruz,1,Deli / Bodega,Garden Liquor & Deli,4ae5f61df964a5208ca321e3
+1929,Santa Cruz,1,Dive Bar,Brady's Yacht Club,4ab72804f964a520c97920e3
+1930,Santa Cruz,1,Burrito Place,Taqueria Los Pericos,4ab1eae9f964a520a66a20e3
+1931,Santa Cruz,1,Burger Joint,Betty Burgers,4c0475a6310fc9b60263c761
+1932,Santa Cruz,1,Dessert Shop,Pacific Cookie Company,4a4fac06f964a52093af1fe3
+1933,Santa Cruz,1,Pizza Place,Pizza My Heart,4a774ea0f964a5201ce41fe3
+1934,Santa Cruz,1,Coffee Shop,Cat Cloud Companion,595e60cee57ca66538537c18
+1935,Santa Cruz,1,Food,The Picnic Basket,4e0e2a2f8877936cb402e1bb
+1936,Santa Cruz,1,Burrito Place,Chill Out Cafe,4c27b234c11dc9b63e0d2b24
+1937,Santa Cruz,1,Café,Coffeetopia,47dbc236f964a520384e1fe3
+1938,Santa Cruz,1,Burrito Place,Jalapeños,4b469c7df964a5207a2526e3
+1939,Santa Cruz,1,Breakfast Spot,Linda's Seabreeze Cafe,4af30c81f964a5201cea21e3
+1940,Santa Cruz,1,Taco Place,El Palomar Taco Bar,52d49c19498eb312af14a858
+1941,Santa Cruz,1,Dive Bar,Moe's Alley,4afa8024f964a520ff1722e3
+1942,Santa Cruz,1,Pizza Place,Bantam,50a59ef3e4b07223cec8b49a
+1943,Santa Cruz,1,Ice Cream Shop,Mission Hill Creamery,5055347ce4b04ed4f1086f6f
+1944,Santa Cruz,1,Brewery,Santa Cruz Mountain Brewing,4ac7fbb6f964a5200bbb20e3
+1945,Santa Cruz,1,Bakery,Emily's Bakery,4ab7b267f964a5207d7a20e3
+1946,Santa Cruz,1,Ice Cream Shop,The Penny Ice Creamery,5112e5a6e4b05a0393d83e78
+1947,Santa Cruz,1,Restaurant,Aloha Island Grille,4b64bcf7f964a5204bcc2ae3
+1948,Santa Cruz,1,Restaurant,Pono Hawaiian Grill at The Reef Bar,4dd5eb4ad1647fcf3e26403b
+1949,Santa Cruz,1,Pizza Place,Woodstock's Pizza,4b4e93bef964a520eaf126e3
+1950,Santa Cruz,1,Burger Joint,The Habit Burger Grill,5a0e60d1dd70c52f54580e90
+1951,Santa Cruz,2,Bookstore,Bookshop Santa Cruz,4a3ea4aaf964a52032a31fe3
+1952,Santa Cruz,2,Café,Harbor Cafe,4b5b5d03f964a520edf728e3
+1953,Santa Cruz,2,Coffee Shop,Verve Coffee Roasters,4b75ea08f964a520692e2ee3
+1954,Santa Cruz,2,Brazilian Restaurant,Cafe Brasil,4a901bc8f964a520081620e3
+1955,Santa Cruz,2,Bakery,The Buttery,4ae5dd61f964a520aaa221e3
+1956,Santa Cruz,2,Mediterranean Restaurant,Laili Restaurant,4ca68875f47ea143f4c76121
+1957,Santa Cruz,2,Brewery,Humble Sea Brewing Co.,58cb4856f229951fb76d2915
+1958,Santa Cruz,2,Coffee Shop,Verve Coffee Roasters,56b8df2c498e79d3279290f6
+1959,Santa Cruz,2,Brewery,Sante Adairius Santa Cruz Portal,59d33fec8fb09e2c14a07484
+1960,Santa Cruz,2,Bar,Lúpulo Craft Beer House,52426c09498e7bd18df4d675
+1961,Santa Cruz,2,BBQ Joint,Mission Street Barbecue,526c7fb1498e60aac6809744
+1962,Santa Cruz,2,Sushi Restaurant,Akira,4f4ef1aae4b0f022a00411d7
+1963,Santa Cruz,2,Noodle House,Charlie Hong Kong,47dbc1eaf964a520374e1fe3
+1964,Santa Cruz,2,Café,The Walnut Avenue Cafe,4a7ef4edf964a5205df21fe3
+1965,Santa Cruz,2,Brewery,Shanty Shack Brewing,58570191e309e14af1b988cf
+1966,Santa Cruz,2,Pizza Place,Pleasure Pizza - East Side Eatery,4d6d8ab6183a236a572d623a
+1967,Santa Cruz,2,Mediterranean Restaurant,Zameen,58aa63f7e9efba5560bfea7d
+1968,Santa Cruz,2,Breakfast Spot,Silver Spur Restaurant,437fbc80f964a520da2a1fe3
+1969,Santa Cruz,2,Gastropub,West End Tap & Kitchen,51fb04a3498ec9432def35ed
+1970,Santa Cruz,2,Vegetarian / Vegan Restaurant,Cafe Gratitude,4e50424aaeb70f1284ad327d
+1971,Santa Cruz,2,Breakfast Spot,Zachary's Restaurant,4aeca5bcf964a520e1c921e3
+1972,Santa Cruz,2,Mexican Restaurant,Los Pinos,4aab0d49f964a520b85820e3
+1973,Santa Cruz,2,American Restaurant,Crow's Nest Restaurant,464f9e51f964a520ca461fe3
+1974,Santa Cruz,2,Deli / Bodega,Zoccoli's Deli,4aac327af964a520ce5c20e3
+1975,Santa Cruz,2,Wine Bar,Soif,4a344436f964a520ff9b1fe3
+1976,Santa Cruz,2,Lounge,515 Kitchen & Cocktails,4afe5f4af964a520452f22e3
+1977,Santa Cruz,2,Pub,Rosie McCann's Irish Pub & Restaurant,4b4808fcf964a520b94626e3
+1978,Santa Cruz,2,Wine Bar,Vino Locale,4ba52ee5f964a520d5e838e3
+1979,Santa Cruz,2,Bar,Red Restaurant and Bar,4ad55cd8f964a520e70221e3
+1980,Santa Cruz,2,Thai Restaurant,@Thai Recipe,56807c23498ef6bfc7791ffd
+1981,Santa Cruz,3,American Restaurant,Oswald,4aebc361f964a520b8c421e3
+1982,Santa Cruz,3,Restaurant,Hula's Island Grill & Tiki Room,4a4fb059f964a52095af1fe3
+1983,Santa Cruz,3,Lounge,Jack O'Neill Lounge,52df337a498e8f50b076f933
+1984,Santa Cruz,3,New American Restaurant,Suda Restaurant,4fcfaadce4b0fea364e9213f
+1985,Santa Cruz,4,Italian Restaurant,Lillian's Italian Kitchen,4b08a52ff964a5202a1023e3
+1986,Santa Cruz,4,American Restaurant,Hollins House,4b9bee95f964a520573736e3
+1987,Shasta,1,Bakery,Blumb Bakery,50083499e4b0aa8588c871b0
+1988,Siskiyou,1,Pizza Place,Say Cheese Pizza,4b786be1f964a520fdcc2ee3
+1989,Siskiyou,1,Burrito Place,Dos Geckos,4c9a4fc5b8e9224b9dc94c3d
+1990,Siskiyou,1,Diner,Hi-Lo Cafe,4b47bab2f964a520363c26e3
+1991,Siskiyou,1,Coffee Shop,Seven Suns Coffee & Cafe,4b79872df964a52010ff2ee3
+1992,Siskiyou,1,Burger Joint,Floyd's Frosty,4c706bbbdf6b8cfa465eb84d
+1993,Siskiyou,1,Mexican Restaurant,Puerta Vallarta,4e516444d22daf51d2914fb5
+1994,Siskiyou,1,Mexican Restaurant,Lalo's Restaurant & Lounge,4b786557f964a52019cb2ee3
+1995,Siskiyou,1,Diner,Penny's Diner,4c2f8f21452620a1a8c01d0f
+1996,Siskiyou,1,Bakery,lilys,4b834f59f964a520cc0131e3
+1997,Siskiyou,1,Coffee Shop,Starbucks,59d94df0029a552c5f62bf47
+1998,Siskiyou,1,Pizza Place,Papa Murphy's,4d19495325cda14317f685d6
+1999,Siskiyou,1,Sandwich Place,Subway,4bf05cc78bf5c9284b0e97fe
+2000,Siskiyou,1,Pizza Place,Round Table Pizza,4c98faff7b9d3704c0dfe285
+2001,Siskiyou,1,Sandwich Place,subway,56e7076d498e166a7da01fbe
+2002,Siskiyou,1,Mexican Restaurant,Dos Amigos Mexican Restaurant,4c22ba8e9085d13ad2e386cc
+2003,Siskiyou,1,Mexican Restaurant,Casa Ramos,4baec7f0f964a5207ed73be3
+2004,Siskiyou,1,Pizza Place,Round Table Pizza,4b786c2bf964a52016cd2ee3
+2005,Siskiyou,1,Sandwich Place,Subway,4c5611da19160f47ff9437b4
+2006,Siskiyou,2,American Restaurant,Bistro No. 107,56b6619f498e4ff51ecbaaf4
+2007,Siskiyou,2,Diner,Black Bear Diner,5490bb77498e275135dbf4e8
+2008,Siskiyou,2,Brewery,Dunsmuir Brewery Works,4c424264e26920a1d3d25fe7
+2009,Siskiyou,2,American Restaurant,Yaks at Dunsmuir,51f577a3498eb8f411c1bd62
+2010,Siskiyou,2,BBQ Joint,Montgomery Meats,4cead05ff3bda143ab1ac8e4
+2011,Siskiyou,2,Italian Restaurant,Mike and Tony's,4c83fdc347cc224b9f62949f
+2012,Siskiyou,2,Italian Restaurant,Strings Pasta Cafe,4e3d98ee1495bf24a5dd20fb
+2013,Siskiyou,2,American Restaurant,The Wheelhouse,5713e442498ec1010af8dbef
+2014,Siskiyou,2,Brewery,Mt. Shasta Brewing Co.,4aba7d61f964a520918120e3
+2015,Siskiyou,2,Diner,Black Bear Diner,5490bb77498e02de73a62af5
+2016,Siskiyou,2,Bar,Coopers Bar & Grill,55076e2f498e67b7910c8bb0
+2017,Siskiyou,2,Restaurant,Maruti Indian Restaurant,54dc2041498e372eef253880
+2018,Siskiyou,2,Thai Restaurant,Phuket Thai Cafe,5047ed25e4b076625bec0518
+2019,Solano,1,Fast Food Restaurant,In-N-Out Burger,4aa31f54f964a520694320e3
+2020,Solano,1,Coffee Shop,Starbucks,560da15c498e97d1c6f06fab
+2021,Solano,1,Breakfast Spot,Huckleberry's,527e827811d2141e11829f7f
+2022,Solano,1,Coffee Shop,Journey Coffee Co,542dc922498e1eab1ca621f8
+2023,Solano,1,Fast Food Restaurant,Chick-fil-A,4fa59768e4b0bbcd4a152820
+2024,Solano,1,Fast Food Restaurant,Chick-fil-A,55faea47498e1ec0d1ec2619
+2025,Solano,1,Fast Food Restaurant,Chick-fil-A,545d3abd498e65bd9416d426
+2026,Solano,1,Donut Shop,Krispy Kreme Doughnuts,534d48eb498e85bb6bed6156
+2027,Solano,1,Mexican Restaurant,El Tesoro Mazatlan,58f69c7d6f706a42fb90500e
+2028,Solano,1,Sandwich Place,Joe's Buffet,4b9aa700f964a520ebc935e3
+2029,Solano,1,Hot Dog Joint,Sac's Tasty Hot Dogs,4a9c3d81f964a5208b3620e3
+2030,Solano,1,Diner,Bab's Delta Diner,4b081f32f964a520420423e3
+2031,Solano,1,Brewery,Anheuser-Busch Brewery,4ba663aef964a5202d4d39e3
+2032,Solano,1,Dessert Shop,Okashi Fusion,579d7007498ef4fbf00218f9
+2033,Solano,1,Coffee Shop,Dutch Bros. Coffee,535a860d498e90746721fdf8
+2034,Solano,1,Burger Joint,In-N-Out Burger,4b0cb405f964a520254123e3
+2035,Solano,1,Breakfast Spot,Joy of Eating Cafe,4ae8a60df964a52031b121e3
+2036,Solano,1,Coffee Shop,Dutch Bros. Coffee,5a609f8d92e7a92bb610592a
+2037,Solano,1,Burger Joint,The Habit Burger Grill,548c9fd4498e99006ba6e7b8
+2038,Solano,1,Dessert Shop,Yogurt Beach Shack,4e06a7dcaeb74c39910bda38
+2039,Solano,1,Mexican Restaurant,Hecho En Mexico Taqueria,4c0ab0a3ffb8c9b697096c61
+2040,Solano,1,Bakery,Starbread Bakery,4a44366df964a52055a71fe3
+2041,Solano,1,Mexican Restaurant,Favela's Fusion,4b3a6202f964a520096625e3
+2042,Solano,1,Coffee Shop,Dutch Bros. Coffee,56617d9c498eec324b9b5bc3
+2043,Solano,1,Pizza Place,Napoli Pizzeria & Italian Food,4a5927b9f964a520d5b81fe3
+2044,Solano,1,Bakery,Pure Grain Bakery,4bd5abfd7b1876b051198b86
+2045,Solano,1,Bakery,Solano Baking Co,4b9bbae4f964a520be1e36e3
+2046,Solano,1,Mexican Restaurant,La Tapatia Market,4bf6fe55b182c9b6e1e7745a
+2047,Solano,1,Fried Chicken Joint,Popeyes Louisiana Kitchen,4ba9265bf964a5206b0f3ae3
+2048,Solano,1,Coffee Shop,Java Point Cafe,4ba9095ff964a520a6053ae3
+2049,Solano,2,Brewery,Heretic Brewing Company,521e737511d26870e6f70833
+2050,Solano,2,Vietnamese Restaurant,Pho Noodle House #1,55cea5b4498ebfb0cefbf46d
+2051,Solano,2,Diner,Black Bear Diner,5490b6ed498ec0f430c78cbe
+2052,Solano,2,Chinese Restaurant,China Wok,4bd4f4ba4e32d13a2b43c080
+2053,Solano,2,Thai Restaurant,Buddha Thai Bistro,5406221c498e17376905cef6
+2054,Solano,2,Ice Cream Shop,Fentons Creamery & Restaurant,4bef27da2ff520a1c334e8a2
+2055,Solano,2,Steakhouse,Texas Roadhouse,4af76bd6f964a520340922e3
+2056,Solano,2,Mediterranean Restaurant,Gourmet Exprezz,4bfad45f65fbc9b63a96906c
+2057,Solano,2,Creperie,Crepes & More,4b4e35e4f964a5206ae526e3
+2058,Solano,2,Café,First Street Cafe,4b770891f964a5207c762ee3
+2059,Solano,2,Southern / Soul Food Restaurant,Chez Soul,4b68b05df964a5203f872be3
+2060,Solano,2,Italian Restaurant,Napoli Pizza,4bb6b94a1344b71306039e04
+2061,Solano,2,Cajun / Creole Restaurant,Huckleberry's,4b392b12f964a520775725e3
+2062,Solano,2,Asian Restaurant,Chin Hua Mongolian BBQ,4cbb7baa4352a1cdf11b99f5
+2063,Solano,2,Chinese Restaurant,China Palace,4b843c19f964a5206c2931e3
+2064,Solano,2,Japanese Restaurant,Hinata Japanese Steakhouse & Sushi,561c53a1498e7087a6196b3b
+2065,Solano,2,Mexican Restaurant,Los Reyes Restaurante,4a909e17f964a520ca1820e3
+2066,Solano,2,Pizza Place,Pizza Pirate,4b72302af964a5202a732de3
+2067,Solano,2,Asian Restaurant,Rolines Oriental Market,4bd488324e32d13a524ebf80
+2068,Solano,2,Sushi Restaurant,Matsuri,4b4659aff964a5205f1e26e3
+2069,Solano,2,Pizza Place,Mary's Pizza Shack,4b7614f4f964a5206f3b2ee3
+2070,Solano,2,Sushi Restaurant,Hana Japanese Restaurant,55cc077f498eac50b6b84105
+2071,Solano,2,Filipino Restaurant,Bai Cebu Lechon,4e7fac05e5fa3f828c5b2f23
+2072,Solano,2,Diner,Black Bear Diner,5490b0cb498ef1f5d1fd9dd4
+2073,Solano,2,Steakhouse,Outback Steakhouse,4b0586b9f964a5206b6b22e3
+2074,Solano,2,Sports Bar,Rookies Sports Bar and Grill,4d957236e07ea35d8dbba702
+2075,Solano,2,Sushi Restaurant,Yo Sushi,4a370d86f964a5202a9e1fe3
+2076,Solano,2,Lounge,The Rellik Tavern,4a84c0e3f964a5208bfd1fe3
+2077,Solano,2,Indian Restaurant,Vaishnu Express Cafe,4ed992e97ee56e58e65e6af9
+2078,Solano,2,Juice Bar,Jamba Juice,4b63707ff964a520f3792ae3
+2079,Solano,4,Seafood Restaurant,Red Lobster,4b0586b5f964a520b06a22e3
+2080,Sonoma,1,Winery,Cline Cellars,4a88a96df964a5204f0720e3
+2081,Sonoma,1,Ice Cream Shop,Sweet Scoops,55a7235b498e2e0955d430d4
+2082,Sonoma,1,Sandwich Place,Angelo's Wine Country Meat & Deli,4abea4e0f964a5200a8f20e3
+2083,Sonoma,1,Ice Cream Shop,La Michoacana,4bcfbe3241b9ef3b141ef9e5
+2084,Sonoma,1,Winery,Viansa Winery,4a7ca2d6f964a52003ed1fe3
+2085,Sonoma,1,Vineyard,Gloria Ferrer Caves & Vineyards,4b5369d1f964a520a89b27e3
+2086,Sonoma,1,Mexican Restaurant,Juanita Juanita,49ca9a44f964a520c5581fe3
+2087,Sonoma,1,Deli / Bodega,Sonoma's Best,4c0ea24498102d7f8bfae306
+2088,Sonoma,1,Food Truck,El Coyote,50fdb491e4b0b3dbafc55c15
+2089,Sonoma,1,Mexican Restaurant,Tortilleria Jalisco,4b71fd62f964a520b1682de3
+2090,Sonoma,1,Coffee Shop,Dutch Bros. Coffee,53822644498eaf0c79087dcb
+2091,Sonoma,1,Mexican Restaurant,Taqueria La Hacienda,4b37d963f964a520684725e3
+2092,Sonoma,1,Food Truck,Cochon Volant BBQ,50188c99e4b0baa6b6560a54
+2093,Sonoma,1,Winery,Robledo Family Winery,4b086a21f964a5205e0b23e3
+2094,Sonoma,1,Pizza Place,Mary's Pizza Shack,4a636eacf964a52002c51fe3
+2095,Sonoma,1,Coffee Shop,Cafe Scooteria,4ece9049722e01c58039ad58
+2096,Sonoma,1,Deli / Bodega,Vineburg Deli & Grocery,4bdcada8ccf52d7f69da786d
+2097,Sonoma,1,Frozen Yogurt Shop,Top That Frozen Yogurt,4bf9e0e15efe2d7ffdfb6c34
+2098,Sonoma,1,Bakery,Scandia Bakery,4cab71d9a6e08cfa18c5a594
+2099,Sonoma,1,Café,Picazo Kitchen + Bar,4a2315bbf964a520b57d1fe3
+2100,Sonoma,2,Mexican Restaurant,El Molino Central,4c015f8f4f1ea593e9676b7d
+2101,Sonoma,2,Breakfast Spot,Sunflower Caffé,55638add498ef94cabb71510
+2102,Sonoma,2,Winery,Jacuzzi Family Vineyards,49f55959f964a520ac6b1fe3
+2103,Sonoma,2,Wine Bar,Enoteca Della Santina,4b6cbfb0f964a52064512ce3
+2104,Sonoma,2,Winery,Anaba Wines,4ab00973f964a5209d6520e3
+2105,Sonoma,2,Restaurant,Ramekins Culinary School,4afc76f2f964a520fd2222e3
+2106,Sonoma,2,Wine Bar,Poseidon Vineyard & Obsidian Ridge Tasting Room,520eab2e11d2b12d92a88f82
+2107,Sonoma,2,Winery,Sebastiani Vineyards & Winery,4a511787f964a52097b01fe3
+2108,Sonoma,2,Wine Bar,Rancho Maria,587c2ae0e786b26b0de88626
+2109,Sonoma,2,Winery,Larson Family Winery,4b3fb31cf964a52092ac25e3
+2110,Sonoma,2,Mexican Restaurant,Rancho Viejo,4be3973ed27a20a16bc0925b
+2111,Sonoma,2,Wine Bar,Carneros Bistro & Wine Bar,4b650d22f964a52083e12ae3
+2112,Sonoma,2,Wine Bar,Schug Winery,4b085ebdf964a5204a0a23e3
+2113,Sonoma,2,Italian Restaurant,Mamma Tanino's,4ba57e83f964a520990c39e3
+2114,Sonoma,2,Winery,Ravenswood Winery,4aa56d19f964a520564820e3
+2115,Sonoma,2,Wine Bar,Highway 12 Winery - The Corner Store,4aaeac99f964a520e56220e3
+2116,Sonoma,2,Pizza Place,The Red Grape,4b1061d7f964a520316f23e3
+2117,Sonoma,2,Portuguese Restaurant,Tasca Tasca,57201e9acd10e6f14dbbe559
+2118,Sonoma,2,Indian Restaurant,Taste of the Himalayas,4b6a3080f964a5204bcc2be3
+2119,Sonoma,2,Brewery,HopMonk Tavern,4ced8d185de16ea8c9cab696
+2120,Sonoma,2,Wine Bar,Sigh Champagne & Sparkling,5044088ae4b003e2b44f704f
+2121,Sonoma,2,Café,Basque Boulangerie Café,4a58f413f964a52047b81fe3
+2122,Sonoma,2,Wine Bar,Passaggio Wines,53e677b3498e4008b028d069
+2123,Sonoma,2,Wine Bar,Sonoma Wine Shop,4a9b0213f964a520f83320e3
+2124,Sonoma,2,Mexican Restaurant,La Casa Restaurant,4a5959e7f964a52048b91fe3
+2125,Sonoma,2,Mexican Restaurant,Maya Restaurant,4af4a298f964a5208bf421e3
+2126,Sonoma,2,Diner,Black Bear Diner,5490b1fd498ec1eb54e0953d
+2127,Sonoma,2,American Restaurant,Oso sonoma,545eca6c498e5d8de45759e7
+2128,Sonoma,3,French Restaurant,The Girl & The Fig,49eac3eff964a52095661fe3
+2129,Sonoma,3,Winery,Ram's Gate Winery,4e70e387fa76e1a41fb2d926
+2130,Sonoma,3,American Restaurant,El Dorado Kitchen,4c2d08c77d85a593eae951f3
+2131,Sonoma,3,American Restaurant,Cafe La Haye,4aab2cf9f964a520305920e3
+2132,Sonoma,3,Mexican Restaurant,Taqueria Sonoma,4ca7d01044a8224b5b491140
+2133,Sonoma,3,Hotel Bar,38º North Lounge,4cded84fdb125481a04d33ce
+2134,Sonoma,3,Italian Restaurant,Della Santina's,4ba5aabbf964a520a01a39e3
+2135,Sonoma,3,American Restaurant,Harvest Moon Cafe,4af7203ff964a5202c0622e3
+2136,Sonoma,3,Portuguese Restaurant,LaSalette Restaurant,4b8044bcf964a520a96230e3
+2137,Sonoma,4,French Restaurant,Santé,4b762cd7f964a520aa412ee3
+2138,Stanislaus,1,Burger Joint,In-N-Out Burger,519e9291454ad4b0434d9842
+2139,Stanislaus,1,Donut Shop,Mr. T's Delicate Donut Shop,4b2da906f964a5201eda24e3
+2140,Stanislaus,1,Burger Joint,In-N-Out Burger,4b0b4b4cf964a520073023e3
+2141,Stanislaus,1,Coffee Shop,Old Tyme Pastries,4b8a98b1f964a5203a7432e3
+2142,Stanislaus,1,Café,La Mo Café & Restaurant,4f76124fe4b0f52db7cd237b
+2143,Stanislaus,1,Sandwich Place,The Sandwich Shop,4bf2f3c3e5eba593a8ff1d90
+2144,Stanislaus,1,Deli / Bodega,Picasso's Gourmet Deli,4b899599f964a520e24332e3
+2145,Stanislaus,1,Pizza Place,Michael's Pizza,5015d6d2e4b07c3cf396ff09
+2146,Stanislaus,1,Coffee Shop,Starbucks,4b8a94fbf964a520757332e3
+2147,Stanislaus,1,Burger Joint,In-N-Out Burger,4b8aa53ef964a520457732e3
+2148,Stanislaus,1,Breakfast Spot,Cathy's Coffee Shop,4bdc59d12a3a0f47606db2b6
+2149,Stanislaus,1,Fast Food Restaurant,Baja Fresh,4b9956d1f964a5203f7435e3
+2150,Stanislaus,1,Hot Dog Joint,Hot Dog on a Stick,4bafb370f964a5208d193ce3
+2151,Stanislaus,1,Dessert Shop,Yogurt Mill,4b89de75f964a520ac5232e3
+2152,Stanislaus,1,Coffee Shop,Starbucks,4beae324415e20a12d96e5bb
+2153,Stanislaus,1,Ice Cream Shop,Knights Ferry Creamery & Sweets,4df52d90c65bf55ee531ae5b
+2154,Stanislaus,1,Mexican Restaurant,Garcia JoJo’s,4b76f60af964a520da6e2ee3
+2155,Stanislaus,1,Diner,Bauer's 66 1/2 Grill & Skillet,4c776d9a947ca1cdc5754737
+2156,Stanislaus,1,Steakhouse,Sizzler,4b9af7d3f964a520c9e735e3
+2157,Stanislaus,1,Breakfast Spot,Huckleberry's,4b784fb3f964a52057c42ee3
+2158,Stanislaus,1,Dessert Shop,Yogolicious,4b81a2bdf964a52059b430e3
+2159,Stanislaus,1,Frozen Yogurt Shop,Yogurt Mill,4b709dbaf964a52073252de3
+2160,Stanislaus,1,Coffee Shop,Starbucks,4b05eb1df964a520cae522e3
+2161,Stanislaus,1,Coffee Shop,Starbucks,4b27f28ef964a520bf8c24e3
+2162,Stanislaus,1,Sandwich Place,TOGO'S Sandwiches,4c3fb574e26920a138ea5be7
+2163,Stanislaus,1,Burger Joint,Fuddruckers,4b6dc28bf964a520368d2ce3
+2164,Stanislaus,1,Fried Chicken Joint,Chicken Barn,4b70cd2af964a520352f2de3
+2165,Stanislaus,1,Coffee Shop,Starbucks,4b8c6253f964a5200fce32e3
+2166,Stanislaus,1,Coffee Shop,Starbucks,4b9d33ccf964a520089936e3
+2167,Stanislaus,1,Sandwich Place,Scott's Subs,4b82c7c8f964a52079e430e3
+2168,Stanislaus,2,Brewery,Dust Bowl Brewing Co. Brewery Taproom,5771be1b498e878ba8c867d9
+2169,Stanislaus,2,Mexican Restaurant,Damian's Authentic Mexican Food & Bar,4becc0168bbcc92860c98cb1
+2170,Stanislaus,2,Bar,Speakeasy,4b4ff2e9f964a520201a27e3
+2171,Stanislaus,2,Sushi Restaurant,Raw,51bbd4b6498e71fc0eb84068
+2172,Stanislaus,2,American Restaurant,BJ's Restaurant & Brewhouse,4bd37c0c462cb7139f99de07
+2173,Stanislaus,2,American Restaurant,Velvet Grill & Creamery,4ba0e7b0f964a520078637e3
+2174,Stanislaus,2,Steakhouse,Outback Steakhouse,4b0586b9f964a520696b22e3
+2175,Stanislaus,2,Wine Bar,Camp 4 Wine Café,4b36730af964a520b43525e3
+2176,Stanislaus,2,American Restaurant,Harvest Moon,4b64b35ff964a52079c92ae3
+2177,Stanislaus,2,BBQ Joint,Divine Swine,572eb430498ebcd9efb97728
+2178,Stanislaus,2,Mexican Restaurant,Las Casuelas,4b5d1483f964a520a75129e3
+2179,Stanislaus,2,Middle Eastern Restaurant,Gyros & More,4be327b71dd22d7f69dd95bd
+2180,Stanislaus,2,Thai Restaurant,Sabaidee Thai - Lao Restaurant,4d4cdfbf4aa3a093a7df3cae
+2181,Stanislaus,2,Sushi Restaurant,Osaka Sushi,4b7487ccf964a5202de22de3
+2182,Stanislaus,2,Mexican Restaurant,La Parilla,4b6e47aaf964a520f3b52ce3
+2183,Stanislaus,2,Sushi Restaurant,Sushi Cuisine,4b7f4269f964a520152330e3
+2184,Stanislaus,2,Vietnamese Restaurant,Phoenix Noodle House,4b64bd7af964a52072cc2ae3
+2185,Stanislaus,2,Mexican Restaurant,El Rosal,4b79c013f964a520950f2fe3
+2186,Stanislaus,2,Thai Restaurant,Thai House,4b8aed5df964a5209c8932e3
+2187,Stanislaus,2,Italian Restaurant,Bella Italia,4b7da46bf964a520bccb2fe3
+2188,Stanislaus,2,Steakhouse,Texas Roadhouse,50fdd354e4b0fb41b3d5fe88
+2189,Stanislaus,2,Mexican Restaurant,Las Casuelas,4b74a1fef964a52015e92de3
+2190,Stanislaus,2,Diner,Black Bear Diner,5490b1fc498e64f0b885cbf2
+2191,Stanislaus,2,Italian Restaurant,Ferrareses Deli,4c5397441b46c9b6f60e30cd
+2192,Stanislaus,2,Brewery,Dust Bowl Brewing Co. Downtown Taproom,4e374483483bda3eb10fcf2e
+2193,Stanislaus,2,American Restaurant,Mike's Grill House,522bde2211d2a6413539c199
+2194,Stanislaus,2,Bar,Twin River,4c1405797f7f2d7f6432e068
+2195,Stanislaus,2,Italian Restaurant,Fuzio Universal Bistro,4af6f4d6f964a520580422e3
+2196,Stanislaus,2,Coffee Shop,Preservation Coffee & Tea,4bbd5af3a0a0c9b64a9d1b0f
+2197,Stanislaus,2,American Restaurant,Firkin & Fox,4b762d23f964a520b9412ee3
+2198,Stanislaus,3,Gastropub,Commonwealth,53dc69f9498ef61c07273209
+2199,Stanislaus,3,Gastropub,10 East Kitchen & Taphouse,51462644e4b068969040b167
+2200,Stanislaus,3,Nightclub,Crocodiles Night Club,4c8c6badf87e224b47243505
+2201,Stanislaus,3,Mediterranean Restaurant,Skewers Kabob House,4a8c85ebf964a520570e20e3
+2202,Stanislaus,3,New American Restaurant,Tresetti's World Caffé,4a53a803f964a52090b21fe3
+2203,Stanislaus,4,Italian Restaurant,Galletto Ristorante,4b96fc60f964a520f6f134e3
+2204,Stanislaus,4,Seafood Restaurant,Red Lobster,4b0586b5f964a520b16a22e3
+2205,Sutter,1,Mexican Restaurant,JOE'S MEXICAN GRILL,4e9f9eb977c8b089839bd483
+2206,Tehama,1,Bakery,Coffee Cafe,580e4ca838fa27d5ba6347a4
+2207,Tehama,1,Burger Joint,Burger shack,4d2cb931467d6ea8c9f6ea95
+2208,Tehama,1,Dive Bar,BAR 99,4de1d6537d8b2547eaf6a57f
+2209,Tehama,2,American Restaurant,Jacks Restaurant,4f1c72e0e4b064e65d0cd2c4
+2210,Tehama,2,American Restaurant,Mill Creek Cafe,4e3336a4ae60795fcfd3afaf
+2211,Tehama,2,BBQ Joint,Roxie's Deli & BBQ,4ce44b12c850721e7162c28a
+2212,Tulare,1,Café,Salles Cafe,4c8bea97ed3ab60c48d96221
+2213,Tulare,1,Breakfast Spot,IHOP,4b5c9ea1f964a520533a29e3
+2214,Tulare,1,Burger Joint,Wimpys,4c26a444136d20a168c6e561
+2215,Tulare,1,Pizza Place,V.I.P. Pizza,4b5a4476f964a520c6b828e3
+2216,Tulare,1,Fast Food Restaurant,Del Taco,4c35484b213c2d7f68003a5d
+2217,Tulare,1,Burger Joint,The Habit Burger Grill,5bfe14f707190200258382bc
+2218,Tulare,1,Juice Bar,Jamba Juice,4bfd7372e529c928fbf2ba8c
+2219,Tulare,1,Mexican Restaurant,Que Pasa,4ce9827ebaa6a1cdab2c346c
+2220,Tulare,1,Mexican Restaurant,Figaro's Mexican Southwestern Grill,5476c226498e2e7d124ee574
+2221,Tulare,1,Chinese Restaurant,Panda Express,4ca7b7a597c8a1cd1d6b7da5
+2222,Tulare,1,Mexican Restaurant,Chipotle Mexican Grill,54023fbd498ede8bd35a92af
+2223,Tulare,1,Pizza Place,Blaze Pizza,55a6fb97498ecd02e7600370
+2224,Tulare,1,Frozen Yogurt Shop,Big Kahuna Frozen Yogurt,4e37433118a8470916c95928
+2225,Tulare,1,Fast Food Restaurant,Farmer Boys,4be372391dd22d7fd6d096bd
+2226,Tulare,1,Diner,Denny's,4c7421813adda14332c403af
+2227,Tulare,1,Ice Cream Shop,Baskin-Robbins,4cddd609aba88cfa84683dd7
+2228,Tulare,1,Coffee Shop,Starbucks,4b6f433cf964a520cee72ce3
+2229,Tulare,1,Snack Place,Auntie Anne's,4e4e2e25bd4101d0d7a417f2
+2230,Tulare,1,Sandwich Place,SUBWAY,4c0078a99cf52d7f9ee213e7
+2231,Tulare,1,Pizza Place,Papa Murphy's,4d8d5c695091a1cd8b237701
+2232,Tulare,1,Sandwich Place,SUBWAY,4c71edfcad69b60cb76d82b9
+2233,Tulare,1,Sandwich Place,Subway,4e0d224962843e04af9f0a64
+2234,Tulare,1,Japanese Restaurant,Healthy Japan,4c3e1aef51dee21e4f27ea6e
+2235,Tulare,1,Fast Food Restaurant,Carl's Jr. / Green Burrito,4cd4616289eb6dcb8bb6211e
+2236,Tulare,1,Sandwich Place,SUBWAY,4c5490ccf5f3d13a292459fa
+2237,Tulare,1,Sandwich Place,SUBWAY,4c587f787329c928b94d9180
+2238,Tulare,1,Coffee Shop,Starbucks,4cbcdd6badcd548187c130a2
+2239,Tulare,2,Diner,Black Bear Diner,5490ad59498ebedb2c59c2a0
+2240,Tulare,2,American Restaurant,Bravo Farms Resturant and Cheese Shoppe,4bb6af141344b71389f29d04
+2241,Tulare,2,Bar,Chilito's Mexican Restaurant & Cantina,4c58bc26b05c1b8d1c3dd4b1
+2242,Tulare,2,Italian Restaurant,La Piazza,4c6da241a437224b99a42db1
+2243,Tulare,2,American Restaurant,Apple Annie's,4bb8f3b57421a593864fc240
+2244,Tulare,2,Tex-Mex Restaurant,Chili's Grill & Bar,4bb5163c6edc76b0c73a2f1c
+2245,Tulare,2,Chinese Restaurant,China Inn Chinese Restaurant,4c8d40aa5e048cfa631dd4cd
+2246,Tulare,2,Restaurant,Fugazzis,4bd0f377a8b3a593730b655f
+2247,Tulare,4,Steakhouse,Cool Hand Lukes,4ba6b73af964a520076b39e3
+2248,Tuolumne,1,Café,Black Oak Café,4e389a882271aebfeacd3c64
+2249,Tuolumne,1,Fast Food Restaurant,Kingpins,4f49c20ce4b01739bb33ae89
+2250,Tuolumne,2,Restaurant,The Mill Sports Bar & Grill,4da211db0f578cfa7d1d9b18
+2251,Tuolumne,2,Bar,Mo's Bar,4b9db24df964a520a7ba36e3
+2252,Ventura,1,Breakfast Spot,Allison's Country Cafe,4a7de282f964a5200ef01fe3
+2253,Ventura,1,Café,Cafe Nouveau,4b5c7d7ef964a520753229e3
+2254,Ventura,1,Burger Joint,The Habit Burger Grill,4b4a7194f964a520d28726e3
+2255,Ventura,1,Café,Palermo,4b32ac94f964a520921125e3
+2256,Ventura,1,Beer Garden,Fluid State Beer Garden,591a588b86f4cc0d8e47c67a
+2257,Ventura,1,Coffee Shop,Prospect Coffee Roasters,58f287a1e65d0c4b18100b0f
+2258,Ventura,1,Sandwich Place,Urbane Cafe,4b5f645cf964a520b0b729e3
+2259,Ventura,1,Pizza Place,Tony's Pizzaria,4b4fffbff964a520011b27e3
+2260,Ventura,1,Coffee Shop,The Coffee Bean & Tea Leaf,4b7ebc58f964a520d4fb2fe3
+2261,Ventura,1,Ice Cream Shop,McConnell's Fine Ice Creams,4bc8e592937ca59361b4a492
+2262,Ventura,1,Mexican Restaurant,LaLo's Mexican Fast Food,4c474c110f5aa59390727d76
+2263,Ventura,1,Thai Restaurant,Rice Thai Cuisine,4c003c3392a6c92847e343e2
+2264,Ventura,1,Mexican Restaurant,Corrales Mexican Food #3,4b842e76f964a520002631e3
+2265,Ventura,1,Sandwich Place,Jersey Mike's Subs,4b51402bf964a520b54827e3
+2266,Ventura,1,Café,Django's Coffee House,4c4885bd96abd13ab8a87401
+2267,Ventura,1,Coffee Shop,Beacon Coffee Company,4d8b6ec31508a143ae303b1e
+2268,Ventura,1,Vegetarian / Vegan Restaurant,Nature's Grill & Juice Bar,4b527f7af964a520f17f27e3
+2269,Ventura,1,Mexican Restaurant,Taqueria Cuernavaca,4b57c869f964a520e14028e3
+2270,Ventura,1,Breakfast Spot,IHOP,4ab45f7af964a5200c7120e3
+2271,Ventura,1,Pizza Place,Pizza Man Dan's,4b495150f964a5204b6d26e3
+2272,Ventura,1,Mexican Restaurant,Snapper Jacks,54ff5f7a498ecea830c4b8a5
+2273,Ventura,1,Breakfast Spot,Two Trees Cafe,4c715f093444370433ae265f
+2274,Ventura,1,Taco Place,Beach House Tacos,4c3639253849c9287fa9bbb1
+2275,Ventura,1,Burger Joint,The Habit Burger Grill,4b172aa3f964a5204ac323e3
+2276,Ventura,1,Coffee Shop,The Coffee Bean & Tea Leaf,4b61b85ff964a520b11e2ae3
+2277,Ventura,1,Mexican Restaurant,Taqueria Tepatitlan,4bac2c6cf964a52007e93ae3
+2278,Ventura,1,Restaurant,The Patio Restaurant,501b3c0fe4b0199a5e468186
+2279,Ventura,1,Bakery,Royal Bakery,4bdf3e9d6198c9b65c7716ff
+2280,Ventura,1,Coffee Shop,Starbucks,4b5f1014f964a5204ba429e3
+2281,Ventura,1,Coffee Shop,Starbucks,4bfbbba5565f76b0d7dc05db
+2282,Ventura,2,Pizza Place,Toppers Pizza Place,4b56768ff964a520811128e3
+2283,Ventura,2,Winery,Four Brix Winery and Tasting Room,4e75285e2271ffa4e6d0ecb5
+2284,Ventura,2,Burger Joint,In-N-Out Burger,4b0da287f964a520cb4c23e3
+2285,Ventura,2,Wine Bar,Paradise Pantry,4b805557f964a520f86830e3
+2286,Ventura,2,Thai Restaurant,Rice by Mama,53cf38a7498e1af9ed35d936
+2287,Ventura,2,American Restaurant,Barrelhouse 101,4fac7050e4b027422cb669bb
+2288,Ventura,2,Brewery,Anacapa Brewing Company,4a47e010f964a5203aaa1fe3
+2289,Ventura,2,Brewery,Topa Topa Brewing Company,55766307498e7ea8d7bec7b1
+2290,Ventura,2,Brewery,Poseidon Brewing Co.,53bed137498e37b651b2850a
+2291,Ventura,2,Seafood Restaurant,Lure Fish House,4fdbcdd1e4b029940a5c0239
+2292,Ventura,2,Seafood Restaurant,Spencer Makenzie's Fish Company,4bccde6a511f9521c7cfb3c7
+2293,Ventura,2,Indian Restaurant,Himalaya,4e44874145dd60ca5cf02857
+2294,Ventura,2,Japanese Restaurant,O-Sabi Japanese Restaurant,49e55059f964a520b8631fe3
+2295,Ventura,2,Sushi Restaurant,I Love Sushi,4b5e6367f964a520998c29e3
+2296,Ventura,2,Mexican Restaurant,Snapper Jack's,4b44f973f964a520990026e3
+2297,Ventura,2,Breakfast Spot,Eggs ‘N’ Things,4b4b95c4f964a5200ca126e3
+2298,Ventura,2,BBQ Joint,Marshall's Bodacious BBQ,4bca1993937ca593c91da792
+2299,Ventura,2,Chinese Restaurant,Gourmet Oriental,4bae9335f964a52068c23be3
+2300,Ventura,2,Seafood Restaurant,Brophy Bros. Restauraunt & Clam Bar,50c6bef0e4b0bd43ead4cdd6
+2301,Ventura,2,Breakfast Spot,Pete's Breakfast House,4b48cccdf964a520965726e3
+2302,Ventura,2,Burger Joint,Red Robin Gourmet Burgers and Brews,4b6f4e21f964a52058ea2ce3
+2303,Ventura,2,Sushi Restaurant,Kibo Sushi,52f2f14e498e29ae8d7e0787
+2304,Ventura,2,Indian Restaurant,The Taj Cafe,4b85dbc2f964a520a77631e3
+2305,Ventura,2,BBQ Joint,Wood Ranch BBQ & Grill,4b528fd1f964a520588227e3
+2306,Ventura,2,Brewery,Ventura Coast Brewing Company,5782ba8c498e909260a4668c
+2307,Ventura,2,Thai Restaurant,Jasmine Thai Restaurant,4b63eed1f964a520a5972ae3
+2308,Ventura,2,Mexican Restaurant,Sharky's Woodfired Mexican Grill,4b5fab2ff964a52040c729e3
+2309,Ventura,2,Seafood Restaurant,Andria's Seafood,4aecd1b1f964a52079cb21e3
+2310,Ventura,2,Wine Bar,Grapes & Hops,51d1b454498e55d2c3bb9b9e
+2311,Ventura,2,Italian Restaurant,Presto Pasta,4b6deaf1f964a520b79b2ce3
+2312,Ventura,3,Mexican Restaurant,El Rey Cantina,4b76133df964a520f93a2ee3
+2313,Ventura,3,Seafood Restaurant,The Jolly Oyster,4e6fbe5dd164f60bba68fb7f
+2314,Ventura,3,Gastropub,Rumfish y Vino,5833b4736d632545b126f1a8
+2315,Ventura,3,Italian Restaurant,Spasso Cucina Italiana,4b7f86cbf964a520003330e3
+2316,Ventura,3,Steakhouse,Aloha Steakhouse,4b7a11eef964a520ae212fe3
+2317,Ventura,3,Italian Restaurant,Cafe Fiore,4b63cbe8f964a52003922ae3
+2318,Ventura,4,Steakhouse,Prime Steakhouse,4b6a2c18f964a52081cb2be3
+2319,Yolo,1,Diner,Denny's,4bd4bca9cfa7b713cdc124da
+2320,Yolo,1,Deli / Bodega,Casa Ruiz Deli,4f9577a6e4b0a510a8262565
+2321,Yolo,1,Mexican Restaurant,Los Caminos,4c6de2add5c3a1cd5a02c72b
+2322,Yolo,1,Food Truck,VIP Snacking Area,506e4e6ce4b07fcb1f0955ca
+2323,Yuba,1,Sandwich Place,AJ's Sandwiches,507af75672da35cc8f1180fd
+2324,Yuba,1,Mexican Restaurant,Ciscos,4c21664d11de20a1b75a83ce
+2325,Yuba,1,Mexican Restaurant,Taqueria El Taco Naco,4daa0b587abaf9a10c15082a
+2326,Yuba,1,Asian Restaurant,Asian Cuisine,4ce6dd7ef1c6236a7b0456f0
+2327,Yuba,1,Sports Bar,Coyote Pub & Grill,4c3bc3d04565e21ee63e576a
+2328,Yuba,1,Sandwich Place,Jimmy John's,56aaea07498e0fa653dc5ba4
+2329,Yuba,1,Coffee Shop,The Brick Coffeehouse,4b482053f964a520c24826e3
+2330,Yuba,1,Chinese Restaurant,Dragon Inn,4bdcb6ac2a3a0f472d11b4b6
+2331,Yuba,1,Chinese Restaurant,Panda Express,4cec13069f776ea852587122
+2332,Yuba,1,Sandwich Place,SUBWAY,4d2677d8f7a9224b31b7e29f
+2333,Yuba,1,Sandwich Place,SUBWAY,4c97a23e6b35a143f1c937dc
+2334,Yuba,1,Fast Food Restaurant,Taco Bell,4b9c2e3ff964a5202d5236e3
+2335,Yuba,1,Sandwich Place,SUBWAY,4c254f72b012b713b6aa0893
+2336,Yuba,1,Sandwich Place,SUBWAY,4b8ac601f964a520128032e3
+2337,Yuba,1,Sandwich Place,SUBWAY,4c61ee4aeb82d13a235004d6
+2338,Yuba,1,Sandwich Place,SUBWAY,4e4de5ccbd4101d0d79da618
+2339,Yuba,1,Fried Chicken Joint,Popeyes Louisiana Kitchen,51d4f390498e963956cdd227
+2340,Yuba,1,Pizza Place,Pizza Hut,4b57bcc6f964a520a63e28e3
+2341,Yuba,1,Pizza Place,Domino's Pizza,4d41f03baed776ebd0496997
+2342,Yuba,1,Pizza Place,Round Table Pizza,4b4a8035f964a520688926e3
+2343,Yuba,1,Fast Food Restaurant,Elkins Frosty,4b9c2d0df964a520b95136e3
+2344,Yuba,1,Pizza Place,Little Caesars Pizza,4c71c3b6376da093b2dba4c6
+2345,Yuba,1,Sandwich Place,SUBWAY,4c3b5ea0d94dc9b607b5ffe7
+2346,Yuba,1,Diner,Denny's,4c244882a852c928e8f5e26c
+2347,Yuba,1,Fast Food Restaurant,Burger King,4ee252402fb608f30ab31509
+2348,Yuba,1,Fast Food Restaurant,Burger King,4bb7c9de314e9521bab5479d
+2349,Yuba,1,Fast Food Restaurant,Taco Bell,4c57615f6201e21e171ea76e
+2350,Yuba,2,Bar,Silver Dollar Saloon,4bac190ef964a5201fe43ae3
+2351,Yuba,2,Bar,Bill's Place,4c55c6b1a724e21e7afea5f8
+2352,Yuba,2,Mexican Restaurant,Casa Carlos,4bc139b8920eb7138c841a2c
+2353,Yuba,2,American Restaurant,Hard Rock Cafe,5d7a0015eac9650008e919f8
+2354,Yuba,2,Asian Restaurant,Teriyaki House,4c60571c3986e21e55f8934f
+2355,Yuba,2,Coffee Shop,Starbucks,4d716c7a117e370481e99eb7
+2356,Yuba,2,Sushi Restaurant,Hikuni Sushi & Hibachi,4c1ec8b5b4e62d7f4bd7de93
+2357,Yuba,2,American Restaurant,Peach Tree Restaurant,4b8ebd44f964a5202a3433e3
+2358,Yuba,3,New American Restaurant,Jimboy's Tacos,4d4dc2c1773aa09028f23b55
+2359,Alpine,1,Pizza Place,Adriano's Pizza Grotto,4c3c2a73933b0f4793afe321
+2360,Alpine,1,Café,The Cafe At Viejas,505f47c2e4b0533a72865c66
+2361,Alpine,1,Mexican Restaurant,Salsa Mexican Food,4c1679dbdaf42d7f47394466
+2362,Alpine,1,Mexican Restaurant,Mañanas Mexican Food,4b4a90f6f964a520c08a26e3
+2363,Alpine,1,Breakfast Spot,Franco's Flapjack House,50e9cb94e4b06559db4d331b
+2364,Alpine,1,Seafood Restaurant,Rubio's Coastal Grill,4c3234d7a0ced13a54c3146e
+2365,Alpine,1,Mexican Restaurant,Al Panchos,4c48a705b5eec9b69d89b6a3
+2366,Alpine,1,Café,Caffe Adesso,4bacfb98f964a5201f213be3
+2367,Alpine,1,Mexican Restaurant,Tapatio's Mexican Grill & Seafood,4bc67a9a04e8b713822c362d
+2368,Alpine,1,Sandwich Place,SUBWAY,4cc7777bd77af04d0216a999
+2369,Alpine,1,Sandwich Place,SUBWAY,4bf850bdb182c9b6ba49775a
+2370,Alpine,1,Fast Food Restaurant,McDonald's,5063b55ae4b0366ff543ef17
+2371,Alpine,1,Mexican Restaurant,Alpine Taco Shop,4c5f5696832fa593e574edd3
+2372,Alpine,1,Snack Place,Wetzel's Pretzels,4bb68d892ea19521bbe3ab2f
+2373,Alpine,1,Sandwich Place,SUBWAY,4ba68a1ff964a5206e5c39e3
+2374,Alpine,1,Burger Joint,Fred's Old Fashion Burgers,4cb224ed1168a0939ddb3823
+2375,Alpine,1,Sushi Restaurant,Ahi-sushi,4c12de8da1010f47e4b84918
+2376,Alpine,1,Pizza Place,Little Caesars Pizza,4c3b5b9c4565e21e1e98566a
+2377,Alpine,1,Pizza Place,Pizza Hut,4c60007d3a3703bbb919e406
+2378,Alpine,1,Fried Chicken Joint,KFC,4d630eb2f71fb60c8a34234a
+2379,Alpine,2,American Restaurant,Alpine Beer Company Pub,5586fdd2498eca16c2d79c46
+2380,Alpine,2,Brewery,Alpine Beer Company,4c5f4a56cd522d7f27c1cb3f
+2381,Alpine,2,American Restaurant,Janet's Montana Cafe,4c0020b7f61ea593e35eeb13
+2382,Alpine,2,Mediterranean Restaurant,Mediteraneo,4b4c1519f964a52010ae26e3
+2383,Alpine,2,BBQ Joint,Alpine Tavern and Grill,4e83ce99775b5a11343a8a7a
+2384,Alpine,2,Coffee Shop,Starbucks,4bad28e9f964a52002343be3
+2385,Alpine,2,Restaurant,The Buffet - Viejas Casino,4bba8384935e952108462890
+2386,Alpine,2,Greek Restaurant,Greek Village Grill,4f748844e4b0da64dfca1e63
+2387,Alpine,2,Mexican Restaurant,La Carreta Mexican Restaurant,4c4b996246240f47739287f3
+2388,Alpine,2,Italian Restaurant,Donatos,4ba715e8f964a520068039e3
+2389,Alpine,2,Sushi Restaurant,Panda Machi,4bd50d28637ba593acf5f570
+2390,Alpine,2,BBQ Joint,Dickey's Barbecue Pit,5566854c498e553d32a0b0f3
+2391,Alpine,3,Lounge,V Lounge -Viejas Casino,4c32fe5616adc928fbe0c29c
+2392,Inyo,1,Coffee Shop,The Looney Bean,4b6dbd87f964a520528b2ce3
+2393,Inyo,1,Bakery,Great Basin Bakery,4e32d825d4c00077f65f3af8
+2394,Inyo,1,Coffee Shop,Black Sheep Coffee Roasters,4e5fb1ce52b16adb6c17c226
+2395,Inyo,1,Café,Alabama Hills Cafe,4c0927f2bbc676b0b1aa47d5
+2396,Inyo,1,Diner,Toll Road Restaurant,4efa99b06c25c411ee15f094
+2397,Inyo,1,Dive Bar,Jake's Saloon,4c71e6b6d944224ba1900b29
+2398,Inyo,1,Chinese Restaurant,Margie's Merry Go Round Restaurant,4b7b6b77f964a520cf622fe3
+2399,Inyo,1,Dessert Shop,Good Earth Yogurt,5749fe99498e446759321efc
+2400,Inyo,1,Fast Food Restaurant,El Pollo Loco,5822b36b10a3440b394c8065
+2401,Inyo,1,Mexican Restaurant,La Casita,4b9d7e88f964a52037b036e3
+2402,Inyo,1,Mexican Restaurant,Las Palmas,4bb54bea6edc76b03f972f1c
+2403,Inyo,1,Mexican Restaurant,Astorgas,4f1cb2d2e4b0c7ea69526ac3
+2404,Inyo,1,Coffee Shop,Lone Star Bistro,4d36335d26e0a1cd99b8679e
+2405,Inyo,1,Coffee Shop,Starbucks,4fc94576d4f24895b4467262
+2406,Inyo,1,Café,Still Life Cafe,4c3a8a485810a5937b5db93c
+2407,Inyo,1,Fast Food Restaurant,Carl's Jr. / Green Burrito,4c2a87a38abca593f9d4fe1f
+2408,Inyo,1,Fast Food Restaurant,Carl's Jr.,4c2a894c8ef52d7f040e30ba
+2409,Inyo,1,Café,Death Valley Internet Cafe,56881e8e498eef5e25d7ee61
+2410,Inyo,1,Café,Village Cafe,4ce17f1ef8cdb1f744039d12
+2411,Inyo,1,Pizza Place,Pizza Factory,4b40f468f964a52027be25e3
+2412,Inyo,1,Japanese Restaurant,Yamatani,4b80c646f964a520608b30e3
+2413,Inyo,1,Chinese Restaurant,Imperial Gourmet,4b941ab0f964a520626834e3
+2414,Inyo,1,Sandwich Place,SUBWAY,4d7d36a6ea35236a27506723
+2415,Inyo,1,Sandwich Place,SUBWAY,4bf442b6e5eba59336731f90
+2416,Inyo,1,Sandwich Place,Subway,4b7f6bfef964a520b52d30e3
+2417,Inyo,2,Bakery,Erick Schat’s Bakkery,4b26890ff964a5200e7d24e3
+2418,Inyo,2,Deli / Bodega,Mahogany Smoked Meats,4b3798d6f964a520c44225e3
+2419,Inyo,2,American Restaurant,Seasons,4b9c5d03f964a520d76236e3
+2420,Inyo,2,BBQ Joint,Copper Top BBQ,51f17e7f50193c37e5b493b0
+2421,Inyo,2,BBQ Joint,Holy Smoke BBQ,4f668ea1e4b0e78c028a53cb
+2422,Inyo,2,Diner,Jack's Restaurant,4c49d2453013a593ad9b44e3
+2423,Inyo,2,Brewery,Mountain Rambler Brewery,52e34dd2498efd5a1761c14e
+2424,Inyo,2,American Restaurant,Burger Barn,4ff7a738e4b0a7f740ca2768
+2425,Inyo,2,American Restaurant,The Grill,5365b0bb498e2b4b27f7c907
+2426,Inyo,2,Bar,Rusty's Saloon,4c2eba07a0ced13aad770f6e
+2427,Inyo,2,American Restaurant,Totem Cafe,4bf3650b706e20a17c3ea898
+2428,Inyo,2,American Restaurant,Timbisha Indian Tacos,56c38cadcd10f060c907f1c4
+2429,Inyo,2,American Restaurant,Sage,527da732498e5961245e19e9
+2430,Inyo,2,Mexican Restaurant,Amigos,4b3ffa77f964a5206bb325e3
+2431,Inyo,2,American Restaurant,Aaron Schat's Roadhouse,53c82c7f498ef985d00a3000
+2432,Inyo,2,American Restaurant,The Crowbar Cafe & Saloon,4c143e8a7f7f2d7f01a6e068
+2433,Inyo,2,Bar,Badwater Saloon,4d9bdbb7b8b2224b15398a55
+2434,Inyo,3,New American Restaurant,Whiskey Creek,57982b4c498ee8c0cd2cfef6
+2435,Mariposa,1,Café,Sugar Pine Cafe,4bae2e4cf964a520958e3be3
+2436,Mariposa,1,Ice Cream Shop,Yosemite Treats,55eb6672498e345b37d1887f
+2437,Mariposa,1,Café,Mariposa Coffee Company,4d1d8dbbc03c59411a5046cc
+2438,Mariposa,1,Coffee Shop,Pony Expresso,5208ff5a11d2a651c38cf9c9
+2439,Mariposa,1,Pub,Bett's Gold Coin,4e7d2d28d22d6329fbdfe58e
+2440,Mariposa,1,Pizza Place,Parkside Pizza,4fc2fd45e4b071420f45a6d0
+2441,Mariposa,1,Mexican Restaurant,Castillos Mexican Food,4e3064fb18a8172289a580ae
+2442,Mariposa,1,Sandwich Place,SUBWAY,4de5245fd22d2a4ece05849d
+2443,Mariposa,1,Fast Food Restaurant,Burger King,4b57b3fff964a520cd3c28e3
+2444,Mariposa,2,Resort,Yosemite Bug Rustic Mountain Resort,4c621ecfe1621b8d88ed2253
+2445,Mariposa,2,American Restaurant,1850 Brewery,51904702498eb76965c42c7a
+2446,Mariposa,2,Bar,The Alley,51296d45e4b0e08ef572b9fd
+2447,Mariposa,2,American Restaurant,June Bug Cafe,515f91c1e4b0ebb222e08983
+2448,Mariposa,2,Pizza Place,Pizza Factory,4c6ee09db5a5236aa8754b52
+2449,Mariposa,2,American Restaurant,Miner's Roadhouse 140,520fab7a2fc6592d0b666495
+2450,Mariposa,2,Bar,Hideout Saloon,4df6d3b87d8b5f396ac4719c
+2451,Mariposa,2,Burger Joint,Happy Burger Diner,4bfd4657e529c928f3a4ba8c
+2452,Mariposa,2,American Restaurant,The River Restaurant and Lounge,4debc30888774880e33e8cf0
+2453,Mariposa,3,Restaurant,Savoury's Restaurant,4b8093bdf964a520867e30e3
+2454,Mariposa,4,American Restaurant,Charles St. Dinner House,4c91a722ae45224b76e1e997
+2455,Modoc,1,Burger Joint,Harold's Frosty,4c376f0093db0f47bec61f92
+2456,Modoc,1,Sandwich Place,Subway,4cf2d5151d18a14389825cec
+2457,Modoc,1,Mexican Restaurant,El Agave Azul,4e666364aeb77c17bf3124f5
+2458,Modoc,1,Diner,Main Street Family Diner,4c793dac81bca0936b9cfc14
+2459,Modoc,1,Mexican Restaurant,Nacho's,53153f54498e4fe2af4a5f5c
+2460,Modoc,2,American Restaurant,Wagon Wheel Restaurant,4c7bc9df3badb1f7e3d65554
+2461,Modoc,2,Italian Restaurant,Antonoio's Cucina Italiana,4c425fc8ff711b8d1e821305
+2462,Mono,1,Diner,Nifty Nook Restaurant,4cb34e05c5e6a1cda6cdebf6
+2463,Mono,1,Sandwich Place,Subway,4c4c7e3b46240f47ba30e0f4
+2464,Mono,2,Restaurant,Globe Restaurant,4b75f225f964a5201f312ee3
+2465,Mono,2,Caribbean Restaurant,Mrs.D,521f791011d2eacd044cd912
+2466,Mono,3,Restaurant,Black Birch Restaurant,4e52e0a0b61ceccbe080c527
+2467,Mono,3,Hotel Bar,Babbo,50ddbedde4b03ac48c07f9be
+2468,Mono,3,Hotel Bar,Restaurant 85,4f232faae4b0717a6723166c
+2469,Sierra,1,Mexican Restaurant,Los Dos Hermanos,4bb00ffcf964a520c4343ce3
+2470,Sierra,1,Café,Two Rivers Cafe,508ae49ee4b032cef1a7b40a
+2471,Sierra,1,Mexican Restaurant,La Cocina De Oro,4fe68a52e4b079b3814f7355
+2472,Sierra,2,American Restaurant,Grey Eagle Lodge,4c510469d2a7c9b6dc867d10
+2473,Sierra,2,American Restaurant,Herrington's,501de85ee4b0c30286689891
+2474,Sierra,4,Steakhouse,Golden West Dining Saloon and Motel,5147a93be4b0fc4573c63b38
+2475,Trinity,1,Café,Twine Loft,55fd5d0d498e141bd7368522
+2476,Trinity,2,Restaurant,Trinity Mercantile,4f63785c0cd6efd2b0ed22c0
+2477,Trinity,2,Restaurant,Trinity Take-Out,520827cf11d2f773063d6a2d
+2478,Trinity,3,Seafood Restaurant,Dock Marina,51cf3fc9498ea1f46a76533e
